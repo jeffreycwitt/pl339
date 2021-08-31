@@ -6,6 +6,14 @@ function randomHexString(len) {
   return Array.from(bytes).map(byte => byte.toString(16)).join('');
 }
 
+function getUrlVar() {
+  var result = {};
+  var location = window.location.href.split('#');
+  var parts = location[0].replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+      result [key] = value;
+  });
+  return result;
+}
 /**
  * Simple client for authenticating with the Hypothesis API and making requests
  * to it.
@@ -192,13 +200,13 @@ class HypothesisAPIClient {
   async fetchAll() {
     const anns = [];
     let total = null;
-
+    const groupId = getUrlVar()["groupId"] || "JLnnd2r9"
     //while (total === null || anns.length < total) {
      // while (total === null || anns.length < 100) {
       const searchResult = await this.request('search', null, {
         offset: anns.length,
         limit: 100,
-        group: "i8V1nADX"
+        group: groupId
       });
 
       total = searchResult.total;

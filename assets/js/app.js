@@ -16,11 +16,13 @@ function parseUserid(userid) {
 }
 
 function isPrivate(ann) {
-  return !ann.permissions.read.some(p => !p.indexOf('group:i8V1nADX'));
+  const groupId = getUrlVar()["groupId"] || "JLnnd2r9"
+  return !ann.permissions.read.some(p => !p.indexOf('group:' + groupId));
 }
 
 function isInGroup(ann) {
-  return !ann.permissions.read.some(p => p.indexOf('group:i8V1nADX'));
+  const groupId = getUrlVar()["groupId"] || "JLnnd2r9"
+  return !ann.permissions.read.some(p => p.indexOf('group:' + groupId));
 }
 function isReply(ann) {
   return ann.hasOwnProperty("references")
@@ -36,6 +38,15 @@ function isDirect(ann) {
 function sortByCreation(a,b){
   return   new Date(a.created) - new Date(b.created)
 }
+
+function getUrlVar() {
+  var result = {};
+  var location = window.location.href.split('#');
+  var parts = location[0].replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+      result [key] = value;
+  });
+  return result;
+}
 /**
  * A simple JavaScript application which lets the user view some data about
  * their Hypothesis profile.
@@ -47,12 +58,20 @@ class App extends Component {
     this.client = new HypothesisAPIClient(DEFAULT_SERVICE_URL);
     
     const clientId = localStorage.getItem('hypothesis-client-id') || "d706d46c-d0dd-11ea-952d-2fceb4c84c47";
+    const groupId = getUrlVar()["groupId"] || "JLnnd2r9"
+    const groupName = getUrlVar()["groupName"] || "loyolatew2021" 
+    //class group i8V1nADX/philosophyofinfoandmedia
+    //TEW group JLnnd2r9 /  loyolatew2021
     localStorage.setItem('hypothesis-client-id', clientId);
     
     
     this.state = {
       // The OAuth client ID.
       clientId,
+      // The Group Id
+      groupId,
+      // the group name
+      groupName,
       // `true` if the user is currently logged in.
       isLoggedIn: false,
       // `true` if we're waiting for user to authorize app.
@@ -167,7 +186,11 @@ class App extends Component {
   }
   _renderProfileInfo() {
     const { userid, groups } = this.state.profile;
+    const groupId = this.state.groupId
+    const groupName = this.state.groupName
     const { username } = parseUserid(userid);
+
+    console.log(this.state.annotations)
 
     return h('div', {},
       // Profile info
@@ -195,7 +218,7 @@ class App extends Component {
       h('div', {},
         h('h2', {}, '100 Most Recent Annotations'),
         h('p', {}, 
-          h('a', {href: "https://hypothes.is/groups/i8V1nADX/philosophyofinfoandmedia", target: '_blank'}, "See Alternative View of Group"),
+          h('a', {href: "https://hypothes.is/groups/" + groupId + "/" + groupName, target: '_blank'}, "See Alternative View of Group"),
         ),
         this.state.annotationStats ? [
           h('div', {}, `Total: ${this.state.annotationStats.total}`),

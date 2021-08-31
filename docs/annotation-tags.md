@@ -15,6 +15,59 @@ If you want to suggest that a tag be added to this list, then just annotate this
 
 ## List of Known Tags
 
+<div id="nd" markdown="1">
+**nd** (needs discussion): While you should feel free to ask lots of open ended questions for yourself, for your classmates, and for me, sometimes there are particularly difficult concepts or ideas being introduced that you want to make sure we go over in our "in-person" class time together. Use the "nd" tag to highlight these areas and then make sure to focus 
+
+  <div>
+    <a class="view-annotations" data-tag='nd'>View 'nd' tags</a>
+    <div id="result-nd"  class="result" data-open='false'>
+    </div>
+  </div>
+</div>
+
+<div id="important" markdown="1">
+**important**: have you found something that seems really "important" to our class discussion? Then tag it as "important" and tell us why.
+
+  <div>
+    <a class="view-annotations" data-tag='important'>View 'important' tags</a>
+    <div id="result-important"  class="result" data-open='false'>
+    </div>
+  </div>
+</div>
+
+<div id="gc" markdown="1">
+
+**gc** (glossary candidate): You may come across words that seem technical and important and seem deserving of a glossary entry. By using the 'gc' tag you can identify a word or phrase for yourself and others to come back to when your ready to add an official glossary entry. 
+
+  <div>
+    <a class="view-annotations" data-tag='gc'>View 'gc' tags</a>
+    <div id="result-gc"  class="result" data-open='false'>
+    </div>
+  </div>
+</div>
+
+<div id="glossary" markdown="1">
+**glossary**: the glossary tag should be used for creating an official glossary entry for a key term has emerged in our reading our class discussion. Glossary annotation should be a bit more polished then other entries. Here want to build an official dictionary like list of terms. These entries should be substantive, interesting, and relevant to our course. 
+
+A second entry of the same word or phrase may be permissible, but it has to be justified. We don't want to fill our list with redundant entries. If you just want to add more information or a link to an existing entry, then go to the first annotation and add a reply. But if you think there is a second definition or valence to a word/phrase that justifies a second entry, then by all means add it. But your entry should justify your decision.
+
+  <div>
+    <a class="view-annotations" data-tag='glossary'>View 'glossary' tags</a>
+    <div id="result-glossary"  class="result" data-open='false'>
+    </div>
+  </div>
+</div>
+
+
+<div id="orality-pros-cons" markdown="1">
+**orality-pros-cons**: See [discussion thread](03-from-orality-to-litteracy.html#orality-pros-cons) 
+
+  <div>
+    <a class="view-annotations" data-tag='orality-pros-cons'>View 'orality-pros-cons' tags</a>
+    <div id="result-orality-pros-cons" class="result" data-open='false'>
+    </div>
+  </div>
+</div>
 <div id="does-medium-matter" markdown="1">
 **does-medium-matter**: See [discussion thread](02-the-medium-is-the-message.html#does-medium-matter) 
 
@@ -42,50 +95,6 @@ If you want to suggest that a tag be added to this list, then just annotate this
   <div>
     <a class="view-annotations" data-tag='feedback'>View 'feedback' tags</a>
     <div id="result-feedback" class="result" data-open='false'>
-    </div>
-  </div>
-</div>
-
-<div id="glossary" markdown="1">
-**glossary**: the glossary tag should be used for creating an official glossary entry for a key term has emerged in our reading our class discussion. Glossary annotation should be a bit more polished then other entries. Here want to build an official dictionary like list of terms. These entries should be substantive, interesting, and relevant to our course. 
-
-A second entry of the same word or phrase may be permissible, but it has to be justified. We don't want to fill our list with redundant entries. If you just want to add more information or a link to an existing entry, then go to the first annotation and add a reply. But if you think there is a second definition or valence to a word/phrase that justifies a second entry, then by all means add it. But your entry should justify your decision.
-
-  <div>
-    <a class="view-annotations" data-tag='glossary'>View 'glossary' tags</a>
-    <div id="result-glossary"  class="result" data-open='false'>
-    </div>
-  </div>
-</div>
-
-<div id="gc" markdown="1">
-
-**gc** (glossary candidate): You may come across words that seem technical and important and seem deserving of a glossary entry. By using the 'gc' tag you can identify a word or phrase for yourself and others to come back to when your ready to add an official glossary entry. 
-
-  <div>
-    <a class="view-annotations" data-tag='gc'>View 'gc' tags</a>
-    <div id="result-gc"  class="result" data-open='false'>
-    </div>
-  </div>
-</div>
-
-
-<div id="nd" markdown="1">
-**nd** (needs discussion): While you should feel free to ask lots of open ended questions for yourself, for your classmates, and for me, sometimes there are particularly difficult concepts or ideas being introduced that you want to make sure we go over in our "in-person" class time together. Use the "nd" tag to highlight these areas and then make sure to focus 
-
-  <div>
-    <a class="view-annotations" data-tag='nd'>View 'nd' tags</a>
-    <div id="result-nd"  class="result" data-open='false'>
-    </div>
-  </div>
-</div>
-
-<div id="orality-pros-cons" markdown="1">
-**orality-pros-cons**: See [discussion thread](03-from-orality-to-litteracy.html#orality-pros-cons) 
-
-  <div>
-    <a class="view-annotations" data-tag='orality-pros-cons'>View 'orality-pros-cons' tags</a>
-    <div id="result-orality-pros-cons" class="result" data-open='false'>
     </div>
   </div>
 </div>

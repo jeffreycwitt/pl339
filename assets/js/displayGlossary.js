@@ -1,3 +1,12 @@
+function getUrlVar() {
+  var result = {};
+  var location = window.location.href.split('#');
+  var parts = location[0].replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+      result [key] = value;
+  });
+  return result;
+}
+
 function displayGlossary(d, successData){
   // TODO: to really get a sorted glossary after 200 entries, we really need to do a "FetchALL" 
   // that gets  all the annotations in batches of 200 and then alphabetizes the results
@@ -6,7 +15,8 @@ function displayGlossary(d, successData){
   localStorage.setItem("hypothesis.oauth.hypothes%2Eis.token", JSON.stringify(refreshResponse));
   authorizationToken = refreshResponse.access_token;
   const url = "https://api.hypothes.is/api/search";
-  const data = { tag: successData.tag, group: "i8V1nADX", limit: 200, offset: 0 };
+  const groupId = getUrlVar()["groupId"] || "JLnnd2r9"
+  const data = { tag: successData.tag, group: groupId, limit: 200, offset: 0 };
   $.ajax({
     type: "POST",
     dataType: "json",

@@ -226,7 +226,7 @@ In this video, give close attention to how mundane physical structures are shapi
 
 <span class="respond"/> In the video, how was this idea captured in the distinction between "impairment" and "disability"
 
-<span class="respond"/> According to the video, why does a physical change as simple as mundane as "curb cuts" make such a big difference? How does it affect the self-conception of "disabled" people? How does it affect society's larger attitude toward "disabled people".
+<span class="respond"/> According to the video, why does a physical change as simple and mundane as "curb cuts" make such a big difference? How does it affect the self-conception of "disabled" people? How does it affect society's larger attitude toward "disabled people"?
 
 </div>
 
