@@ -15,7 +15,7 @@ function displayGlossary(d, successData){
   localStorage.setItem("hypothesis.oauth.hypothes%2Eis.token", JSON.stringify(refreshResponse));
   authorizationToken = refreshResponse.access_token;
   const url = "https://api.hypothes.is/api/search";
-  const groupId = getUrlVar()["groupId"] || "JLnnd2r9"
+  const groupId = getUrlVar()["groupId"] || "i8V1nADX"
   const data = { tag: successData.tag, group: groupId, limit: 200, offset: 0 };
   $.ajax({
     type: "POST",

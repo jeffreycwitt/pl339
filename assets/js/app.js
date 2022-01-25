@@ -16,12 +16,12 @@ function parseUserid(userid) {
 }
 
 function isPrivate(ann) {
-  const groupId = getUrlVar()["groupId"] || "JLnnd2r9"
+  const groupId = getUrlVar()["groupId"] || "i8V1nADX"
   return !ann.permissions.read.some(p => !p.indexOf('group:' + groupId));
 }
 
 function isInGroup(ann) {
-  const groupId = getUrlVar()["groupId"] || "JLnnd2r9"
+  const groupId = getUrlVar()["groupId"] || "i8V1nADX"
   return !ann.permissions.read.some(p => p.indexOf('group:' + groupId));
 }
 function isReply(ann) {
