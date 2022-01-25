@@ -200,7 +200,9 @@ class HypothesisAPIClient {
   async fetchAll() {
     const anns = [];
     let total = null;
-    const groupId = getUrlVar()["groupId"] || "JLnnd2r9"
+    // teaching workshop group: JLnnd2r9
+    // pl339 group i8V1nADX
+    const groupId = getUrlVar()["groupId"] || "i8V1nADX"
     //while (total === null || anns.length < total) {
      // while (total === null || anns.length < 100) {
       const searchResult = await this.request('search', null, {
