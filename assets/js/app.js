@@ -58,8 +58,8 @@ class App extends Component {
     this.client = new HypothesisAPIClient(DEFAULT_SERVICE_URL);
     
     const clientId = localStorage.getItem('hypothesis-client-id') || "d706d46c-d0dd-11ea-952d-2fceb4c84c47";
-    const groupId = getUrlVar()["groupId"] || "JLnnd2r9"
-    const groupName = getUrlVar()["groupName"] || "loyolatew2021" 
+    const groupId = getUrlVar()["groupId"] || "i8V1nADX"
+    const groupName = getUrlVar()["groupName"] || "PhilosophyOfInfoAndMedia" 
     //class group i8V1nADX/philosophyofinfoandmedia
     //TEW group JLnnd2r9 /  loyolatew2021
     localStorage.setItem('hypothesis-client-id', clientId);
