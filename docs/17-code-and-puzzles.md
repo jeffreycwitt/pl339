@@ -2,9 +2,9 @@
 layout: lecture
 title: "17: Code and the Puzzles of Cyberspace"
 nav_order: 17
-date: 2020-10-27
+date: 2024-03-19
 reading: ["PIHI9TSZ=>cc. 1-2"]
-published: true
+published: false
 ---
 
 ## Table of contents

@@ -2,8 +2,8 @@
 layout: lecture
 title: "12: Digital Editions"
 nav_order: 12
-published: true
-date: 2020-10-11
+published: false
+date: 2024-02-22
 ---
 
 ## Table of contents

@@ -3,8 +3,8 @@ layout: lecture
 title: "25: Freedom of speech and Polarization"
 nav_order: 25
 reading: [5RCLA4K6, MZSRQI53]
-date: 2020-11-29
-published: true
+date: 2024-04-18
+published: false
 ---
 
 ## Table of contents

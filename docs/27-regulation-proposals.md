@@ -1,10 +1,10 @@
 ---
 layout: lecture
-title: "28: Regulation Proposals"
-nav_order: 28
+title: "27: Regulation Proposals"
+nav_order: 27
 reading: [LPNNPZZI]
-date: 2020-12-08
-published: true
+date: 2024-04-25
+published: false
 ---
 
 # Sunstein: Regulation Ideas

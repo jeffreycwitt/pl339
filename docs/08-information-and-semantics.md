@@ -2,9 +2,9 @@
 layout: lecture
 title: "8: Information and Semantics"
 reading: ["F578UMXR=>recommended", "3JMTBWNW=>focus: pp. 1-8"]
-date: 2020-09-27
+date: 2024-02-08
 nav_order: 8
-published: true
+published: false
 ---
 <!-- reading: phil of info, c. 2; phil of info, c. 3 -->
 

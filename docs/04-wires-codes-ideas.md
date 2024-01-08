@@ -2,10 +2,10 @@
 layout: lecture
 title: "4: Wires, Codes, and New Ideas"
 reading: ["SN4EQIZ5=>cc. 4-5"]
-date: 2020-09-13
+date: 2024-01-25
 nav_order: 4
 watchtime: 20
-published: true
+published: false
 ---
 
 ## Table of contents

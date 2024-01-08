@@ -3,8 +3,8 @@ layout: lecture
 title: "22: Deliberative Democracy"
 nav_order: 22
 reading: ["SWWUUQXZ=>c. 2 (focus)", "GCYCSLUR"]
-date: 2020-11-15
-published: true
+date: 2024-04-09
+published: false
 ---
 
 

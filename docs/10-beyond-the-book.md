@@ -3,8 +3,8 @@ layout: lecture
 title: "10: Beyond the Book"
 nav_order: 10
 reading: ["JNA89KWB", "PYUMRPFD", "K5L5DYVS", "V2BN56HW", "KUZITWWR=>focus, first section, p. 83-86"]
-date: 2020-10-04
-published: true
+date: 2023-02-15
+published: false
 watchtime: 27
 ---
 <!-- bush,JNA89KWB ; nelson 0: PYUMRPFD, nelson 1 K5L5DYVS; nelson 2, V2BN56HW; zundert; KUZITWWR-->

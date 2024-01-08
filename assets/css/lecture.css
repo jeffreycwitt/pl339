@@ -1,0 +1,167 @@
+ 
+  body {
+    counter-reset: blockquote;
+  }
+
+  /* block quote and link */
+  svg.block-link{
+    height: 10px;
+    fill: #7253ed;
+  }
+  blockquote p {
+    display: inline;
+  }
+  blockquote p::before {
+  counter-increment: blockquote;
+  content: counter(blockquote) ": ";
+  }
+  blockquote a.quote-link {
+    display: inline;
+  }
+  .citation{
+    font-size: 12px;
+  }
+  
+  
+/* video discuss anchor */
+  .video {
+    border-left: 2px solid purple;
+    padding-left: 5px
+  }
+  .vda{
+    font-style: italic;
+    margin-top: 0px;
+    padding-top: 0px;
+  }
+  .vda::after{
+    content: "To discuss this video/image, highlight the 'discuss video/image anchor' text and annotate";
+    display: none;
+    font-size: 12px;
+    position: absolute;
+    background-color: black;
+    color: white;
+    box-shadow: 0px 1px 5px gray;
+    padding: 10px;
+    z-index: 1;
+    width: 400px;
+    opacity: .8;
+    
+  }
+  .vda:hover::after{
+    display: block;
+  }
+  /* example */
+  .example{
+    border-left: 2px solid purple;
+    padding-left: 5px
+  }
+  .example::before{
+    content: "Example: ";
+    /*display: block;*/
+    font-weight: bold;
+  }
+
+
+ /* discussion and respond */ 
+  .discussion{
+    border-left: 2px solid red;
+    padding-left: 5px
+  }
+
+  .discussion::before{
+    content: "Discussion: ";
+    /*display: block;*/
+    font-weight: bold;
+  }
+  .respond{
+    border-left: 2px solid green;
+    padding-left: 5px;
+  }
+  .respond::before{
+    content: "Respond: ";
+    font-style: italic;
+    font-weight: bold;
+  }
+  .respond::after{
+    content: "To respond generally to this discussion question, highlight the question prompt and then use the class annotation tool to leave your response. You can of course continue to highlight any part of the text and leave a comment specific to the selected text. You can also respond by directly annotating a comment already made by a classmate.";
+    display: none;
+    font-size: 12px;
+    position: absolute;
+    background-color: black;
+    color: white;
+    box-shadow: 0px 1px 5px gray;
+    padding: 10px;
+    z-index: 1;
+    width: 400px;
+    opacity: .8;
+    
+  }
+  .respond:hover::after{
+    display: block;
+  }
+
+
+/* question and rquestion (rhetorical question)*/
+.question, .rquestion, .dquestion{
+  border-left: 2px solid blue;
+  padding-left: 5px
+}
+  
+.question::before, .rquestion::before, .dquestion::before{
+  content: "Question: ";
+  display: block;
+  font-weight: bold;
+}
+  
+  .question::after{
+    /* content: "click on question to toggle possible response"; */
+    display: block;
+    /* position: absolute; */
+    /* background-color: black;
+    color: white;
+    box-shadow: 0px 1px 5px gray; */
+    /* padding: 5px; */
+    /* z-index: 1;
+    opacity: .8; */
+    font-size: 12px;
+  }
+  /* .question:hover::after{
+    display: block;
+  } */
+  .answer{
+    display: none;
+    /* visibility: hidden; */
+    border-left: 2px solid lightblue;
+    padding: 10px;
+    margin-left: 10px;
+    background-color: #f5f6fa;
+    margin-bottom: 20px;
+  }
+  
+  .answer::before{
+    content: "Possible Answer: ";
+    display: block;
+    font-weight: bold;
+  }
+  /* over view of reading time, etc */
+  .overview{
+    font-size: 12px;
+  }
+  
+  /* media query adjusts to play better with hypothesis side bar */
+
+  @media (min-width: 66.5rem) { .side-bar { flex-flow: column nowrap; position: fixed; width: 15.5rem; height: 100%; border-right: 1px solid #eeebee; align-items: flex-end; } }
+  @media (min-width: 66.5rem) { .main { position: relative; max-width: 50rem; margin-left: 16.5rem; } }  
+  @media (min-width: 66.5rem) { .main-content-wrap { padding-right: 2rem; padding-left: 2rem; } }
+  @media (min-width: 66.5rem) { .main-content-wrap { padding-top: 2rem; padding-bottom: 2rem; } }
+  @media (min-width: 66.5rem) { .main-header.nav-open { display: flex; } }
+  @media (min-width: 66.5rem) { .site-nav { display: block; padding-top: 3rem; padding-bottom: 1rem; overflow-y: auto; flex: 1 1 auto; } }
+  @media (min-width: 66.5rem) { .site-header { height: 3.75rem; max-height: 3.75rem; border-bottom: 1px solid #eeebee; } }
+  @media (min-width: 66.5rem) { .site-header .site-button { display: none; } }
+  @media (min-width: 66.5rem) { .site-nav { display: block; padding-top: 3rem; padding-bottom: 1rem; overflow-y: auto; flex: 1 1 auto; } }
+  @media (min-width: 66.5rem) { .site-title { padding-right: 2rem; padding-left: 2rem; } }
+  @media (min-width: 66.5rem) { .search { position: relative !important; width: auto !important; height: 100% !important; padding: 0; transition: none; } }
+  @media (min-width: 66.5rem) { .search-input-wrap { position: absolute; width: 100%; max-width: 33.5rem; height: 100% !important; border-radius: 0; box-shadow: none; transition: width ease 400ms; } }
+  @media (min-width: 66.5rem) { .search-label { padding-left: 2rem; transition: padding-left linear 200ms; } }
+  @media (min-width: 66.5rem) { .search-input { padding: 0.5rem 1rem 0.5rem 3.5rem; font-size: 0.875rem; background-color: #fff; transition: padding-left linear 200ms; } }
+  @media (min-width: 66.5rem) { .search-results { top: 100%; width: 33.5rem; max-height: calc(100vh - 200%) !important; } }

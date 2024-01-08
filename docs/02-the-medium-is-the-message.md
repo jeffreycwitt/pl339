@@ -1,11 +1,11 @@
 ---
 layout: lecture
 title: "2: The Medium is the Message"
-date: "2020-09-01"
+date: "2024-01-018"
 nav_order: 2
 reading: ["MZZ5E5RE"]
 watchtime: 20 
-published: true
+published: false
 ---
 
 ## Table of contents

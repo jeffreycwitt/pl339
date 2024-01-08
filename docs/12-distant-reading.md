@@ -1,10 +1,10 @@
 ---
 layout: lecture
-title: "13: Distant Reading and Distant Writing"
-reading: ["UDFASSFK=>focus 54-58", "YCUSFWXI=>focus pp. 207-219, 225-227", "BL386AX3=>focus, pp. 1-8, 15-16", "R29TCBQA=>focus, 'Introduction'", 'WXUV48X3', "EG5GDCPK", "HZSRCCAL", "4MXHYS44"]
-nav_order: 13
-date: 2020-10-13
-published: true
+title: "12: Distant Reading"
+reading: ["UDFASSFK=>focus 54-58", "YCUSFWXI=>focus pp. 207-219, 225-227", "BL386AX3=>focus, pp. 1-8, 15-16"]
+nav_order: 12
+date: 2024-02-22
+published: false
 ---
 
 <!-- conjectures on world literature, UDFASSFK; daily nous on GPT3 R29TCBQA; zimmerman WXUV48X3; Nguyen EG5GDCPK;  GPT-3 example 1, HZSRCCAL, GPT-3 example 2 4MXHYS44-->

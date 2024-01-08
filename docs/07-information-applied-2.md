@@ -2,8 +2,9 @@
 layout: lecture
 title: "7: Information Applied"
 reading: ["SN4EQIZ5=>cc. 8-10"]
+date: "2024-02-06"
 nav_order: 7
-published: true
+published: false
 ---
 
 ## Table of contents
@@ -11,8 +12,6 @@ published: true
 
 Student Presentations
 
-# Applications of Information Turn in Psychology (chapter 9)
-
 # Applications of Information Turn in Physics (chapter 9)
 
-# Applications of Information Turn in Biology (chapter 9 and 10 (maybe chapter 11))
+# Applications of Information Turn in Biology (10)

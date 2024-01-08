@@ -3,8 +3,8 @@ layout: lecture
 title: "24: Internet as Savior of Deliberative Democracy"
 reading: ["AVLEG7M6", "MTNERR8X", "GA4JUQUP", "3Q53BL69", "QBW8YNIE"]
 nav_order: 24
-date: 2020-11-22
-published: true
+date: 2024-04-16
+published: false
 ---
 <!-- reading barlow, AVLEG7M6; shapiro c. 1: MTNERR8X; shapiro, c. 3 GA4JUQUP; c. 4: 3Q53BL69; c. 5: QBW8YNIE -->
 

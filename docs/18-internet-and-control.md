@@ -3,8 +3,8 @@ layout: lecture
 title: "18: internet and control"
 reading: ["PIHI9TSZ=>cc. 3-5"]
 nav_order: 18
-date: 2020-11-01
-published: true
+date: 2024-03-21
+published: false
 ---
 
 ## Table of contents

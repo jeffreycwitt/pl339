@@ -3,8 +3,8 @@ layout: lecture
 title: "20: Translation and Latent Ambiguities"
 reading: ["PIHI9TSZ=>cc. 9-10"]
 nav_order: 20
-date: 2020-11-08
-published: true
+date: 2024-04-02
+published: false
 ---
 ## Table of contents
 {: .no_toc .text-delta } 

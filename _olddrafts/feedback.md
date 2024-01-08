@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Feedback"
+title: "Feedback test"
 ---
 
 # Course Feedback
