@@ -18,7 +18,7 @@ Nevertheless, I know that people will want some ground rules and metrics so that
 
 **Meeting expectations** (85/100 or B) means that a students will respond to at least one discussion block per course lesson and one will reply to at least one peer response. Your response/annotation should be "substantive, interesting, and relevant". (150-200 words is a good rule of thumb for what might count as a "substantive" response.) Meeting expectations includes the ability and willingness to discuss your annotations during our class session.
 
-**Exceeding expectations** score of 88 (B+) 90 (A-) or 93 (A)
+**Exceeding expectations** score of 90 (A-) or 95 (A) 
 
 Going beyond expectations could mean lots of things. It might mean responding to multiple questions and/or responding thoughtfully to several peer responses. It could mean adding several quick small annotations, marking places that would benefit from class discussion or raising new questions for the class. It could also mean adding new information to the discussion: creating links between related annotations or creating (and explaining) links to other related internet resources or readings. 
 
