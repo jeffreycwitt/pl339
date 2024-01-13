@@ -12,7 +12,8 @@ published: true
 
 {%- for node in sorted_ordered_pages_list -%}
   <div> 
-    <p>Reading: for <a href="{{ node.url | absolute_url }}">{{ node.nav_order }} </a>:</p> 
+    <h2>Reading for <a href="{{ node.url | absolute_url }}">Class {{ node.nav_order }}</a> ({{ node.date}}):</h2> 
+    <p>{{node.title}}</p>
     <ul>
       {%- for node2 in node.reading -%}
         <li class="reading" data-reading="{{node2}}"></li>
