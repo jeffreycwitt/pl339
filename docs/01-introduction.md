@@ -72,15 +72,13 @@ If you're not able to get working, we can discuss it during our live course time
 
 You can highlight and comment on any text within our course packet. If I say something, that is unclear, you should highlight it and note that it was unclear and why. If something seems interesting, you should highlight it and say why it is interesting. As your fellow class mates add annotations, feel free to respond directly to their annotations (create an annotation on their annotation!). 
 
-You should also feel free to liberally use tags (see our [annotation tags page](annotation-tags.html)) to help link discussions across pages and annotations.
+You should also feel free to liberally use tags to help link discussions across pages and annotations. You should do the same for our class readings that are available as PDF By reading these in the browser, you can use the annotation tool to annotate the text. 
 
-You should do the same for our class readings that are available as PDF By reading these in the browser, you can use that annotation tool to annotate the text. Annotation shared with our group will be visible to the entire class for discussion.
+Annotations shared with our group will be visible to the entire class for discussion.
 
-But the exciting thing is that you can use this tool almost anywhere on the web. If you're reading an article on wikipedia or the New York Times and it seems relevant to our class, you should annotate it, and it will get connected to our class discussion. Additionally, if you use a tag we are already using, then it will be even more closely connected to our class discussion.
+But even more exciting is that you can use this tool almost anywhere on the web. If you're reading an article on wikipedia or the New York Times and it seems relevant to our class, you should annotate it with the group, and it will get connected to our class discussion. To draw even more attention to material you've found, you can capture a link to your annotation and then share that link in page annotation or somewhere on the course notes. 
 
-Occasionally, some places in our course packet will be marked as **discussion**. These are targeted points that I am explicitly asking for you to join the discussion either by adding an annotation or responding to annotation made by someone else in the class. Sometimes, there will be a tag associated with a discussion. If we all use this tag, then we can continue this discussion anywhere on the web. Your annotations are **by no means** restricted to these discussions. You should feel free to annotation anywhere and everywhere. However, this is one place I'm asking everyone to join in. As you'll see, this will help simulate the kind of discussion we might normally have in a synchronous classroom environment. 
-
-These discussion will become a focal point for further live discussion when we meet together in person. 
+Occasionally, some places in our course packet will be marked as **discussion**. These are targeted points that I am explicitly asking for you to join the discussion either by adding an annotation or responding to annotation made by someone else in the class. These discussions will become a focal point for further live discussion when we meet together in person. But your annotations are **by no means** restricted to these discussions. You should feel free to annotate anywhere and everywhere on the course packet notes, on the course readings, or across the web. 
 
 So now that you've have the tool installed, let's try to use it, by highlighting the prompt question below and introducing yourself. 
 
@@ -109,19 +107,19 @@ We are living this transition first hand, thus we must turn to our own cognitive
 
 ## Two Guiding Course Questions. 
 
-With that said, let me turn to introduce the content of our course and let me do so by first offering two very high level questions that can help shape the direction our exploration takes. 
+With that said, let me turn to introducing the general structure of our course, and let me do so by first offering two very high level questions that can help shape the direction our exploration takes. 
 
 **First:**
 
 We are not the first to recognize the impact of media shifts. Many thinkers of the 20th century believed they were going through an enormous shift, unaware of the fact that, by comparison, the transitions to radio and television would appear as a mere blip in comparison to the changes of the 21st century.
 
-It was therefore, Marshal McLuhan, the media guru of super star status in the 1970's who argued that the "Medium is the Message". We will explore this claim in our next class. 
+It was therefore Marshal McLuhan, the media guru of super star status in the 1970's, who argued that the "Medium is the Message". We will explore this claim in our next class. 
 
-But in short McLuhan wanted to point out that the medium through which we receive information/message is not an innocuous means of transport. Rather the medium affects and shapes the ultimate message we receive.
+But in brief, McLuhan wanted to point out that the medium through which we receive information/message is not an innocuous means of transport. Rather the medium affects and shapes the ultimate message we receive.
 
-Said another way, we might say that media affects our consciousness. We cannot simply say that have an idea, and then we express that idea in a medium, from which the recipient then extracts that message. Rather McLuhan insist that medium of expression has determined or affected what consciousness thinks, and the medium of expression has determined or affected what message the recipient extracts.
+Said another way, the medium affects our consciousness. We cannot simply say that we have an idea, and then we express that idea in a medium, from which the recipient then extracts that same message. Rather McLuhan insist that the medium of expression has determined or affected what consciousness thinks, and the medium of expression has determined or affected what message the recipient extracts.
 
-We will operate with this as a working hypothesis through the semester. But taking this claim as a hypothesis, we should constantly be looking for evidence for and against this claim.
+We will operate with this as a working hypothesis throughout the semester. But taking this claim as a hypothesis, we should constantly be looking for evidence for and against it.
 
 Is it really true that medium affects consciousness in this way? Where do we see evidence for or against this claim?
 
@@ -157,25 +155,25 @@ There are no easy answers. But they are deep questions that I want us to continu
 
 With these broad questions in mind, let's turn to the general structure of our course. 
 
-I have divided our into three units.
+I have divided our course into three units.
 
-I. A history: We will read, from a historical point of view, about how the notion of information of has changed over time, ultimately leading us to the modern theory of information that some see as the beginning of the "informational turn".
+I. A history: We will read, from a historical point of view, about how the notion of information of has changed over time, ultimately leading us to the modern "theory of information" that some see as the beginning of the "informational turn".
 
 This will certainly be one confirmation of the McLuhan's hypothesis: as communications media have changed, so has our understanding of what information is. And as the 20th and 21st centuries have shown us, these changes in conceptual understanding have led to dramatic changes in our individual and social lives.
 
 II. The Text: Reading, Writing, and Thinking.
 
-While some of the pressing challenges raised by modern media are social (questions about freedom, privacy, property, etc.) I want to look first at a more personal set of questions, namely how are media shifts changing affecting some of our most personal and private activities: that of reading, writing, and thinking. Here will ask question like: what is a text? what does it mean to read? who is the author?
+While some of the pressing challenges raised by modern media are social (questions about freedom, privacy, property, etc.) I want to look first at a more personal set of questions, namely how are media shifts changing affecting some of our most personal and private activities: that of reading, writing, and thinking. Here will ask question like: what is a text? what does it mean to read? who is the author? what does it mean to write and to what extent is this a valuable skill?
 
-Some thinkers have suggested that the notion of private reading only emerged in the modern period with the invention of print, giving rise to a uniquely modern preoccupation with the self. I want to explore this impact and how 21st century media are changing the nature of reading and information consumption, for good or ill.
+Some thinkers have suggested that the notion of private reading only emerged in the modern period with the invention of print, giving rise to a uniquely modern preoccupation with the self. I want to explore this impact and how 21st century media are changing the nature of reading and writing (information consumption and creation), for good or ill.
 
-III. Finally, I want to look at the social impact of media shifts by exploring the notion of public sphere. As Habermas notes, the concept of a "public sphere" and "deliberative democracy" is a uniquely modern phenomenon, again made possible through a particular form of media, the printing press. 
+III. Finally, I want to look at the social impact of media shifts by exploring the notion of public sphere. As Jürgen Habermas notes, the concept of a "public sphere" and "deliberative democracy" is a uniquely modern phenomenon, again made possible through a particular form of media, the printing press. 
 
-Here we will want to explore what the public sphere is and the impact of 21st century media on it. Some have heralded the Internet as true medium of democracy while others worry that Internet, with its vast scale and filtering capabilities, is drowning out the possibility of effective deliberation. Here again, we will want to evaluate if and why a "public sphere" ought to be valued, and the degree to which 21st media can benefit or harm the public sphere. 
+Here we will want to explore what the public sphere is and the impact of 21st century media on it. Some have heralded the Internet as true medium of democracy while others worry that the Internet, with its vast scale and filtering capabilities, is drowning out the possibility of effective deliberation. Here again, we will want to evaluate if and why a "public sphere" ought to be valued and the degree to which 21st media can benefit or harm the public sphere. 
 
 ## Syllabus, Assignments, and Expectations. 
 
-At this point, I'd like you to look over our [official class syllabus](https://moodle.loyola.edu/pluginfile.php/2376088/mod_resource/content/1/PhilosophyInformationMedia-2020-08-27.pdf), the assignments, and expectations. 
+At this point, I'd like you to look over our [official class syllabus](https://jeffreycwitt.com/teaching/PhilosophyInformationMedia/), the assignments, and expectations. 
 
 If you were able to get the hypothesis annotation tool working in your browser, then, if you have questions, you can annotate directly on the syllabus. 
 
