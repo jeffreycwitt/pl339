@@ -24,4 +24,4 @@ Going beyond expectations could mean lots of things. It might mean responding to
 
 In general it means "leaning in" to the spirit of exercise and helping to elevate the quality of the class discussion.
  
-A participation grade will be marked at the end of each of our 3 units. Each mark will represent the average over the classes within the unity. Because I know everyone has busy weeks, I'll drop the lowest mark within each grading period. Effectively this means, if I'm giving you three participation passes to use (one per unit) when things get busy or you need to turn your attention elsewhere.
+A participation grade will be marked at the end of each of our 3 units. Each mark will represent the average over the classes within the unity. Because I know everyone has busy weeks, I'll drop the lowest mark within each grading period. Effectively this means, if I'm giving you three "annotation participation passes" to use (one per unit) when things get busy or you need to turn your attention elsewhere.
