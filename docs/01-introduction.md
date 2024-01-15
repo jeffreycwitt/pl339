@@ -93,7 +93,8 @@ Here's a video of how I do it.
 
 So it's now its your turn. I want to hear about you and why you chose this course. Using the hypothesis annotation tool, answer the following question.
 
-<span class="respond"/> This is an elective course, so presumably you "chose it" because it was of interest to you. So who are you and what was it about the title or description of the course that struck your interest? 
+{:.rquestion} 
+This is an elective course, so presumably you "chose it" because it was of interest to you. So who are you and what was it about the title or description of the course that struck your interest? 
 
 </div>
 
