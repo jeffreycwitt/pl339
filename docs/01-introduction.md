@@ -47,7 +47,7 @@ Now that I've introduced myself, I want you to introduce yourself. But before yo
 
 This course is going to have a lot to say about how we think about texts, how we read and write, and how the various media we use to do these actions shape and determine the pathways we find. 
 
-Not only are we going to read about these different pathways, but we will also experiment and practice them. One way we're going to do this in this course is by using an annotation tool called "hypothes.is". Hypothes.is is tool inspired by the possibilities of the web for inter-linked non-linear, multi sequence thinking. In fact in their promotional video, they refer to a paper by Vannevar Bush that we are going to read in [lesson 10](10-Bush-Nelson.html). Watch their video below. 
+Not only are we going to read about these different pathways, but we will also experiment and practice them. One way we're going to do this in this course is by using an annotation tool called "hypothes.is". Hypothes.is is tool inspired by the possibilities of the web for inter-linked non-linear, multi sequence thinking. In fact in their promotional video, they refer to a paper by Vannevar Bush that we are going to read later in the course. Watch their video below. 
 
 <div class="video">
 <iframe width="720" height="405" src="https://www.youtube.com/embed/QCkm0lL-6lc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -61,7 +61,7 @@ But to do this we need to set up a few things ([as described by hypothes.is](htt
 1. Set up hypothesis account so your annotations can be saved.
 2. Add the chrome browser extension or (for use in other browsers) drag the "hypothesis bookmarklet" to your bookmark bar. 
   * Using Chrome is recommended so that we can all have a consistent experience, and so that I can more easily help you.
-  * The hypothesis annotation script will also work for our class PDF readings, but this will mean you will want to open and read these PDFs in your chrome browser.
+  * The hypothesis annotation script will also work for our class PDF readings, but this will mean you will need to open and read these PDFs in your chrome browser.
 3. Finally, I will distribute a [link through moodle](https://moodle.loyola.edu/mod/url/view.php?id=3899393) allowing you to join our "private" hypothesis group so that our annotations will be visible to each other, but will not be made public to the world. 
 
 We will have ample time to discuss how this tool is working throughout our course. But for now, I ask that you give it a try and then "lean" into it, so that we allow it to help us create a vibrant connected discussion around common texts. 
@@ -72,15 +72,15 @@ If you're not able to get working, we can discuss it during our live course time
 
 You can highlight and comment on any text within our course packet. If I say something, that is unclear, you should highlight it and note that it was unclear and why. If something seems interesting, you should highlight it and say why it is interesting. As your fellow class mates add annotations, feel free to respond directly to their annotations (create an annotation on their annotation!). 
 
-You should also feel free to liberally use tags to help link discussions across pages and annotations. You should do the same for our class readings that are available as PDF By reading these in the browser, you can use the annotation tool to annotate the text. 
+You should also feel free to liberally use tags to help link discussions across pages and annotations. You should do the same for our class readings that are available as PDF. By reading these in the browser, you can use the annotation tool to annotate the text. 
 
 Annotations shared with our group will be visible to the entire class for discussion.
 
-But even more exciting is that you can use this tool almost anywhere on the web. If you're reading an article on wikipedia or the New York Times and it seems relevant to our class, you should annotate it with the group, and it will get connected to our class discussion. To draw even more attention to material you've found, you can capture a link to your annotation and then share that link in page annotation or somewhere on the course notes. 
+But even more exciting is that you can use this tool almost anywhere on the web. If you're reading an article on wikipedia or the New York Times and it seems relevant to our class, you should annotate it with the group, and it will get connected to our class discussion. To draw even more attention to material you've found, you can capture a link to your annotation and then share that link in a page annotation or somewhere on the course notes. 
 
-Occasionally, some places in our course packet will be marked as **discussion**. These are targeted points that I am explicitly asking for you to join the discussion either by adding an annotation or responding to annotation made by someone else in the class. These discussions will become a focal point for further live discussion when we meet together in person. But your annotations are **by no means** restricted to these discussions. You should feel free to annotate anywhere and everywhere on the course packet notes, on the course readings, or across the web. 
+Occasionally, some places in our course packet will be marked as **discussion**. These are targeted points that I am explicitly asking for you to join the discussion either by adding an annotation or responding to an annotation made by someone else in the class. These discussions will become a focal point for further live discussion when we meet together in person. But your annotations are **by no means** restricted to these discussions. You should feel free to annotate anywhere and everywhere on the course packet notes, on the course readings, or across the web. 
 
-So now that you've have the tool installed, let's try to use it, by highlighting the prompt question below and introducing yourself. 
+So now that you've have the tool installed, let's try to use it by highlighting the prompt question below and introducing yourself. 
 
 Here's a video of how I do it. 
 
@@ -91,7 +91,7 @@ Here's a video of how I do it.
 
 <div class="discussion" markdown="1">
 
-So it's now its your turn. I want to hear about you and why you chose this course. Let's do this using some of the course tools we're going to use in this course. Using the hypothesis annotation tool, answer the following question.
+So it's now its your turn. I want to hear about you and why you chose this course. Using the hypothesis annotation tool, answer the following question.
 
 <span class="respond"/> This is an elective course, so presumably you "chose it" because it was of interest to you. So who are you and what was it about the title or description of the course that struck your interest? 
 
@@ -99,7 +99,7 @@ So it's now its your turn. I want to hear about you and why you chose this cours
 
 # Course Overview
 
-In preparing this course, I've focused on preparing a set of readings, exercises, and questions that can evoke a conversation that will be useful to your own exploration. But I will be a co-researcher/investigators with you. I do not always have answers for you to simply absorb, in large part because the field is so new and so rapidly evolving that we haven't even yet found the right or pertinent questions for the topic at hand.
+In preparing this course, I've focused on preparing a set of readings, exercises, and questions that can evoke a conversation that will be useful to your own exploration. But I will be a co-researcher/investigators with you. I do not always have answers for you to simply absorb in large part because the field is so new and so rapidly evolving that we haven't even yet found the right or pertinent questions for the topic at hand.
 
 We know that we are living through one of the greatest media shifts human history has ever experienced. But there is no textbook or map for appreciating this transition because no one has ever lived through it before. 
 
@@ -117,7 +117,7 @@ It was therefore Marshal McLuhan, the media guru of super star status in the 197
 
 But in brief, McLuhan wanted to point out that the medium through which we receive information/message is not an innocuous means of transport. Rather the medium affects and shapes the ultimate message we receive.
 
-Said another way, the medium affects our consciousness. We cannot simply say that we have an idea, and then we express that idea in a medium, from which the recipient then extracts that same message. Rather McLuhan insist that the medium of expression has determined or affected what consciousness thinks, and the medium of expression has determined or affected what message the recipient extracts.
+Said another way, the medium affects our consciousness. We cannot simply say that we have an idea and then we express that idea in a medium from which the recipient then extracts that same message. Rather McLuhan insist that the medium of expression has determined or affected what consciousness thinks, and the medium of expression has determined or affected what message the recipient extracts.
 
 We will operate with this as a working hypothesis throughout the semester. But taking this claim as a hypothesis, we should constantly be looking for evidence for and against it.
 
@@ -131,7 +131,7 @@ In the midst of a shift as momentous as this one, we not only want to observe th
 
 What benefits are at risk of being lost through a given media shift, what benefits are to be gained? 
 
-How ought we to measure the pros against the cons, and how might this advise us going forward, when we as humans choose to use one medium over another. 
+How ought we to measure the pros against the cons, and how might this advise us going forward when we as humans choose to use one medium over another. 
 
 The question is, however, made paradoxical by our initial hypothesis.
 
@@ -139,7 +139,7 @@ If the dominant medium shapes our consciousness, then how is it possible to see 
 
 If a given medium encourages certain patterns of thought, then this will develop into a norm or nature to be valued and preserved. What threatens this pattern will be seen as bad, not necessarily because it is "absolutely bad" but because it threatens the values shaped by the current dominant media form.
 
-In short, how we can we ever judge the pros/cons form a neutral standpoint? Won't our evaluations simply confirm what our habituation to a given medium prefers? 
+In short, how we can we ever judge the pros/cons from a neutral standpoint? Won't our evaluations simply confirm what our habituation to a given medium prefers? 
 
 Or is it possible that, with enough reflection and effort, we can get a peek outside of the world-view shaped by our dominant environment to glimpse independent and universal truths about human nature? Is it possible to see some eternal values or goods that exist apart from the world in which we live; values which can direct or guide the choices we make about media based on the degree to which a given medium promotes or discourages such eternal or fixed values. 
 
@@ -157,15 +157,15 @@ With these broad questions in mind, let's turn to the general structure of our c
 
 I have divided our course into three units.
 
-I. A history: We will read, from a historical point of view, about how the notion of information of has changed over time, ultimately leading us to the modern "theory of information" that some see as the beginning of the "informational turn".
+I. A history: We will read, from a historical point of view, about how the notion of information has changed over time, ultimately leading us to the modern "theory of information" that some see as the beginning of the "informational turn".
 
 This will certainly be one confirmation of the McLuhan's hypothesis: as communications media have changed, so has our understanding of what information is. And as the 20th and 21st centuries have shown us, these changes in conceptual understanding have led to dramatic changes in our individual and social lives.
 
 II. The Text: Reading, Writing, and Thinking.
 
-While some of the pressing challenges raised by modern media are social (questions about freedom, privacy, property, etc.) I want to look first at a more personal set of questions, namely how are media shifts changing affecting some of our most personal and private activities: that of reading, writing, and thinking. Here will ask question like: what is a text? what does it mean to read? who is the author? what does it mean to write and to what extent is this a valuable skill?
+While some of the pressing challenges raised by modern media are social (questions about freedom, privacy, property, etc.) I want to look first at a more personal set of questions, namely how are media shifts changing affecting some of our most personal and private activities: that of reading, writing, and thinking. Here we will ask questions like: what is a text? what does it mean to read? who is the author? what does it mean to write and to what extent is this a valuable skill?
 
-Some thinkers have suggested that the notion of private reading only emerged in the modern period with the invention of print, giving rise to a uniquely modern preoccupation with the self. I want to explore this impact and how 21st century media are changing the nature of reading and writing (information consumption and creation), for good or ill.
+Some thinkers have suggested that the notion of private reading only emerged in the modern period with the invention of print, giving rise to a uniquely modern preoccupation with the self. I want to explore this impact and how 21st century media are changing the nature of reading and writing (information consumption and information creation), for good or ill.
 
 III. Finally, I want to look at the social impact of media shifts by exploring the notion of public sphere. As Jürgen Habermas notes, the concept of a "public sphere" and "deliberative democracy" is a uniquely modern phenomenon, again made possible through a particular form of media, the printing press. 
 
@@ -174,8 +174,6 @@ Here we will want to explore what the public sphere is and the impact of 21st ce
 ## Syllabus, Assignments, and Expectations. 
 
 At this point, I'd like you to look over our [official class syllabus](https://jeffreycwitt.com/teaching/PhilosophyInformationMedia/), the assignments, and expectations. 
-
-If you were able to get the hypothesis annotation tool working in your browser, then, if you have questions, you can annotate directly on the syllabus. 
 
 While looking over the syllabus, you might also look over the [Annotation Participation Expectations and Rubric](annotation-expectations.html). Again, feel free to annotate directly.
 
