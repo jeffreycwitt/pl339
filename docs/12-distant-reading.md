@@ -1,7 +1,7 @@
 ---
 layout: lecture
 title: "12: Distant Reading"
-reading: ["UDFASSFK=>focus 54-58", "YCUSFWXI=>focus pp. 207-219, 225-227", "BL386AX3=>focus, pp. 1-8, 15-16"]
+reading: ["UDFASSFK=>focus 54-58", "YCUSFWXI=>focus pp. 207-219, 225-227", "BL386AX3=>focus: pp. 1-8, 15-16"]
 nav_order: 12
 date: 2024-02-22
 published: false

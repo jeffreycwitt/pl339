@@ -1,7 +1,7 @@
 ---
 layout: lecture
 title: "8: Information and Semantics"
-reading: ["F578UMXR=>recommended", "3JMTBWNW=>focus: pp. 1-8"]
+reading: ["F578UMXR=>recommended", "3JMTBWNW=>focus: pp. 43-50"]
 date: 2024-02-08
 nav_order: 8
 published: false

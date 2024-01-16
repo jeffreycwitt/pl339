@@ -58,28 +58,19 @@ $(document).ready(function(){
       $(".question").next(".answer").css("display", "block");
     }
     else {
-    $(".question").append("<span style='display: block; font-size: 12px'>click on question to toggle a possible response</span>")
+    $(".question").append("<span class='question-trigger' style='display: block; font-size: 12px'>click to toggle a possible response</span>")
 
-
-  // $(".question").click(function(){
-  //   /* $(this).next(".answer").toggle();*/
-  //   if ($(this).next(".answer").css("visibility") === "visible"){
-  //     $(this).next(".answer").css("visibility", "hidden");
-  //   }
-  //   else{
-  //     $(this).next(".answer").css("visibility", "visible");
-  //   }
-
-  $(".question").click(function(){
-    /* $(this).next(".answer").toggle();*/
-    if ($(this).next(".answer").css("display") === "block"){
-      $(this).next(".answer").css("display", "none");
-    }
-    else{
-      $(this).next(".answer").css("display", "block");
-    }
-  });
-}
+  
+    $(".question-trigger").click(function(){
+      /* $(this).next(".answer").toggle();*/
+      if ($(this).parent().next(".answer").css("display") === "block"){
+        $(this).parent().next(".answer").css("display", "none");
+      }
+      else{
+        $(this).parent().next(".answer").css("display", "block");
+      }
+    });
+  }
   getReadingTime();
 
   
