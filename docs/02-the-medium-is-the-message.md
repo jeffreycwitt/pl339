@@ -142,7 +142,8 @@ What might be some reasons to think that it **does** matter?
 Let's consider how  McLuhan might respond. In response to Sarnoff, he writes: 
 
 {:#it-has-never-occurred}
-> "It has never occurred to General Sarnoff that technology could do anything but add itself to we already are". <span class="citation" data-reading="MZZ5E5RE=>p. 12" data-annotation="https://hyp.is/-N6r1OvyEeqUK2_dyLEpeQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/McLuhan_2001_The_Medium_is_the_Message.pdf"/>
+> "It has never occurred to General Sarnoff that technology could do anything but add itself to we already are". <span class="citation" data-reading="MZZ5E5RE=>p. 12" data-annotation="https://hyp.is/BCZLsrTOEe6TD-8wDxD-cg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/McLuhan_2001_The_Medium_is_the_Message.pdf"/>
+
 
 He describes Sarnoff as being asleep or in a kind of hypnosis. 
 
