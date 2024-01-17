@@ -5,7 +5,7 @@ date: 2024-01-18
 nav_order: 2
 reading: ["MZZ5E5RE"]
 watchtime: 20 
-published: false
+published: true
 ---
 
 ## Table of contents
@@ -27,15 +27,18 @@ Finally, as we continue to think about McLuhan's thesis, I want to look at paral
 
 # McLuhan: The Medium is the Message
 
-Let's start with a video clip of McLuhan himself and a related clip that try to point at the central import of his claim "the medium is the message". 
-
-(Note: if you want to annotate anything from these videos, use the associated discuss video anchor)
+Let's start with two video clips: one that includes McLuhan himself and a related clip that tries to summarize the central import of his claim "the medium is the message". 
 
 <div class="video">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ImaH51F4HBw?start=118&end=268" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>(Watch from the beginning to 4min25sec; but it is a longer documentary so feel free to watch more if you like)</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cFwVCHkL-JU?start=0&end=265s" frameborder="0" allowfullscreen></iframe>
 <!-- possible clip (https://youtu.be/ImaH51F4HBw?t=118) (1:58 to about 4:28) (includes mention refrain from value judgement)  -->
 <p class="vda">discuss video anchor</p>
 </div>
+
+
 
 <div class="video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OseOb_wBsi4?t=77" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -66,15 +69,15 @@ Sarnoff aims to critique technological pessimists who blame technological advanc
 Consider what Sarnoff's says as quoted by McLuhan:
 
 {:#the-products-of}
-> "The products of modern science are not good or bad: it is the way they are used that determines their value." <span class="citation" data-reading="MZZ5E5RE=>p. 11" data-annotation="https://hyp.is/R61MDuu6Eeq-KccKArW45Q/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/McLuhan_2001_The_Medium_is_the_Message.pdf"/>
+> "The products of modern science are not good or bad: it is the way they are used that determines their value." <span class="citation" data-reading="MZZ5E5RE=>p. 11" data-annotation="https://hyp.is/oyiklrTMEe6t4LO60SnArg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/McLuhan_2001_The_Medium_is_the_Message.pdf"/>
 
 We see this position criticized again in McLuhan's critique of Toynbee:
 
 {:#arnold-toynbee}
-> "Arnold Toynbee is innocent of any understanding of media as they have shaped history’ but he is full of examples that the student of media can use. At one moment he can seriously suggest that adult education, such as the Workers Educational Association in Britain, is a useful counterforce to the popular press. Toynbee considers that although all of the oriental societies have in our time accepted the industrial technology and its political consequences: “On the cultural plane, however, there is no uniform corresponding tendency.” (Somervell, I. 267) This is like the voice of the literate man, floundering in a milieu of ads, who boasts, “Personally, I pay no attention to ads.” The spiritual and cultural reservations that the oriental peoples may have toward our technology will avail them not at all. The effects of technology do not occur at the level of opinions or concepts, but alter sense ratios or patterns of perception steadily and without any resistance. The serious artist is the only person able to encounter technology with impunity, just because he is an expert aware of the changes in sense perception." <span class="citation" data-reading="MZZ5E5RE=>p. 19" data-annotation="https://hyp.is/qv0ZiOu6Eeq_YrM-Si5ZFw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/McLuhan_2001_The_Medium_is_the_Message.pdf"/>
+> "Arnold Toynbee is innocent of any understanding of media as they have shaped history, but he is full of examples that the student of media can use. At one moment he can seriously suggest that adult education, such as the Workers Educational Association in Britain, is a useful counterforce to the popular press. Toynbee considers that although all of the oriental societies have in our time accepted the industrial technology and its political consequences: “On the cultural plane, however, there is no uniform corresponding tendency.” (Somervell, I. 267) This is like the voice of the literate man, floundering in a milieu of ads, who boasts, “Personally, I pay no attention to ads.” The spiritual and cultural reservations that the oriental peoples may have toward our technology will avail them not at all. The effects of technology do not occur at the level of opinions or concepts, but alter sense ratios or patterns of perception steadily and without any resistance. The serious artist is the only person able to encounter technology with impunity, just because he is an expert aware of the changes in sense perception." <span class="citation" data-reading="MZZ5E5RE=>p. 19" data-annotation="https://hyp.is/3CQuvrTMEe6Zilc-6H4TbA/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/McLuhan_2001_The_Medium_is_the_Message.pdf"/>
 
 
-With respect to this quotation: consider the following questions: 
+With respect to this quotation, consider the following questions: 
 
 {:.question}
 What is the criticism of Toynbee here?
@@ -88,7 +91,7 @@ What do you think he means to suggest with his last line about the "serious arti
 <div class="answer" markdown="1">
 This is a cryptic suggestion, but it is worth hanging on to, and I think it might justify and encourage some of the critical reflection we aim to undertake this semester. If the medium is the message, then most of the time we operate **within** the categories created by that medium.
 
-However, fact that media shifts, paradigm shifts, or revolutions occur, requires that despite the power of the dominant medium people are still able to find a way to **think outside the box**, outside the categories created or enforced by the medium. 
+However, the fact that media shifts, paradigm shifts, or revolutions occur, requires that despite the power of the dominant medium people are still able to find a way to **think outside the box**, outside the categories created or enforced by the medium. 
 
 This might be important for us: If we want to shape the future, rather than be completely shaped by it, then, according to McLuhan, "the serious artist" is in some way an exemplar to be imitated.
 </div>
@@ -102,7 +105,7 @@ Because this is exactly the epistemic position on the part of the consumer that 
 
 The person who says they are unaffected by ads is precisely the person who has been so thoroughly influenced by them that they no longer see them. 
 
-But no longer consciously seeing adds is not the same thing as not being affected by them. The person who no longer "sees" them is the person who is absorbing their content at deeper sub-conscious level. 
+But no longer consciously seeing adds is not the same thing as not being affected by them. The person who no longer "sees" them is the person who is absorbing their content at a deeper sub-conscious level. 
 
 In contrast, it is those most unfamiliar with their presence that would be most alert to their jarring presence.
 
@@ -117,24 +120,20 @@ Here's an example I found recently from a [comment](https://www.nytimes.com/2018
 
 # Consider the Objections
 
-Before exploring McLuhan's counter position, I think it will be helpful for a moment and given Sarnoff, Toynbee, and the NYTimes commenter, the benefit of the doubt. 
-
-
 <div id="does-medium-matter" class="discussion" markdown="1">
 
-Do I care whether a rug is made by a machine? Do I care whether a nail is hammered by a rock, a hammer, or a nail gun?
+Before exploring McLuhan's counter position, I think it will be helpful for a moment and given Sarnoff, Toynbee, and the NYTimes commenter, the benefit of the doubt. 
 
-Do I care whether I get a new report over the radio, over television, or in a newspaper?
-
-Do I care if read a novel or listen to an audio book?
+Do I care whether a rug is made by a machine? Do I care whether a nail is hammered by a rock, a hammer, or a nail gun? Do I care whether I get a news report over the radio, over television, or in a newspaper? Do I care if read a novel or listen to an audio book?
 
 If the message is the same, who cares?
 
-<span class="respond"/> With respect to the above examples, what might be some reasons to think that the medium **does not matter** as Sarnoff suggests?
+{:.rquestion}
+With respect to the above examples, what might be some reasons to think that the medium **does not matter** as Sarnoff suggests?
 
-<span class="respond"/> What might be some reasons to think that it **does** matter?
+{:.rquestion}
+What might be some reasons to think that it **does** matter?
 
-Before going further, add your reaction to these questions using our class annotation tool.
 
 </div>
 
@@ -167,7 +166,7 @@ In this regard, we no longer see this medium or technology as an "artificial ext
 
 # Marx and Ruling Ideas
 
-In many ways McLuhan's analysis is parallel to Marx's account of the peculiar characteristics of "Ruling Ideas" which distinguish themselves from the ideas of other classes because they are experienced **not** as ideas belong to a class, but as the Norm, the Moral, the Rational, and the Natural. 
+In many ways McLuhan's analysis is parallel to Marx's account of the peculiar characteristics of "Ruling Ideas" which distinguish themselves from the ideas of other classes because they are experienced **not** as ideas belonging to a class, but as the Norm, the Moral, the Rational, and the Natural. 
 
 Marx write:
 
@@ -187,7 +186,7 @@ What implications does this have for how a culture might welcome (or reject) a n
 {:.answer}
 If a new technology/medium is introduced which runs counter to the dominant medium it likely will be seen as something more "sinister" than merely an alternative. Rather, it may be seen as a threat to a way of life; a threat to certain values; and threat to certain abilities that are regarded as "essential" or "normal" to human life. 
 
-*You might keep an eye out for this reaction when we consider certain criticism of new media and worries about the loss of book culture.*
+*You might keep an eye out for this reaction when we consider certain criticisms of new media and worries about the loss of book culture.*
 
 # Marx 'Life Determines Consciousness'
 
@@ -205,7 +204,7 @@ Namely, that we first have ideas and then we act, build, live, etc.
 
 In McLuhan's terms, it might be: we first have an idea or message, and then we simply pass that message along through a medium.
 
-Marx's wants to say what actually happens is more complicated. Our belief in the development of pure ideas or messages is naive. We might identify this belief as one of the "extreme contingency" which suggest I'm in complete control of my thoughts. 
+Marx's wants to say what actually happens is more complicated. Our belief in the development of pure ideas or messages is naive. We might identify this belief as one of "extreme contingency" which suggest I'm in complete control of my thoughts. 
 
 Marx wants to challenge this and say that, in reality the life we live, the physical structures in which we carry out that life, and the economy that supports that life has dramatic effects on the ideas we conceive. 
 
@@ -220,13 +219,20 @@ In this video, give close attention to how mundane physical structures are shapi
 
 <div class="discussion" markdown="1">
 
-<span class="respond"/> Imagine you yourself as "able bodied" were transported to a world where everyone had "three arms and three legs", would you still experience yourself as able bodied?
+{:.rquestion}
+Imagine you yourself as "able bodied" were transported to a world where everyone had "three arms and three legs", would you still experience yourself as able bodied?
 
-<span class="respond"/> If think you would begin to feel disabled without your body every changing, how does this suggest that physical and social structures are affecting consciousness?
+{:.rquestion}
+If think you would begin to feel disabled without your body every changing, how does this suggest that physical and social structures are affecting consciousness?
 
-<span class="respond"/> In the video, how was this idea captured in the distinction between "impairment" and "disability"
+{:.rquestion}
+In the video, how was this idea captured in the distinction between "impairment" and "disability"
 
-<span class="respond"/> According to the video, why does a physical change as simple and mundane as "curb cuts" make such a big difference? How does it affect the self-conception of "disabled" people? How does it affect society's larger attitude toward "disabled people"?
+{:.rquestion}
+According to the video, why does a physical change as simple and mundane as "curb cuts" make such a big difference? How does it affect the self-conception of "disabled" people? 
+
+{:.rquestion}
+How does it affect society's larger attitude toward "disabled people"?
 
 </div>
 
@@ -240,9 +246,9 @@ But it opens up the possibility that, with the application of self directed crit
 
 The point, of course, is that this kind of critical examination, while possible, is extremely difficult and even painful. 
 
-But it is many ways what we try to do in philosophy and in many ways what we want do in this class: to acknowledge with McLuhan that our ideas, the messages think of and receive, are certainly being influenced by the medium through which they are composed and delivered. 
+But it is many ways what we try to do in philosophy and in many ways what we want do in this class: to acknowledge with McLuhan that our ideas, the messages that we think of and receive, are certainly being influenced by the medium through which they are composed and delivered. 
 
-However, it may be possible with critical examination (as it is for McLuhan's "serious artist" and as it was for the pioneers of prior media revolutions) to rise above the paradigm generated by the dominant medium, to think outset of it, and to help determine its course of development, rather than to be completely determined by it. 
+However, it may be possible with critical examination (as it is for McLuhan's "serious artist" and as it was for the pioneers of prior media revolutions) to rise above the paradigm generated by the dominant medium, to think outside of it, and to help determine its course of development, rather than to be completely determined by it. 
 
 # More McLuhan against Sarnoff
 
@@ -250,7 +256,7 @@ With Marx in the background, let's return once more to McLuhan and Sarnoff. Sarn
 
 Because he sees his current life as the norm or natural, he only sees technological advance as an addition to his natural self, rather than a more fundamental transformation of his self-understanding. 
 
-Accordingly, the vision he has for new technology/new medium are circumscribed within limits of the existing paradigm (limited by the water in which swims but remains unaware of). 
+Accordingly, the vision he has for new technology/new medium are circumscribed within limits of the existing paradigm (limited by the water in which he swims but remains unaware of). 
 
 A relevant example might include ways that our “experience” with print culture -- with printed books and the surrounding political economy of print culture -- shapes our understanding of what a book, text, edition or information is or should be.
 
@@ -262,7 +268,7 @@ To what extent are we trying to recreate the printed book in a digital environme
 
 Conversely, we might ask, what kinds of possibilities within the new medium are being overlooked because we are merely trying to re-create the paradigm of the book within a new digital space?
 
-Finally, to what extent do critiques of information consumption in the digital age, make this critique using categories of good and bad that come from the print paradigm?
+Finally, to what extent do critiques of information consumption in the digital age make this critique using categories of "good" and "bad" that come from the print paradigm?
 
 **In sum**: this is a kind of “adding” because it is merely the employment of a new medium within the confines of an existing paradigm; a paradigm that, through the pervasiveness of a medium, has become so familiar that we experience it the same way that a fish experiences water.
 
@@ -272,7 +278,7 @@ I was struck by Sven Birkerts remarks in Gutenberg Elegies: The Fate of Reading 
 
 > “I worry not only that the world will become increasingly alien and inhospitable to me, but also that I will be gradually coerced into living against **my natural grain**, forced to adapt to a pace and a level of technological complexity that does not suit me, and driven to interact with others in certain prescribed ways.” <span class="citation" data-reading="VBRGFWSI=>p. 28"/>
 
-{:.question}
+{:.dquestion}
 In the above quote, where can see the Marxist idea of a "ruling" or "dominant" idea at work? How does this ruling idea manifest itself as not just the dominant idea but the "natural" or "normal" idea? How is he using this idea to measure or evaluate the worth of alternative media?
 
 <div class="answer" markdown="1">
@@ -292,7 +298,7 @@ Is there something odd about the distinction between "language" on the one hand 
 
 <div class="answer" markdown="1">
 
-I hope that as we discuss later readings, particularly those by Walter Ong, it will be clear how important it is that we recognize that language and literature is as much as a technology and medium as the bits travelling through circuit boards and that there is nothing **natural** about this.
+I hope that as we discuss later readings, particularly those by Walter Ong, it will be clear how important it is that we recognize that language and literature is as much as a technology and medium as the bits traveling through circuit boards and that there is nothing **natural** about this.
 
 The fact that Birkerts thinks this is a natural and that he pits language against technology seems to me clear evidence that he is a fish unaware of the water in which he swims and strong evidence of the truth McLuhan's thesis.
 
@@ -310,9 +316,9 @@ In this course, we want to consider the ways that media affects thought. We will
 
 The second more difficult question has to do with evaluation and the role of "critical" reflection. Through critical reflection, how we can we evaluate the trade-offs of one medium over another? If each form of media will affect consciousness in some way, what are the guide posts we can look to in order to decide whether a given form of communication should be judged good, bad, better or worse. 
 
-Further, how can we engage in this evaluative project, while at the same time being aware of (and self critical) of the ways our familiarity with the dominant cultural medium is affecting our own attempts at critical evaluation?
+Further, how can we engage in this evaluative project, while at the same time being aware of (and self critical of) the ways our familiarity with the dominant cultural medium is affecting our own attempts at critical evaluation?
 
-Here we should consider whether it is every possible to reach a neutral evaluative standpoint? And if not, is still possible to distinguish better and worse evaluative positions?
+Here we should consider whether it is every possible to reach a neutral evaluative standpoint? And if not, is it still possible to distinguish better and worse evaluative positions?
 
 # Modalities of Media
 
@@ -324,12 +330,12 @@ McLuhan certain has something like this in mind when (in a later chapter) he dis
 
 {:#there-is-a-basic}
 > "There is a basic principle that distinguishes a hot medium like radio from a cool one like the telephone, or a hot medium like the movie from a cool one like TV A hot medium is one that extends one single sense in "high definition." High definition is the state of being well filled with data. A photograph is, visually, "high definition." A cartoon is "low definition," simply because very little visual information is provided. Telephone is a cool medium, or one of low definition, because the ear is given a meager amount of information. And speech is a cool medium of . low definition, because so little is given and so much has to be filled in by the listener."
-<span class="citation" data-reading="QHGGLSI2=>p. 24" data-annotation="https://hyp.is/SR1B_uv0EeqY74MUXzxZ6w/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/McLuhan_2001_Media_Hot_and_Cold.pdf"/>
+<span class="citation" data-reading="QHGGLSI2=>p. 24" data-annotation="https://hyp.is/0g5dqLTOEe6WmPO--P_mSg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/McLuhan_2001_Media_Hot_and_Cold.pdf"/>
 
 And again:
 
 {:#hot-media-are-therefore}
-> Hot media are, therefore, low in participation, and cool media are high in participation or completion by the audience. Naturally, therefore, a hot medium like radio has very different effects on the user from a cool medium like the telephone. <span class="citation" data-reading="QHGGLSI2=>p. 25" data-annotation="https://hyp.is/WF-mXOv0Eeqb2PN44ox9mw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/McLuhan_2001_Media_Hot_and_Cold.pdf"/>
+> Hot media are, therefore, low in participation, and cool media are high in participation or completion by the audience. Naturally, therefore, a hot medium like radio has very different effects on the user from a cool medium like the telephone. <span class="citation" data-reading="QHGGLSI2=>p. 25" data-annotation="https://hyp.is/_U-tyLTOEe6aPfMVpig0PQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/McLuhan_2001_Media_Hot_and_Cold.pdf"/>
 
 Consider this video which mention McLuhan's idea of print as "hot" medium while television is a "cool" medium.
 
@@ -360,7 +366,7 @@ How many messages (and at what cost) can the medium accommodate?
 
 **Identity**
 
-While I'm not yet convinced identity is the right label, what I'm point out here is the degree to which the material logic of the medium reveals or hides the identity of the sender or receiver of the message. 
+While I'm not yet convinced "identity" is the right label, what I'm pointing out here is the degree to which the material logic of the medium reveals or hides the identity of the sender or receiver of the message. 
 
 {:.question}
 To what degree does speaking on TV reveal the identity of the sender? To what degree is the identity of the receiver revealed? Does speaking through the radio lessen the identity reveal? 
@@ -374,12 +380,12 @@ What about writing a letter? Is this completely anonymous? How might changing th
 <div class="answer" markdown="1">
 Compared to TV or Radio a message via letter seems to carry more anonymity, especially if it is left unsigned. But a handwritten letter certainly leaves traces of identity. A letter typed on a typewriter might reveal even less. 
 
-Perhaps it is still possible to track identity of a letter written on a type writer by inspecting the ink quality and tracing that back to a particular type of manufacturer. But here we need to see that "market costs" are also relevant factors for considering the modalities of a medium. Perhaps instead of saying "harder" or "easier" to track identity, we might ask, which media make it cheaper or more expensive to track identity. In a world of limited resources, this modulations between cheap and expensive will have dramatic impacts on the practical effects of whether or not a medium will reveal identity. And of course, human actors will be aware of these costs and they will directly affect human behavior, for good or ill, of those using the medium.
+Perhaps it is still possible to track identity of a letter written on a type writer by inspecting the ink quality and tracing that back to a particular type of manufacturer. But here we need to see that "market costs" are also relevant factors for considering the modalities of a medium. Perhaps instead of saying "harder" or "easier" to track identity, we might ask, which media make it cheaper or more expensive to track identity. In a world of limited resources, these modulations between cheap and expensive will have dramatic impacts on the practical effects of whether or not a medium will reveal identity. And of course, human actors will be aware of these costs and thus they will directly affect human behavior, for good or ill, of those using the medium.
 </div>
     
 **Connectivity Type**
     
-Here too, I'm not sure I have the right "label", but I aim to identify the different kinds of connections different media allow: one-to-one, one-to-few, one-to-many
+Here too, I'm not sure I have the right label, but by "connectivity type" I aim to identify the different kinds of connections different media allow: one-to-one, one-to-few, one-to-many
 
 ||one(sender)|few|many|
 |one (receiver)||||

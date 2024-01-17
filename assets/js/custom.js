@@ -81,12 +81,12 @@ $(document).ready(function(){
     }
   });
   
-  $(".discussion").each(function(i, v){
-    const idval = $(this).attr("id");
-    if (idval){
-      $(this).append("<p style='font-size: 12px;'>(When you respond, use the tag: <span style='font-style: italic;'>" + idval + "</span> to group responses around this discussion. Remember, you can also use this tag anywhere else for annotations having to do with this discussion and then we can view them grouped together <a href='annotation-tags.html#" + idval + "'>here</a>)</p>")
-    }
-  });
+  // $(".discussion").each(function(i, v){
+  //   const idval = $(this).attr("id");
+  //   if (idval){
+  //     $(this).append("<p style='font-size: 12px;'>(When you respond, use the tag: <span style='font-style: italic;'>" + idval + "</span> to group responses around this discussion. Remember, you can also use this tag anywhere else for annotations having to do with this discussion and then we can view them grouped together <a href='annotation-tags.html#" + idval + "'>here</a>)</p>")
+  //   }
+  // });
 
   $(".reading, .citation").each(function(i, v){
     const _this = this;
