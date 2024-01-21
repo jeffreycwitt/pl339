@@ -54,7 +54,7 @@ As stated, our goal is to use this book by Gleick to historically introduce ours
 In 1981 Dretske said the following: 
 
 {:#the-higher-level}
-> "The higher-level accomplishments associated with intelligent life can be seen as manifestations of progressively more efficient ways of handling and coding information. Meaning, and the constellation of mental attitudes that exhibit it, are manufactured products. The raw material is information." (Dretske, 1981, p. vii.) See <span class="citation" data-reading="3JMTBWNW=>p.43" data-annotation="https://hyp.is/h5i3UtXDEeqoqxflTPQD1A">Philosophy of Information 2013, p. 43</span>
+> "The higher-level accomplishments associated with intelligent life can be seen as manifestations of progressively more efficient ways of handling and coding information. Meaning, and the constellation of mental attitudes that exhibit it, are manufactured products. The raw material is information." (Dretske, 1981, p. vii.) See <span class="citation" data-reading="3JMTBWNW=>p.43" data-annotation="https://hyp.is/b7fJ-LiVEe6tojNW2QRp2Q/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ilari_2013_Naturalized_Information,_chapter_3.pdf">Philosophy of Information 2013, p. 43</span>
 
 The suggestion here is that scientific progress tracks with the development of more and more efficient ways of "encoding" information to the point that "information" and the "message/meaning" can be separated, making "information" into kind of medium at the highest level of abstraction.
 
@@ -302,12 +302,12 @@ I want to mark this and compare it to Ong's description of the "advantages" of t
 
 Nevertheless, it also worth noting that the electronic age has the potential to recover some of this dynamism (McLuhan even refers to the electric age as an age of "2nd Orality"). While still primarily dealing with written text, the digital text re-introduces the ability to automatically re-shape, re-form, and re-present a text tailored to the needs of the reader.
 
-<div class="discussion">
+<div class="discussion" markdown="1">
 
-{:rquestion}
+{:.rquestion}
 On this point, do you think Socrates would welcome this new "dynamic" text found in the electronic age?
 
-{:rquestion}
+{:.rquestion}
 Does multi-media communication on the internet generally or via social media re-capture some of the things he likes about the spoken word?
 
 </div>
@@ -335,7 +335,8 @@ What is the chief characteristic he notes about writing? Did we see a recognitio
 
 The written text is divorced from its author. 
 
-> "Writing establishes a 'context-free' language or 'autonomous' discourse." <span class="citation" data-reading="MKVLEEA6=>p. 78" data-annotation="https://hyp.is/DTegJLiPEe6ElHuvq_UnIw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
+{:#writing-establishes-what}
+> "Writing establishes what has been called 'context-free' language or 'autonomous' discourse." <span class="citation" data-reading="MKVLEEA6=>p. 78" data-annotation="https://hyp.is/DTegJLiPEe6ElHuvq_UnIw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
 
 <!-- is this "hotter" or "colder" according to McLuhan's categories? I would guess "cooler": 
 since removed from the context, writing asks for more participation on the part of the receiver.-->
@@ -540,7 +541,8 @@ This is a consciousness that the 15th or 16th century reader of the printed book
 
 Ong says something similar: 
 
-> "Evidently, in processing the text for meaning, the sixteenth century was concentrating less on the sight of the word and more on its sound than we do." <span class="citation" data-reading="FXZZ4PZP=>p.119" data-annotation="https://jeffreycwitt.com/pl339/docs/03-from-orality-to-literacy.htm#evidently-in-processing-text"/> 
+{:#evidently-in-processing-text}
+> "Evidently, in processing the text for meaning, the sixteenth century was concentrating less on the sight of the word and more on its sound than we do." <span class="citation" data-reading="FXZZ4PZP=>p.119" data-annotation="https://hyp.is/BLQRlriSEe6bnAuchgeF_Q/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Print_Space_and_Closure.pdf"/> 
 
 And thus, what we are talking about here is the development of the fairly modern notion of "sustained silent reading" as a consequence of slow cycle shifts in a material medium. (In fact I was taught this in elementary school, when we had SSR time, "sustained silent reading" time: clear evidence of the fact that far from being "natural", we are educated into developing certain kinds of reading habits over others.)
 
@@ -630,7 +632,7 @@ This view is well summed up in the following citation.
 
 > Although articles were sometimes peer-reviewed, only well after the second world war was peer review introduced as a routine process for virtually all articles submitted to journals. This served various purposes, not least to limit the amount that was published, as printing and distributing journals was expensive and a judgement had to be made as to what was truly worthwhile spending scarce money on, which led to many journals selecting on criteria of perceived quality and relevance to their intended readership. The time the process took between initial submission and publication was usually quite long, sometimes very long.
 With the advent of the internet, the need for print and physical distribution, and the costs associated with that, disappeared. This could have meant a complete re-think of the way science was communicated, but traditions stuck, and most of scientific communication still takes place on the old print paradigms, devised in the print era.
-[https://blog.scielo.org/en/2018/05/25/communication-and-peer-review-should-be-universally-separated/#.W-FGsnr7TOR](https://blog.scielo.org/en/2018/05/25/communication-and-peer-review-should-be-universally-separated/#.W-FGsnr7TOR)
+[blog.scielo.org](https://blog.scielo.org/en/2018/05/25/communication-and-peer-review-should-be-universally-separated/#.W-FGsnr7TOR)
 
 As we can see here, this is an active and ongoing conversation that many scholars and writers are thinking about.
 
