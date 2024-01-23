@@ -598,7 +598,7 @@ With some reflection, we can recognize that several distinct and separable funct
 
 In other words, today it is possible to conceive of making something public, separable from all these other functions. 
 
-But it is possible that prior to the digital revolution, for example, this was not possible. In this case, the additional tasks we associate with publication (review, quality control) were tightly coupled with the task of "making publicly accessible".
+Prior to the digital revolution, for example, this was not possible. In this case, the additional tasks we associate with publication (review, quality control) were tightly coupled with the task of "making publicly accessible".
 
 In a world where it is only possible to distribute information via printed copies of a text, and in a world where a printing machine is expensive and typesetting is laborious, a printer has to be assured of the "marketability" of a text before they could commit to "making it public".
 
