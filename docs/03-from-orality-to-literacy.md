@@ -614,21 +614,21 @@ What interests me here is the degree to which this maxim is no longer required f
 
 During times of technology shifts, Marx speaks of a contradiction between the "new means of productions" and the "old modes of social interaction". I think we are seeing something similar here.
 
-In the case of our particular example, we might ask: to what degree do we continue to allow review and gatekeeping to function as a determination of what can be accessed (made public), despite the fact that the "means of making public" no longer requires this?
+In the case of our particular example, we might ask: to what degree do we continue to allow review and gate-keeping to function as a determination of what can be accessed (made public), despite the fact that the "means of making public" no longer requires this?
 
 Why not use quality control and review function as kind of filtering of what is already public rather than determining factor of what gets made public? 
 
-When the cost of making something available in mass is cheap, why shouldn't we let accessibility come first, and then let review function as form filtering?
+When the cost of making something available in mass is cheap, why shouldn't we let accessibility come first, and then let review function as a form of filtering?
 
-This would give us the advantage of by passing the problem of gatekeeping where a handful of people get to decide what the rest of the world gets to see and does not get to see. It would also still preserve the benefits of quality control as a form of curation that draw readers attention to what has been recommended as being of high quality. 
+This would give us the advantage of by-passing the problem of gate-keeping where a handful of people get to decide what the rest of the world gets to see and does not get to see. It would also still preserve the benefits of quality control as a form of curation that would draw reader's attention to what has been recommended as being of high quality. 
 
-In other words, the traditional book economy of publication has enforced a kind of either/or. It is either reviewed/approved and therefore public or it is not reviewed/approved and therefore it is not public. 
+In other words, the traditional book economy of publication has enforced a kind of **either/or**. It is either reviewed/approved and therefore public or it is not reviewed/approved and therefore it is not public. 
 
-Today, it seems like we have the possibility of a both/and. Something can be accessible independent of review and it can be reviewed and this review status can be communicated.
+Today, it seems like we have the possibility of a **both/and**. Something can be accessible independent of review and it can be reviewed and this review status can be communicated.
 
 (If you're interested in this topic, I've done some work in this area. See my article [Decoupling Quality Control and Publication](http://digitalhumanities.org/dhq/vol/13/4/000438/000438.html). It's a technical article, but it tries to show that technologically, this kind of publication is possible, and therefore resistance to this approach comes from social inertia rather than technical obstacles. Feel free to annotation this article with questions as well!)
 
-In sum, our persistence within the old model is the product of a particular form of consciousness that sees "publication" as one thing present forms of media no longer require. 
+In sum, our persistence within the old model is the product of a particular form of consciousness that sees "publication" as something which present forms of media no longer require. 
 
 This view is well summed up in the following citation.
 
