@@ -216,13 +216,15 @@ According to Plato, why is rhetoric like medicine?
 {:.rquestion}
 What are the three criteria of true rhetoric as described by Socrates? See p. 28-30.
 
-Three things: 1) knowledge of the soul
+Three things: 
+
+1) knowledge of the soul
 
 {:#then-clearly-thrasymachus-or}
 > "Then clearly, Thrasymachus or anyone else who teaches rhetoric in earnest will give an exact description of the nature of the soul; which will enable us to see whether she be single and same, or, like the body, multiform. That is what we should call showing the nature of the soul." 
 <span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/NQibtLiNEe61wTM7fkionQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Plato_Phaedrus.pdf">
 
-1) knowledge of the different kinds of speeches/oratory
+2) knowledge of the different kinds of speeches/oratory
 
 {:#he-will-explain-secondly}
 > "He will explain, secondly, the mode in which she acts or is acted upon." <span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/TmzodriNEe6sRLsTWwj4ww/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Plato_Phaedrus.pdf">
