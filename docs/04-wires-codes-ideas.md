@@ -5,7 +5,7 @@ reading: ["SN4EQIZ5=>cc. 4-5"]
 date: 2024-01-25
 nav_order: 4
 watchtime: 20
-published: false
+published: true
 ---
 
 ## Table of contents
@@ -40,11 +40,14 @@ Gleick also noted that Babbage was fascinated with the Jacquard Loom, which you 
 
 <div class="discussion" markdown="1">
 
-<span class="response"/>What do Babbage's "differential machine" (consider p. 95) and the Jacquard Loom (consider p. 109) have to contribute to the history of information that Gleick is telling?
+{:.rquestion}
+What do Babbage's "differential machine" (consider p. 95) and the Jacquard Loom (consider p. 109) have to contribute to the history of information that Gleick is telling?
 
-<span class="response"/> What kind of new thinking do they both require?
+{:.rquestion}
+What kind of new thinking do they both require?
 
-<span class="response"/> How they push us think about information, physical media differently, and messages differently?
+{:.rquestion}
+How do they push us think about information, physical media, and messages differently?
 
 </div>
 
@@ -54,7 +57,7 @@ As our reading in Gleick indicates, the telegraph was a momentous invention. The
 
 But there is an obvious difficulty here. Because the electrical current could neither be written on nor spoken to, it was not obvious how oral or literary messages could make use of this medium to send a message.
 
-Finding a way to send a message required the kind of abstraction we talked about [last time](03-from-orality-to-literacy.html#example-1): an abstraction from a letter or word written or spoken to a higher order of abstraciont -- to the level of logical difference, allowing letter, word, or sound to be "re-encoded" into any medium.
+Finding a way to send a message required the kind of abstraction we talked about [last time](03-from-orality-to-literacy.html#example-1): an abstraction from a letter or word (written or spoken) to a higher order of abstraction -- to the level of logical difference, allowing letter, word, or sound to be "re-encoded" into any medium.
 
 In the following video, consider the solution proposed by Gauss and Weber. Pay attention to how they abstracted from written or spoken letters. 
 
@@ -67,11 +70,11 @@ In the following video, consider the solution proposed by Gauss and Weber. Pay a
 What characteristics of letters did they observe and then use to develop a new encoding system for the letter or word idea.
 
 {:.answer}
-One characteristic they noticed was the frequency of a given letters compared to frequency of other letters: in other words, a letter's statistical probability of appearance within a defined set of possibilities. It's probability was a distinguishing feature and help determine the encoding they would use for that letter. Higher probability letters got the shorter encodings, lower probability letters got the longer encodings. **Notice** that this probability is an identifying characteristic that abstracts from both the visual or oral representation of a letter and to which both the visual, aural, and electric encodings can be mapped.
+One characteristic they noticed was the frequency of a given letters compared to frequency of other letters: in other words, a letter's statistical probability of appearance within a defined set of possibilities. It's probability was a distinguishing feature and help determined the encoding they would use for that letter. Higher probability letters got the shorter encodings, lower probability letters got the longer encodings. **Notice** that this probability is an identifying characteristic that abstracts from both the visual or oral representation of a letter and to which both the visual, aural, and electric encodings can be mapped.
 
-<div class="example" markdown="1">
 
-Let's think of a different example: a triangle. 
+
+Let's recall our triangle example.
 
 <svg height="210" width="500">
   <polygon points="183.138438763306,172 16.8615612366939,172 100,28" style="fill:none;stroke:purple;stroke-width:3px" />
@@ -88,15 +91,15 @@ We might say, it is merely a visual approximation of the pure idea of a triangle
 Oddly then, even though we usually think of an image when we see a triangle, a true triangle cannot be drawn and it cannot be defined by its appearance. 
 
 What then is a triangle? A triangle is rather an 'idea' with certain characteristics and properties that distinguish (**differentiate**) it from a limited set of other geometric shapes. (3 sides, angles that add up to 180 degrees, etc.)
-</div>
+
 
 **In Sum** 
 
 The decision of telegraph engineers to represent a letter in a new way, via needle position (or later morse code), required them to "abstract" from the visual appearance of letter, and think about what a letter is independent of its "material manifestation". 
 
-And though they perhaps did not complete the thought process, they pushed us to begin thinking about letters and words as logical ideas, with a given set of properties: namely a position with a decision tree, or a statistical frequency occurring within a pre-defined set of possibilities. 
+And though they perhaps did not complete the thought process, they pushed us to begin thinking about letters and words as logical ideas, with a given set of properties: namely a position within a decision tree, or a statistical frequency occurring within a pre-defined set of possibilities. 
 
-While this still may be confusing, let's simply mark this idea as critical and something we will return to when we learn about Claude Shannon and his new idea of "information"
+While this still may be confusing, let's simply mark this idea as critical and something we will return to when we learn about Claude Shannon and his new idea of "information".
 
 # Telegraph: Metaphors, Analogies, and New Ideas
 
@@ -107,12 +110,12 @@ It would be harder to find better evidence of the maxim that "the medium affects
 The Harper's article on the telegraph from 1873 saw this clearly and offers and couple of amusing examples: 
 
 {:#the-difficulty-of-forming}
-> "The difficulty of forming a clear conception of the subject is increased by the fact that while we have to deal with novel and strange facts, we have also to use old words in novel and inconsistent senses." <span class="citation" data-reading="CPKMG234=>p. 336" data-annotation="https://hyp.is/EDnonNZkEeqduE_Qwaaodg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/1873_The_Telegraph.pdf"/>
+> "The difficulty of forming a clear conception of the subject is increased by the fact that while we have to deal with novel and strange facts, we have also to use old words in novel and inconsistent senses." <span class="citation" data-reading="CPKMG234=>p. 336" data-annotation="https://hyp.is/NrHLjLpMEe6l-2NRiJwEow/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/1873_The_Telegraph.pdf"/>
 
 In the case, much confusion centers around the word "send"
 
 {:#not-long-since-a}
-> Not long since a countryman came into a telegraph office in Bangor, Maine, with a message, and asked that it be sent immediately. The operator took the message as usual, put his instrument in communication with its destination, ticked off the signals upon the key, and then, according to the rule of the office, hung the message paper on the hook with others that had been previously sent, that at night they might all be filed for preservation. The man lounged around some time, evidently unsatisfied. "At last," says the narrator of the incident, "his patience was exhausted, and he belched out, 'Ain't you going to send that dispatch?' The operator politely informed him that he had sent it. 'No, yer ain't,' replied the indignant man; 'there it is now on the hook.'" <span class="citation" data-reading="CPKMG234=>p. 336" data-annotation="https://hyp.is/V7LMZtZkEeqaFCe6bR5Ubg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/1873_The_Telegraph.pdf"/>
+> Not long since a countryman came into a telegraph office in Bangor, Maine, with a message, and asked that it be sent immediately. The operator took the message as usual, put his instrument in communication with its destination, ticked off the signals upon the key, and then, according to the rule of the office, hung the message paper on the hook with others that had been previously sent, that at night they might all be filed for preservation. The man lounged around some time, evidently unsatisfied. "At last," says the narrator of the incident, "his patience was exhausted, and he belched out, 'Ain't you going to send that dispatch?' The operator politely informed him that he had sent it. 'No, yer ain't,' replied the indignant man; 'there it is now on the hook.'" <span class="citation" data-reading="CPKMG234=>p. 336" data-annotation="https://hyp.is/aUGUTLpMEe6kg2daz4MlUw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/1873_The_Telegraph.pdf"/>
 
 Here we operating with a notion of "send" that betrays the assumptions of the prior medium. To send a "message" tethered to its visual encoding, requires that for the message to be sent/communicated, the medium must accompany it or the message will be lost. 
 
@@ -123,7 +126,7 @@ The "country man" in the story clearly operates in the old world and thus is con
 A similar example involving a German sauerkraut makes a similar point: 
 
 {:#thus-the-german-papers}
-> "Thus the German papers reported that at Carlsruhe, toward the close of the late war, an aged mother came to the telegraph office carrying a dish full of sauerkraut, which she desired to have telegraphed to Rastadt. Her son must receive the kraut by Sunday. The operator could not convince her that the telegraph was not capable of such a performance. " How could so many soldiers have been sent to France by telegraph f" she asked, and finally departed grumbling." <span class="citation" data-reading="CPKMG234=>p. 336" data-annotation="https://hyp.is/gk_xLtZkEeq1E19Uotc1WA/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/1873_The_Telegraph.pdf"/>
+> "Thus the German papers reported that at Carlsruhe, toward the close of the late war, an aged mother came to the telegraph office carrying a dish full of sauerkraut, which she desired to have telegraphed to Rastadt. Her son must receive the kraut by Sunday. The operator could not convince her that the telegraph was not capable of such a performance. " How could so many soldiers have been sent to France by telegraph f" she asked, and finally departed grumbling." <span class="citation" data-reading="CPKMG234=>p. 336" data-annotation="https://hyp.is/hDDRMrpMEe6MpSfddfQxhg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/1873_The_Telegraph.pdf"/>
 
 
 <div class="discussion" markdown="1">
@@ -132,9 +135,11 @@ As the Harper's quotation notes, the introduction of a new technology is often a
 
 The use of familiar concepts can, on the one hand lead to amusing and serious misunderstandings about the new technology. On the other hand, it can lead to the transformation of the former meaning of the concept, generating an entirely new idea in consciousness while preserving the old name.
 
-<span class="respond"/> Can you think of example of this kind of confusion happening today?
+{:.rquestion}
+Can you think of example of this kind of confusion happening today?
 
-<span class="respond"/> What are some of the metaphors that structure our experience with a modern computer? How are the meanings of this words changing as they get used in the context of a foreign medium?
+{:.rquestion}
+What are some of the metaphors that structure our experience with a modern computer? How are the meanings of this words changing as they get used in the context of a foreign medium?
 
 </div>
 
