@@ -33,6 +33,7 @@ Before turning to the telegraph, it's worth pausing and reflecting on why Gleick
 You can see a modern reproduction of the machine here. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/be1EM3gQkAY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- this might be an even better video of the loom: https://youtu.be/x_ijmjx7Xys?si=o7z_hzugOMK-yAF2 -->
 
 Gleick also noted that Babbage was fascinated with the Jacquard Loom, which you can see here:
 
@@ -117,7 +118,7 @@ In the case, much confusion centers around the word "send"
 {:#not-long-since-a}
 > Not long since a countryman came into a telegraph office in Bangor, Maine, with a message, and asked that it be sent immediately. The operator took the message as usual, put his instrument in communication with its destination, ticked off the signals upon the key, and then, according to the rule of the office, hung the message paper on the hook with others that had been previously sent, that at night they might all be filed for preservation. The man lounged around some time, evidently unsatisfied. "At last," says the narrator of the incident, "his patience was exhausted, and he belched out, 'Ain't you going to send that dispatch?' The operator politely informed him that he had sent it. 'No, yer ain't,' replied the indignant man; 'there it is now on the hook.'" <span class="citation" data-reading="CPKMG234=>p. 336" data-annotation="https://hyp.is/aUGUTLpMEe6kg2daz4MlUw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/1873_The_Telegraph.pdf"/>
 
-Here we operating with a notion of "send" that betrays the assumptions of the prior medium. To send a "message" tethered to its visual encoding, requires that for the message to be sent/communicated, the medium must accompany it or the message will be lost. 
+Here we operating with a notion of "send" that betrays the assumptions of the prior medium. To send a "message" tethered to its visual encoding requires that for the message to be sent/communicated, the medium must accompany it or the message will be lost. 
 
 But the telegraph introduces a new wrinkle -- a new possibility. Because the message can be encoded at a higher level of abstraction, above sound, letter, or electricity, the message can be easily detached from the old medium and a strange kind of "copy" can be sent without sending the printed manifestation of that message.
 
@@ -126,7 +127,7 @@ The "country man" in the story clearly operates in the old world and thus is con
 A similar example involving a German sauerkraut makes a similar point: 
 
 {:#thus-the-german-papers}
-> "Thus the German papers reported that at Carlsruhe, toward the close of the late war, an aged mother came to the telegraph office carrying a dish full of sauerkraut, which she desired to have telegraphed to Rastadt. Her son must receive the kraut by Sunday. The operator could not convince her that the telegraph was not capable of such a performance. " How could so many soldiers have been sent to France by telegraph f" she asked, and finally departed grumbling." <span class="citation" data-reading="CPKMG234=>p. 336" data-annotation="https://hyp.is/hDDRMrpMEe6MpSfddfQxhg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/1873_The_Telegraph.pdf"/>
+> "Thus the German papers reported that at Carlsruhe, toward the close of the late war, an aged mother came to the telegraph office carrying a dish full of sauerkraut, which she desired to have telegraphed to Rastadt. Her son must receive the kraut by Sunday. The operator could not convince her that the telegraph was not capable of such a performance. " How could so many soldiers have been sent to France by telegraph" she asked, and finally departed grumbling." <span class="citation" data-reading="CPKMG234=>p. 336" data-annotation="https://hyp.is/hDDRMrpMEe6MpSfddfQxhg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/1873_The_Telegraph.pdf"/>
 
 
 <div class="discussion" markdown="1">
