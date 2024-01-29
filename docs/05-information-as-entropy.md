@@ -121,9 +121,9 @@ In the above equation:
 
 So, for a 32 symbol set, where the probability of each symbol is 1/32, the uncertainty or entropy of a message composed of a single symbol would be calculated as follows.
 
-$$H = -\sum_{i=1}^{n=32} 1/32 * \log_2 1/32$$
+$$H = -\sum_{i=1}^{n=32} \frac{1}{32} * \log_2 \frac{1}{32}$$
 
-$$H = -\sum_{i=1}^{n=32}1/32 * - 5 = 0.15625 * 32 = 5$$
+$$H = -\sum_{i=1}^{n=32}\frac{1}{32} * - 5 = 0.15625 * 32 = 5$$
 
 So H or Information = 5
 
@@ -153,7 +153,7 @@ Thus in a coin toss, we have a set of possible outcomes (00, 11, 10, 01) each wi
 
 So we need to compute entropy of this channel, or the amount of information a channel would need to help in order to communicate these scores.
 
-$$H = -\sum_{i=1}^{n=4}p_i log_2 p_i = -4(1/4 log_2 1/4) = 0.5 + 0.5 + 0.5 + 0.5 = 2$$
+$$H = -\sum_{i=1}^{n=4}p_i log_2 p_i = -4(\frac{1}{4} log_2 \frac{1}{4}) = 0.5 + 0.5 + 0.5 + 0.5 = 2$$
 
 In total, it will always take 2 bits (differences) to communicate the full context of this game and the "look" of the end result.
 
@@ -178,7 +178,7 @@ $$H = -(\frac{1}{2} log_2 \frac{1}{2}) - (\frac{1}{4} log_2 \frac{1}{4}) - (\fra
 
 Or the probability of three outcomes instead of four will be 1/3 instead of 1/4, so we would have something like: 
 
-$$H = -\sum_{i=1}^{n=3}p_i log_2 p_i = -3(1/3 log_2 1/3) = 0.5 + 0.5 + 0.5 = 1.5$$
+$$H = -\sum_{i=1}^{n=3}p_i log_2 p_i = -3(\frac{1}{3} log_2 \frac{1}{3}) = 0.5 + 0.5 + 0.5 = 1.5$$
 
 Instead of taking 2 bits to communicate the outcome of the game, it now only takes 1.5. 
 
