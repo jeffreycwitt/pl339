@@ -268,7 +268,7 @@ In the next example below, you can see that I've encoded things differently, by 
 
 <iframe src="https://jsfiddle.net/1haj53mr/embedded/html,css,result/dark/" width="100%" style="min-height: 500px"></iframe>
 
-The benefit of the latter approach comes in the ability to automatically transform presentations without requiring a re-encoding. Imagine that I no longer when the "headings" and "measurements" to be blue. Because I have encoded the headings as "heading" and measurement as "measure" rather than as "blue". It is easy for me to change the styling of headings to "bold" and measurements to "red". (See the result tab). 
+The benefit of the latter approach comes in the ability to automatically transform presentations without requiring a re-encoding. Imagine that I no longer want the "headings" and "measurements" to be blue. Because I have encoded the headings as "heading" and measurement as "measure" rather than as "blue". It is easy for me to change the styling of headings to "bold" and measurements to "red". (See the result tab). 
 
 But this would have been impossible with the first approach. 
 
