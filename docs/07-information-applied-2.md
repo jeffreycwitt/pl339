@@ -14,6 +14,9 @@ Student Presentations
 
 # Applications of Information Turn in Physics (chapter 9)
 
+[Course notes (created by your peers) can be found here](https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl339/SP24-studentNotes/GleickCh9ClassNotesEdited.pdf). Please open the PDF in your browser and annotate directly on the PDF. 
+
+
 # Applications of Information Turn in Biology (10)
 
 [Course notes (created by your peers) can be found here](https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl339/SP24-studentNotes/GleickCh10ClassnotesEdited.pdf). Please open the PDF in your browser and annotate directly on the PDF. 
