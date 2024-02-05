@@ -24,4 +24,13 @@ I also thought this video about "translation" from mRNA to poly-peptides (Protei
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ocAAkB32Hqs?si=m_gMdD3q7uUHxWB6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <p class="vda">discuss video anchor</p>
+
+</div>
+
+This video is also helpful (a slightly higher level overview than the video above)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6gUY5NoX1Lk?si=NeBVsdTcz1IIES8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p class="vda">discuss video anchor</p>
+
 </div>
