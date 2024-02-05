@@ -109,7 +109,7 @@ Thus, the concept of "environmental information" is inspected first.
 How does "environmental information" differ from "semantic information"?
 
 <div class="answer" markdown="1">
-Critical seems to be the coupling of two states, but also that this coupling "does not depend on a preceding agreement on a code".
+Critical here seems to be the coupling of two states, but also that this coupling "does not depend on a preceding agreement on a code".
 
 To me this, this sounds a bit like what medieval thinkers would call a natural sign as opposed to an artificial sign. 
 
@@ -122,7 +122,7 @@ Morse code or even a word in a language would be an example of an artificial sig
 So, as our text states: 
 
 {:#environmental-information-covers-the}
-> "Environmental information covers the first part of the naturalization, the natural transfer of information. The tree’s age is communicated to its own physical structure. But an observer must still interpret the structure to extract the information" <span class="citation" data-reading="3JMTBWNW=>p. 46" data-annotation="https://hyp.is/2TPegAC_EeusYFsuxtnHpA/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ilari_2013_Naturalized_Information,_chapter_3.pdf"/>
+> "Environmental information covers the first part of the naturalization, the natural transfer of information. The tree’s age is communicated by its own physical structure. But an observer must still interpret the structure to extract the information" <span class="citation" data-reading="3JMTBWNW=>p. 46" data-annotation="https://hyp.is/2TPegAC_EeusYFsuxtnHpA/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ilari_2013_Naturalized_Information,_chapter_3.pdf"/>
 
 "Environmental Information" seems to cover the transfer of information, but we need to question how an agent can interpret that information, identify a reference, or identify a meaning (which is perhaps three ways of saying the same thing).
 
@@ -200,7 +200,7 @@ The final step is the development of a distinction between communicated informat
 
 Intentional states of the third order create intentions about these "types" and form beliefs about the relationship of individuals to concepts. 
 
-These concepts can be agreed to ahead of time, or they can emerge organically through conventional practice. 
+These concepts can be agreed to ahead of time, or they can emerge organically through conventional practice. (I would call this a 'protocol') 
 
 > "A meaning is a symbol connected to a concept on type level. The symbol can represent a concept in the sense of a genuine convention, but this is not necessarily so, since a symbol can gradually acquire its meaning." <span class="citation" data-reading="3JMTBWNW=>p. 50" data-annotation="https://hyp.is/T7RfhADBEeuYlBfXdjT5qA/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ilari_2013_Naturalized_Information,_chapter_3.pdf">
 
