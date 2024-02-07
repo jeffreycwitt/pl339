@@ -1,9 +1,9 @@
 ---
 layout: lecture
-title: "9 Exam Review"
+title: "9: Exam Review"
 date: 2024-01-13
 nav_order: 9
-published: false
+published: true
 ---
 
 # Exam Format 
@@ -38,12 +38,13 @@ The exam format will consist of two parts. (1) A question section composed prima
   * What is Information "Entropy" a measure of?
   * How does this allow us to think about "information" as a strange kind of "medium" rather than "message"?
   * What is Shannon's formula for Information "Entropy"?
+  * Why does Wiener prefer to talk about Information as "Negative Entropy"?
   * Can you apply this formula to simple problems? 
     * e.g. How many bits needed to communicate one letter? 
     * How many bits needed to communicate one "codon"?
     * What does it mean for a channel to communicate 100 bits/second?
     * What is the limiting factor here? Why can't it communicate 101 bits/second?
-    * Approximately, how many words (in a vocabulary of 20) could be communicated per second in a channel that communicates 100 bits/second?
+    * Approximately, how many words (in a vocabulary of 16) could be communicated per second in a channel that communicates 100 bits/second?
 
 * How do we see information theory applied in surprising new fields?
   * Psychology
@@ -53,13 +54,17 @@ The exam format will consist of two parts. (1) A question section composed prima
 
 <div class="discussion" markdown="1">
 
-<span class="respond"/> What else should be added to this list?
+{:.question}
+What else should be added to this list?
 
-<span class="respond"/> Based on our reading of Gleick, everyone please offer one "multiple choice question" that they think would be a good example exam question. Then tell us why this would be a good question.
+{:.question}
+Based on our reading of Gleick, what do you think would be good "multiple choice question", then tell us why this would be a good question.
 
+{:.question}
+Based on the work we've done so far, what do you think would be a good essay question and why? (Keep in mind an essay question is usually a longer form response that gives students a chance to connect big idea, or explain key concepts with clarifying examples)
 </div>
 
-# Essay Questions
+<!-- # Essay Questions
 
 <div class="discussion" markdown="1">
 
@@ -68,4 +73,4 @@ Exam essay questions are usually designed to ask to students identify or recogni
 <span class="respond"/> Thus, what do you think are the "big ideas" that have been resurfacing over the course of our reading?
 
 <span class="respond"/> Offer an example of an "essay prompt" that would invite you to explain one of these big ideas across the different examples and chapters we've been discussing.
-</div>
+</div> -->
