@@ -74,14 +74,6 @@ Before we consider why Fred Dretske thinks this might be possible, let's look at
 
 </div>
 
-<div class="video">
-And here is John Searle himself explaining the "Chinese Room" argument
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/18SXA-G2peY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-<p class="vda">discuss video anchor</p>
-
-</div>
 
 You can also read more about his experiment [here in the article, "The Chinese Room Argument", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/chinese-room/)
 
@@ -118,24 +110,28 @@ While separate, it is assumed that they are related.
 Thus, the concept of "environmental information" is inspected first.
 
 <div class="discussion" markdown="1">
-  <span class="respond"/> What is Floridi's definition of "environmental information"? Can you provide an annotation that links to his definition?
+  
+  {:.rquestion}
+  What is Floridi's definition of "environmental information"? Can you provide an annotation that links to his definition?
 
-  <span class="respond"/> Can you provide your own concrete example of "environmental information" different from the examples given (see p. 45)?
+  {:.rquestion}
+  Can you provide your own concrete example of "environmental information" different from the examples given (see p. 45)?
+
+  {:.question}
+  How does "environmental information" differ from "semantic information"?
+
+  <div class="answer" markdown="1">
+  Critical here seems to be the coupling of two states, but also that this coupling "does not depend on a preceding agreement on a code".
+
+  To me this, this sounds a bit like what medieval thinkers would call a natural sign as opposed to an artificial sign. 
+
+  A natural sign might be "smoke from a fire" or a "footprint in the sand left from a shoe". There is a coupling here and someone could learn from the smoke that there is a fire or that someone previously walked on the beach, but there was no prior agreement on a code. 
+
+  Morse code or even a word in a language would be an example of an artificial sign.
+
+  </div>
 </div>
 
-{:.question}
-How does "environmental information" differ from "semantic information"?
-
-<div class="answer" markdown="1">
-Critical here seems to be the coupling of two states, but also that this coupling "does not depend on a preceding agreement on a code".
-
-To me this, this sounds a bit like what medieval thinkers would call a natural sign as opposed to an artificial sign. 
-
-A natural sign might be "smoke from a fire" or a "footprint in the sand left from a shoe". There is a coupling here and someone could learn from the smoke that there is a fire or that someone previously walked on the beach, but there was no prior agreement on a code. 
-
-Morse code or even a word in a language would be an example of an artificial sign.
-
-</div>
 
 So, as our text states: 
 
@@ -157,7 +153,8 @@ What example is taken from Dretske?
 
 <div class="discussion" markdown="1">
 
-<span class="respond"> What are some other examples of "semantically enabled agents" communicating without semantic information?
+{:.rquestion}
+What are some other examples of "semantically enabled agents" communicating without semantic information?
 
 </div>
 

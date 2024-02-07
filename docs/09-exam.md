@@ -58,10 +58,10 @@ The exam format will consist of two parts. (1) A question section composed prima
 What else should be added to this list?
 
 {:.question}
-Based on our reading of Gleick, what do you think would be good "multiple choice question", then tell us why this would be a good question.
+Based on our reading of Gleick, what do you think would be good "multiple choice question"; then tell us why this would be a good question.
 
 {:.question}
-Based on the work we've done so far, what do you think would be a good essay question and why? (Keep in mind an essay question is usually a longer form response that gives students a chance to connect big idea, or explain key concepts with clarifying examples)
+Based on the work we've done so far, what do you think would be a good essay question and why? (Keep in mind an essay question is usually a longer form response that gives students a chance to connect big ideas, or explain key concepts with extended clarifying examples)
 </div>
 
 <!-- # Essay Questions
