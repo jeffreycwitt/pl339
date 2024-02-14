@@ -3,8 +3,8 @@ layout: lecture
 title: "10: Beyond the Book"
 nav_order: 10
 reading: ["JNA89KWB", "PYUMRPFD", "K5L5DYVS", "V2BN56HW", "KUZITWWR=>focus, first section, p. 83-86"]
-date: 2023-02-15
-published: false
+date: 2024-02-15
+published: true
 watchtime: 27
 ---
 <!-- bush,JNA89KWB ; nelson 0: PYUMRPFD, nelson 1 K5L5DYVS; nelson 2, V2BN56HW; zundert; KUZITWWR-->
@@ -29,9 +29,9 @@ Then, as we turn to our first readings for this unit, I want to look at some of 
 
 To start let me introduce a concept that will re-occur in our reading later. This idea is the notion of "Latent Ambiguity" as introduce by Lawrence Lessig in his book "Code". For now it is enough to summarize.
 
-The point is that there are many possibilities whose value/worth remains undecided or ambiguous because the inherent limitations of existing media make these theroetical possibilities impossible **for us**. When something is not possible **for us**, we rarely ask if we should or should not do it. In fact, when something is not possible **for us**, it is often hard for us to even see that it actually is a possibility, and accordingly it is even harder for us to to consider whether such a thing should be valued and protected or should be considered a danger that should be forbidden.
+The point is that there are many possibilities whose value/worth remains undecided or ambiguous because the inherent limitations of existing media make these theoretical possibilities impossible **for us**. When something is not possible **for us**, we rarely ask if we should or should not do it. In fact, when something is not possible **for us**, it is often hard for us to even see that it actually is a possibility, and accordingly it is even harder for us to to consider whether such a thing should be valued and protected or should be considered a danger that should be forbidden.
 
-But as technology changes, new theoretical possibilities but actual possibilities **for us**. This forces us in the present to confront trade-offs; a weighing of pros and cons that previous human beings never before had to make. Such hidden possibilities are "latent ambiguities" that new technology forces us to face for the first time. 
+But as technology changes, new theoretical possibilities become actual possibilities **for us**. This forces us in the present to confront trade-offs; a weighing of pros and cons that previous human beings never before had to make. Such hidden possibilities are "latent ambiguities" that new technology forces us to face for the first time. 
 
 I want to think about this concept as we consider the seemingly familiar notions of "reading" and "writing"
 
@@ -46,15 +46,20 @@ But don't we also read maps? Is this the same activity or a different activity?
 
 We read the stars. We read signs. We read people. 
 
+<div class="discussion" markdown="1">
+
 {:.rquestion}
 If we confine ourselves just to the medium of the book, do we see ambiguity in the word "reading" or have we finally found a precise concept?
 
 {:.rquestion}
 What if we confined ourselves to a novel, is there a distinct notion of reading here?
+</div>
 
 Even here it seems like, in addition to regular "reading", I could "skim" read. And both of these activity of reading are enabled or hindered through the design of the human interface.
 
 For example: imagine a book that only allowed you to read "sentence by sentence". This would be a medium (or a "user interface") that would make "skim reading" very difficult. 
+
+<div class="discussion" markdown="1">
 
 {:.rquestion}
 But in the midst of this sea of meanings: is there a privileged idea of "reading"? an ideal picture of reading and the reader? 
@@ -69,14 +74,17 @@ Or better, in the spirit of a "latent ambiguity", is there a way in which the bo
 
 {:.rquestion}
 If so, is this a valuable kind of reading, to what extent is it or can it be threatened by technological shifts, and to what extent should we protect? At all costs? What counter forces should be weighed against it? Are there other potential values to be achieved by allow this mode of reading to be reduced or threatened?
+</div>
 
 ## Reading Before Print
 
 It might be helpful for us to remind ourselves about reading before the modern era. 
 
-Obviously some people read, but as we have previously discussed, the notion of silent reason was practically unknown. The goal of reading for much literate history was to read aloud so that others could hear it.
+Obviously some people read, but as we have previously discussed, the notion of silent reason was practically unknown. The goal of reading for much of literate history was to read aloud so that others could hear it.
 
 So now, imagine that a machine comes a long which can "recite" the text allowed. Now, no one needs to read, because the "end goal" of reading has been achieved by other means. 
+
+<div type="dicsussion" markdown="1">
 
 {:.rquestion}
 Has there been a loss? or should we consider this progress? 
@@ -86,6 +94,8 @@ In such a world, we might imagine that soon no one knows how to decipher the scr
 {:.rquestion}
 Is this a bad or a good development?
 
+</div>
+
 This is a good example of a "latent ambiguity" because in a world where "reading a text" out loud was the only way for it to be recited, it was taken for granted (or the question was never considered) that the ability "to read" was itself important. The recitation was seen as the goal, and someone knowing how to read was an obvious necessary means of achieving this goal. But when the machine appears, able to take care of the reciting function, people were forced to ask for the first time: is it it important that we continue to cultivate this ability to "read"? Should we spend many of our precious hours here on earth learning to read? Is it worth it?
 
 ## Reading After Print
@@ -94,7 +104,7 @@ We might extend this example to think about some of the real world technological
 
 If today, we read in order to obtain information, and now that information can be more quickly or effectively communicated through a picture or a video, is it a problem if people are reading less or losing certain kinds of reading skills altogether?
 
-A comparable example might be the ability to remember phone numbers. In the days before the cell phone, people usually cultivated strong memories for preserving telephone numbers. Today, few of us "know" a phone number by heart. This could be conceived as a loss, but is this bad? Is it important that we retain the ability memorize phone numbers? Before the cell phone, we never really had to ask this question because we just "had to" memorize phone numbers. It is only now, that we no longer "have to" that we are confronted with the question "should we"?
+A comparable example might be the ability to remember phone numbers. In the days before the cell phone, people usually cultivated strong memories for preserving telephone numbers. Today, few of us "know" a phone number by heart. This could be conceived as a loss, but is this bad? Is it important that we retain the ability memorize phone numbers? Before the cell phone, we never really had to ask this question because we just "had to" memorize phone numbers. *It is only now that we no longer "have to" that we are confronted with the question "should we"?*
 
 ## Comparable examples in writing
 
@@ -102,7 +112,12 @@ We could ask similar questions about writing.
 
 If the goal of writing is to communicate, let's say the events of a baseball game. If a program or AI bot can effectively compose this sports report, this will mean that human beings will write less and eventually cease to write post games reports. Note that this is not the future, but the present: See [The Associated Press is using AI to write Minor League Baseball articles](https://www.dailymail.co.uk/sciencetech/article-3668837/Your-days-numbered-sports-writer-Associated-Press-using-AI-write-Minor-League-Baseball-articles.html) or consider [this-news-writing-bot-is-now-free-for-everyone](https://www.wired.com/2015/10/this-news-writing-bot-is-now-free-for-everyone/)
 
-Is this a problem? Is human experience diminished somehow? Or is this equivalent to human beings no longer remembering phone numbers because they have an external tool to do the remembering for them.
+<div class="discussion" markdown="1">
+
+{:.rquestion}
+Is this a problem? Is human experience diminished somehow? Or is this equivalent to human beings no longer remembering phone numbers because they have an external tool to do the remembering for them?
+
+</div>
 
 The possibility of communicating via written text without ever writing was not something previously imagined, thus we never really had to take a stand on the value of the pure writing act because it was deemed necessary to the goal of communication whether we valued it or not. But if human writing is no longer necessary for written communication, it forces upon us the question of value with new urgency. It is, in a word, a "Latent ambiguity".
 
@@ -112,19 +127,19 @@ In the next 5 or so class we will explore various people writing on topics that 
 
 We will begin in 20th century with practitioners and philosophers that express frustration with the limitations placed on the experience of reading by the printed medium. Here our interest is in new horizons that might be opened when information is communicated in different forms or how the experience of reading might be enriched through the expansion or revaluation of the "best kind of reading". 
 
-We will look at this: 
+We will look at this...
 
-1) from the prospective of computer scientists and visionaries of the coming internet (e.g. Bush and Nelson).
-2) from literary studies and the potentials of "hypertextual reading" (Landow, Barthes, Foucault)
-3) from the idea of distant reading and distant writing.
+1. from the prospective of computer scientists and visionaries of the coming internet (e.g. Bush and Nelson).
+2. from literary studies and the potentials of "hypertextual reading" (Landow, Barthes, Foucault).
+3. from the idea of distant reading and distant writing (Moretti, et al.).
 
-Once we have seen some of these new possibilities, we will hopefully have laid bare the relevant "latent ambiguities".
+Once we have seen some of these new possibilities, we will (hopefully) have laid bare the relevant "latent ambiguities".
 
-Then I want to look at some critics of new media: voices that want to defend the idea that there is something extremely valuable about the act of sustained silent deep reading, and that as a value it must be defended, when previously it did not need a defense because it was technological demanded.
+Then I want to look at some critics of new media: voices that want to defend the idea that there is something extremely valuable about the act of sustained silent deep reading, and that as a value it must be defended, when previously it did not need a defense because it was technologically demanded.
 
 # Introduction to Today's Reading
 
-With today's reading we want to consider two thinkers that helped pioneer the idea of a networked reading. These thinkers were able to raise themselves above the immediate "ruling ideas" of the dominant medium and raise critiques about its limitations. They were secondly able to imagine how the digital medium might enable new forms of reading and writing that would overcome these limitations. 
+With today's reading we want to consider two thinkers that helped pioneer the idea of networked reading. These thinkers were able to raise themselves above the immediate "ruling ideas" of the dominant medium and raise critiques about its limitations. They were secondly able to imagine how the digital medium might enable new forms of reading and writing that would overcome these limitations. 
 
 # As We May Think
 
@@ -137,7 +152,7 @@ In the opening pages he points to how much research is lost.
 
 For example, he offers the example of Mendel and the concept of laws of genetics lost to research because of insufficient access. (See <span class="citation" data-reading="JNA89KWB=>p. 3"/>)
 
-He write: 
+He writes: 
 
 > "and this sort of catastrophe is undoubtedly being repeated all about us, as truly significant attainments become lost in the mass of the inconsequential." <span class="citation" data-reading="JNA89KWB=>p. 3"/>
 
@@ -160,11 +175,11 @@ Bush thinks most people will immediately think of simple arithmetic, as seen in 
 
 > But "the repetitive processes of thought are not confided however, to matters of arithmetic and statistics. In fact, every time one combines and records facts in accordance with established logical processes, the creative aspect of thinking is concerned only with the selection of the data and the process to be employed and the manipulation thereafter is repetitive in nature and hence a fit matter to be relegated to the machine." <span class="citation" data-reading="JNA89KWB=>p. 10"/>
 
-In other words, the construction, recording, and recalling of **data relationships** is also something that machine could help up us with, but is often overlooked.
+In other words, the construction, recording, and recalling of **data relationships** is also something that machine could help up us with, but it is often overlooked.
 
 </div>
 
-Note 1: It is worth noting the language that Bush uses of "freeing the brain" and "relief...from laborious detailed manipulation" (See <span class="citation" data-reading="JNA89KWB=>p. 11"/>) and the general distinction between creative and repetitive tasks, stands in fairly stark contrast to Socrates' concern about writing as a way of out sourcing memory. 
+Note 1: It is worth noting the language that Bush uses of "freeing the brain" and "relief...from laborious detailed manipulation" (See <span class="citation" data-reading="JNA89KWB=>p. 11"/>) and the general distinction between creative and repetitive tasks, stands in fairly stark contrast to Socrates' concern about writing as a way of out-sourcing memory. 
 
 For example he says: 
 
@@ -178,6 +193,7 @@ In this respect, we can see him complaining of an inhibitor to progress that is 
 
 > "Progress is inhibited by the exceedingly crude way in which mathematicians express their relationships. They imply a symbolism which grew like Topsy and has little consistency; a strange fact in that most logical field." <span class="citation" data-reading="JNA89KWB=>12"/> 
 
+{:.rquestion}
 Could we say the same thing about the notation of the way we write? How we indicate headings, paragraphs, footnotes, etc?
 
 {:.question}
@@ -185,7 +201,7 @@ Beyond the generation of information? Where does Bush see the computer as helpfu
 
 <div class="answer" markdown="1">
 
-Bush indicates the idea of "selection of data", the curation of data and organization of data. 
+Bush points to the "selection of data": the curation of data and the organization of data. 
 
 > "But back to the main point, the computer could be useful for the generation of data, but also the "selection of data". <span class="citation" data-reading="JNA89KWB=>p. 12"/> <!-- near the bottom -->
 
@@ -197,11 +213,11 @@ Bush indicates the idea of "selection of data", the curation of data and organiz
 
 Bush's focus here takes an interesting turn. Unlike many of the military uses forseen for the computer, namely the crunching of numbers and generation of ballistic trajectories, he imagines a feature of computing power that lies "between the lines" so to speak. 
 
-That is, he imagines the computer being helpful not just in the generation of data, but the unique and novel ways that data might be connected, broken apart, and re-connected. 
+That is, he imagines the computer being helpful not just in the generation of data, but in the unique and novel ways that data might be connected, broken apart, and re-connected. 
 
 This might be a useful point to remind ourselves of the concept of metadata. To make such connections, we need to keep track of data. 
 
-This is not done with eyeballs, ears, or writing; rather with enough abstraction, we should see this once more as an "Information problem", keeping track of information becomes simply the task of generating information about information *ad infinitum*.
+This is not done with eyeballs, ears, or writing. With enough abstraction, we should see this once more as an "information problem". That is, keeping track of information becomes simply the task of generating information about information *ad infinitum*.
 
 Bush sees this better than most and he imagines what could be possible when the computer is able to manage both the data and the metadata.
 
@@ -220,26 +236,35 @@ In the constructions of trails of association, one thing that seems to be remark
 
 He goes on: 
 
-> p. 17 "and the trails to do not fade".  <span class="citation" data-reading="JNA89KWB=>p. 17"/>
+> p. 17 "and his trails do not fade".  <span class="citation" data-reading="JNA89KWB=>p. 17"/>
 
 This also strikes me as important. In many cases in research, we build associative trails in order to arrive at a conclusion. We then write an article about our conclusions, while casting aside the trail of data we used to make this conclusion. We generally do this because the printed medium does not have the space to record all our data. While understandable, this makes the conclusion of research less transparent and less verifiable through repetition.
 
 Bush here imagines the ability to save and name the trail, creating the possibility of the future re-use and future-re-discovery of what is often lost in scholarship. 
 
+<div class="discussion" markdown="1">
+
 {:.question}
-What are the limits of his vision?
+Despite the fact that Bush is a visionary, can you discern any limits to what he can see? Are there any kinds of associations and connections that he does not yet seem to recognize?
 
 {:.answer}
-In my view the associations he seems are largely limited to the associations made by an individual researchers. He does not yet see the possibility of social connectivity as we know it today. 
+In my view, the associations he see are largely limited to the associations made by an individual researchers. He does not yet see the possibility of social connectivity as we know it today. 
 
 {:.rquestion}
 Do you see any other concerns or drawbacks back with the research environment he envisions?
 
+</div>
+
 # Literary Machines
 
-Let us turn now to now the pioneering thought of Ted Nelson. Nelson was fascinated with Bush's ideas and, as he was writing closer to the dawn of the personal computing and internet age, was able to envision more possibilities and accordingly saw the limitations of the print medium with more urgency. 
+Let us turn now to now the pioneering thought of Ted Nelson. Nelson was fascinated with Bush's ideas and, since he was writing closer to the dawn of the personal computing and internet age, he was able to envision more possibilities. Likewise, he also saw the limitations of the print medium with more urgency. 
 
-{:.rquestion} From reading these texts, what do you see as the most fundamental frustration with the existing state of information and the communication of information?
+<div class="discussion" markdown="1">
+
+{:.rquestion} 
+From reading these texts, what do you see as the most fundamental frustration with the existing state of information and the communication of information?
+
+</div>
 
 Perhaps more than anything else, Nelson seems concerned with the "rigidity" of the linear sequence enforced by print media.
 
@@ -256,11 +281,14 @@ Let's briefly consider each of these concerns.
 
 <div class="discussion" markdown="1">
 
-<span class="respond"/> Are there ways that “visually encoded data” “spoils the unity and structure of interconnection”?
+{:.rquestion} 
+Are there ways that “visually encoded data” “spoils the unity and structure of interconnection”?
 
-<span class="respond"/> How does the static nature of printed text spoil this sense of interconnectedness?
+{:.rquestion} 
+How does the static nature of printed text spoil this sense of interconnectedness?
 
-<span class="respond"/> How have printed texts tried to overcome these limitations?
+{:.rquestion} 
+How have printed texts tried to overcome these limitations?
 
 </div>
 
@@ -289,11 +317,14 @@ The question, how can we encode this with enough precision (less entropy) to mak
 
 <div class="discussion" markdown="1">
 
-<span class="respond"/> What kinds of content often get forced into a linear sequence via "publication" through a printed medium?
+{:.rquestion} 
+What kinds of content often gets forced into a linear sequence via "publication" through a printed medium?
 
-<span class="respond"/> How does this single sequence distort or affect or reception of the message?
+{:.rquestion} 
+How does this single sequence distort or affect or reception of the message?
 
-<span class="respond"/> What would it mean to be able to traverse this content via multiple or varied perspectives? How might this give us new perspectives on the message?
+{:.rquestion} 
+What would it mean to be able to traverse this content via multiple or varied perspectives? How might this give us new perspectives on the message?
 
 </div>
 
@@ -307,29 +338,38 @@ Listen to the following interview and then consider the following questions
 <!-- could break video up into time sequences to match discussion questions -->
 <div class="discussion" markdown="1">
 
-<span class="respond"/> What do you make of the interviewers skepticism about the usefulness or desirability of the personal computer?
+{:.rquestion} 
+What do you make of the interviewer's skepticism about the usefulness or desirability of the personal computer?
 
-<span class="respond"/> What possibilities and use cases does he imagine? Are these use cases determined by the dominant medium with which he is familiar?
+{:.rquestion} 
+What possibilities and use cases does he imagine? Are these use cases determined by the dominant medium with which he is familiar?
 
-<span class="respond"/> What makes it possible for Nelson to see outside this dominant paradigm?
+{:.rquestion} 
+What makes it possible for Nelson to see outside this dominant paradigm?
 
 Specific questions: 
 
-<span class="respond"/> Why does the interviewer see the computer as a specific kind of machine useful for only one purpose, (numbers) and having nothing to do with texts or literature. Is this a failure to understand the "universality" of information as a transmitting medium? How so? 
+{:.rquestion} 
+Why does the interviewer see the computer as a specific kind of machine useful for only one purpose, (numbers) and having nothing to do with texts or literature. Is this a failure to understand the "universality" of information as a transmitting medium? How so? 
 
-<span class="respond"/> Does Nelson seem to understand this better how so?
+{:.rquestion} 
+Does Nelson seem to understand this better how so?
 
 Around minute 4, Nelson talks about encountering a book in a library and being deprived on important information.
 
-<span class="respond"/> What information is lacking? How does this relate to his first concern that the print medium destroys the "unity and structure of interconnection"?
+{:.rquestion} 
+What information is lacking? How does this relate to his first concern that the print medium destroys the "unity and structure of interconnection"?
 
 Around minute 8, the interviewer appeals the satisfactory nature of "file folders"? 
 
-<span class="respond"/> Why does he treat this technology as sufficient? 
+{:.rquestion} 
+Why does he treat this technology as sufficient? 
 
-<span class="respond"/> Why does Nelson see file folders as limiting and an example of a confining "linear" or 1-dimensional sequence?
+{:.rquestion} 
+Why does Nelson see file folders as limiting and an example of a confining "linear" or 1-dimensional sequence?
 
-<span class="respond"/> How does this relate to Nelson's second concern about print medium forcing us to think within single sequences?
+{:.rquestion} 
+How does this relate to Nelson's second concern about print medium forcing us to think within single sequences?
 
 </div>
 
@@ -359,33 +399,40 @@ He calls it "paradigmatic regression".
 
 <div class="discussion" markdown="1">
 
-<span class="respond"/> Why are metaphors helpful when confronting new technology?
+{:.rquestion} 
+Why are metaphors helpful when confronting new technology?
 
-<span class="respond"/> How can these metaphors end up limiting our use of a new technology?
+{:.rquestion} 
+How can these metaphors end up limiting our use of a new technology?
 
 Look again at the examples given by Van Zundert on p. 86. Consider again Nelson's complaint that in creating word processing applications, we "imitated paper"...
 
-<span class="respond"/> ...where do you see examples of this in your own life? Where do see the metaphors of the page structuring your experience of the computer? Can you think of any ways this might limiting your imagination how you might encounter and experience this information?
+{:.rquestion} 
+ ...where do you see examples of this in your own life? Where do see the metaphors of the page structuring your experience of the computer? Can you think of any ways this might limiting your imagination how you might encounter and experience this information?
 
 </div>
 
-# Class Project: Criteria for Evaluating an Edition
+<!-- # Class Project: Criteria for Evaluating an Edition
 
-As our main assignment for this unit, I'm going to ask you to look at text editions online and evaluate the success of that edition. [More on that later](12-hypertext-2#hyptertext-assignment).
+As our main assignment for this unit, I'm going to ask you to look at textual editions online and evaluate the success of that edition. 
 
 But before we can do that we have to develop a rubric to identify what success means and in what contexts. 
 
-I would like to generate this rubric as a class over the course of reading and discussion the next few weeks using a common tag 'edition-rubric' to unite this discussion.
+I would like to generate this rubric as a class over the course of our reading and discussion. 
 
 <div class="discussion" markdown="1" id="edition-rubric">
 
-<span class="respond">What criteria should be using to judge when a "text edition" succeeds? 
+{:.rquestion} 
+What criteria should be using to judge when a "text edition" succeeds? 
 
-<span class="respond">Is success context dependent? Does it depend on goals? 
+{:.rquestion} 
+Is success context dependent? Does it depend on goals? 
 
-<span class="respond">What are some goals that a digital edition might be well suited for? Why?
+{:.rquestion} 
+What are some goals that a digital edition might be well suited for? Why?
 
-<span class="respond">What are some goals that a digital edition might not be well suited for? Why?
+{:.rquestion} 
+What are some goals that a digital edition might not be well suited for? Why?
 
-</div>
+</div> -->
 
