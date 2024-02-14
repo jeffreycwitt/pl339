@@ -13,7 +13,7 @@ watchtime: 27
 1. TOC 
 {:toc}
 
-Important: please make sure to listen to the interview with Nelson [embedded below](#nelson-v-allen-1979-interview). It's about 25 minutes and really good! I'm eager to discuss it with you tomorrow.
+Important: please make sure to listen to at least the first half of the interview with Nelson [embedded below](#nelson-v-allen-1979-interview) (up to the 11 minute, 18 second mark). I'm eager to discuss it with you tomorrow.
 
 # Introduction
 
@@ -332,7 +332,7 @@ What would it mean to be able to traverse this content via multiple or varied pe
 
 # Nelson v Allen 1979 Interview
 
-Listen to the following interview and then consider the following questions
+Listen to at least the first half (up to the 11 minute, 18 second mark) of the following interview and then consider the following questions.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RVU62CQTXFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
