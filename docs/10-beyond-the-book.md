@@ -13,6 +13,8 @@ watchtime: 27
 1. TOC 
 {:toc}
 
+Important: please make sure to listen to the interview with Nelson [embedded below](#nelson-v-allen-1979-interview). It's about 25 minutes and really good! I'm eager to discuss it with you tomorrow.
+
 # Introduction
 
 At this point we are going to shift our attention from the general discourse about information to some of its implications. 
