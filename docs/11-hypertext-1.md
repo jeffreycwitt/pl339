@@ -29,10 +29,17 @@ As part of our review let me pose an opening discussion question.
 
 In Bush, Nelson, and today in Landow, each thinker in their own way has been emphasizing how critical it is to be able to treat a text as a container of smaller independent units. These units have been referred to variously as chunks, atoms, granular units, or even "lexia". No matter the name, these small units have been treated as critical to the possibility of experiencing a text as multi-sequenced rather than as confined to a single sequence. 
 
-<span class="respond"> My question is, why is this ability to treat the text as composed of progressively smaller text units so important? Or conversely, if we could only "address" the large top level text container, why might this prevent our ability to experience a text as multi-sequenced?
+<div class="discussion" markdown="1">
+
+{:.rquestion}
+My question is, why is this ability to treat the text as composed of progressively smaller text units so important? 
+
+{:.rquestion}
+Or conversely, if we could only "address" the large top level text container, why might this prevent our ability to experience a text as multi-sequenced?
+
 </div>
 
-Today I'd like to continue this discussion of the limiting effects of the print medium by looking at few more articles from another group of thinkers with a different background. Not only did the printed text feel constraining to computer and internet pioneers, but it also felt limiting to a group of thinkers often referred to as "post-structuralists", which includes thinkers like Jacques Derrida, Michel Foucault and Roland Barthes.
+Today I'd like to continue this discussion of the limiting effects of the print medium by looking at a few more articles from another group of thinkers with a different background. Not only did the printed text feel constraining to computer and internet pioneers, but it also felt limiting to a group of thinkers often referred to as "post-structuralists", which includes thinkers like Jacques Derrida, Michel Foucault and Roland Barthes.
 
 Landow's book **Hypertext** is informed by the concerns of these thinkers and his excitement about the new affordances of the digital medium. We will look at two of his chapters focused on reading and writing respectively, and, during our consideration of hypertext writing, look at two essays by Barthes and Foucault on the nature of authorship.
 
@@ -41,13 +48,20 @@ Landow's book **Hypertext** is informed by the concerns of these thinkers and hi
 At the outset it would be good for us to simply clarify what Landow has in mind by a "hypertext", how it differs from a non-hypertext, and why he thinks this is a positive technological innovation.
 
 <div class="discussion" markdown="1">
+
 After reading Landow's account of several examples and types of hypertext...
 
-<span class="respond">...what seems like a good definition of a "hypertext"? How might this differ from a mere "digitized book"? (See the bottom of pg. 70 where he begins to make some subtle comparisons of what are mostly "digitized" books to more robust hypertext projects.)
+{:.rquestion}
+...what seems like a good definition of a "hypertext"? How might this differ from a mere "digitized book"? (See the bottom of pg. 70 where he begins to make some subtle comparisons of what are mostly "digitized" books to more robust hypertext projects.)
 
-<span class="respond"> Why do you think Landow is a "fan" of hypertexts? 
+{:.rquestion}
+Why do you think Landow is a "fan" of hypertexts? 
 
-<span class="respond"> What new possibilities does he see and why does he see these possibilities as a positive? What criteria does he use, explicitly or implicitly to evaluate hypertext as a positive or beneficial technology? (If you can find some criteria, this might be useful to our project of collecting ideas for an "edition-rubric". So make sure to mark your annotation with the tag "edition-rubric")
+{:.rquestion}
+What new possibilities does he see and why does he see these possibilities as a positive? 
+
+{:.rquestion}
+What criteria does he use, explicitly or implicitly to evaluate hypertext as a positive or beneficial technology? 
 
 With respect to this last question, consider the section beginning on p. 71 that states: 
 
@@ -57,7 +71,7 @@ With respect to this last question, consider the section beginning on p. 71 that
 
 </div>
 
-Finally, Landow again seems to note how our language is inherited from our familiarity with a previous medium. But just like the word "send" was changed by the telegraph, so words like "book" and "text" require a new meaning. But at the same time, old words and old meanings threaten (through "paradigmatic regression") to limit our imagination of a possible future.
+Finally, Landow again seems to note how our language is inherited from our familiarity with a previous medium. But just like the word "send" was changed by the telegraph, so words like "book" and "text" require a new meaning. At the same time, old words and old meanings threaten (through "paradigmatic regression") to limit our imagination of a possible future.
 
 In the section beginning on p. 82, Landow discusses how the terms "read, write, and text" as so heavily infused with the paradigm of the print medium that using them in a hypertext environment inevitably distorts their meaning and creates ambiguity.
 
@@ -73,9 +87,12 @@ Let's briefly consider the two examples he gives.
 
 Landow gives a first example about the word "book" on pp. 82 and 83.
 
-<span class="respond"> Why does Landow think the word "book" is a problematic way of identifying "what one reads"?
+{:.rquestion}
+Why does Landow think the word "book" is a problematic way of identifying "what one reads"?
 
-<span class="respond"> Specifically, how does the word "book" obfuscate or hide many of things we do (or can do) when we read a "hypertext"?
+{:.rquestion}
+Specifically, how does the word "book" obfuscate or hide many of things we do (or can do) when we read a "hypertext"?
+
 </div>
 
 ## Example 2: What is a Text?
@@ -84,7 +101,8 @@ Landow gives a first example about the word "book" on pp. 82 and 83.
 
 Landow gives a second example about the word "text" on pp. 83 and 84.
 
-<span class="respond"> Why does Landow think the word "text" is a problematic way of identifying "what one reads"? How has the world of print determined the meaning of this word in specific ways? How might this understanding of the word "text" limit our understanding of a "hyperlinked text"?
+{:.rquestion}
+Why does Landow think the word "text" is a problematic way of identifying "what one reads"? How has the world of print determined the meaning of this word in specific ways? How might this understanding of the word "text" limit our understanding of a "hyperlinked text"?
 
 </div>
 
@@ -96,11 +114,14 @@ Let's turn now to a consideration of writing in the age of hypertext. First let'
 
 <div class="discussion" markdown="1">
 
-<span class="respond"> Why is Barthes concerned with the idea of an "author"? What does he think the "author" is (or should) be dead? 
+{:.rquestion}
+Why is Barthes concerned with the idea of an "author"? What does he think the "author" is (or should) be dead? 
 
-<span class="respond"> If you had to summarize this article in one sentence, how would you describe Barthes' central message or thesis?
+{:.rquestion}
+If you had to summarize this article in one sentence, how would you describe Barthes' central message or thesis?
 
 (Note that I've added several question annotations to the text itself; please consider these questions as you read.)
+
 </div>
 
 ## Foucault 
@@ -115,10 +136,11 @@ Summary on p. 153
 <!-- How many different ways can we speak of an author? How does the printed medium (constrain our recognition of these author types or prompt us to singular or  simplistic views of the author) -->
 <!-- what are authors of "discursivity"; how might these "authors" get lost within the writing o another "author" -->
 
+{:.rquestion}
+Why does Foucault think it is important to identify these different author functions (See especially, Foucault's conclusion on p. 157)? How might it change our approach to the study or investigation of literature?
 
-<span class="respond"> Why does Foucault think it is important to identify these different author functions (See especially, Foucault's conclusion on p. 157)? How might it change our approach to the study or investigation of literature?
-
-<span class="respond"> With this new research goal in mind, how might different media aid in this study? Does the printed text push us to see one kind of relationship between author and text (e.g. "author" as independent "genius" creating a new product)? Might a hypertext medium allow us to see a more complicated, participatory productive process and help us see the author as a social construction that emerges only after the text is realized? How so?
+{:.rquestion} 
+With this new research goal in mind, how might different media aid in this study? Does the printed text push us to see one kind of relationship between author and text (e.g. "author" as independent "genius" creating a new product)? Might a hypertext medium allow us to see a more complicated, participatory productive process and help us see the author as a social construction that emerges only after the text is realized? How so?
 </div>
 
 ### Example 1
@@ -129,7 +151,7 @@ The example I have in mind is Wikipedia. The article, [*The Hive*](https://www.t
 
 As the story goes, Wikipedia's creation and success was an accident. The original goal was to build *Nupedia*, an online encyclopedia. But Nupedia was conceived along the lines of a paper encyclopedia, where the limits of the medium made collaborative composition difficult and likewise make the idea iterative updates and revisions impossible. 
 
-Thus the original vision expected that articles would be assigned to *Authosr* --- single individuals with "credentialed" names that would function as a source of social authority for the article. (Consider: Why I should trust this article? Because it was written by this *Author* not just any "writer").
+Thus the original vision expected that articles would be assigned to *Authors* --- single individuals with "credentialed" names that would function as a source of social authority for the article. (Consider: Why I should trust this article? Because it was written by this *Author* not just any "writer").
 
 The articles states:
 
@@ -145,7 +167,7 @@ Why do you think it was so slow? How might the ideas of power and authority that
 {:rquestion}
 Similarly, why the might the inability to think of the text as a container for a series of smaller text chunks have prevented collaboration and slowed the process?
 
-Wikipedia was then invented "on the side", original intended to be "quick" (Wiki being the Hawaiian word for "quick") entries that could help speed up the progress of Nupedia. But why was it so quick? How did the idea of "text chunks" connected via hyperlink and the "death of the author" contribute to this quickness? 
+Wikipedia was then invented "on the side", originally intended to be "quick" (Wiki being the Hawaiian word for "quick") entries that could help speed up the progress of Nupedia. But why was it so quick? How did the idea of "text chunks" connected via hyperlink and the "death of the author" contribute to this quickness? 
 
 Because individual contributions could be linked together, anyone could contribute any amount. Authorship became collaborative, effectively destroying the associations of power, authority, and prestige that are normally associated with the "author". 
 
@@ -159,10 +181,9 @@ As the article notes, the speed and scale with which Wikipedia outpaced Nupedia 
 
 Landow gives his own example to support Foucault's notion that "author" means more than mere "writer", but is laden with social ideas about "power" and "authority" which affects how a society and culture operates.
 
-On p. 139 Landow reports that an anecdote about how the University of British Columbia refused to consider co-authored works for promotion. 
+On p. 139, Landow reports that an anecdote about how the University of British Columbia refused to consider co-authored works for promotion. 
 
 Here we might ask, in the manner of Foucault, is the university merely "responding" to some natural idea about the important independent genius of the author (Authors = "individuals" who individually write books)? Or conversely, is the institution itself helping to construct the idea of authorship, defining the rules of when someone gets to be counted as an "author" and when a textual work ought to count as being an "authored work" (with all the prestige and importance that this implies)?
-
 
 Landow writes: 
 
@@ -172,8 +193,12 @@ This quotation introduces evaluative language ("exaggerated", "falsify", "distor
 
 So, here we might ask: 
 
+<div class="discussion" markdown="1">
+
 {:.rquestion}
 What are some of the consequences of this "exaggeration"?  Why do we care?
+
+</div>
 
 One answer among many might be...
 
@@ -195,7 +220,7 @@ Our annotations are tethered to the anchoring text, but at the same time our ann
 
 However, if we remove the underlying article, our annotations are less powerful and meaningful. As hypertext writers become co-dependent, do we also become co-owners? Or conversely, do copyright laws end up privileging one kind of writing, while diminishing or threatening another form. 
 
-In general, I would say intellectual property laws do not handle these new situations well, precisely they have been invented for a world where one kind of writing was dominant. Now that a new technology has emerged where a new kind of writing is possible, we find that these laws are not adapting well to the new context. (We will see this issue of copyright and intellectual property emerge again when we read Lessig later in the Semester.)
+In general, I would say intellectual property laws do not handle these new situations well, precisely because they have been invented for a world where one kind of writing was dominant. Now that a new technology has emerged where a new kind of writing is possible, we find that these laws are not adapting well to the new context. (We will see this issue of copyright and intellectual property emerge again when we read Lessig later in the semester.)
 
 ## Landow and the possibilities of hypertext writing
 
@@ -205,7 +230,9 @@ Finally let's end with just a little bit of reflection on what hypertext writing
 
 In the section title "How the Print Author Differs from the Hypertext Author" (pp. 131-135)...
 
-<span class="respond"> What are some of things that Landow thinks the "hypertext" writers can do that the traditional writer cannot? Why does he see these as positive?
+{:.rquestion} 
+What are some of things that Landow thinks the "hypertext" writers can do that the traditional writer cannot? Why does he see these as positive?
+
 </div>
 
 <!-- ## In Sum: The Post Structuralists Critique
