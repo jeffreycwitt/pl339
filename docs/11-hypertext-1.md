@@ -24,7 +24,7 @@ Speaking generally, we focused on three main features:
 * interconnectivity (Bush and Nelson)
 * non-linearity or multi-sequence (Neslon)
 
-<div class="discussion" markdown="1">
+
 As part of our review let me pose an opening discussion question.
 
 In Bush, Nelson, and today in Landow, each thinker in their own way has been emphasizing how critical it is to be able to treat a text as a container of smaller independent units. These units have been referred to variously as chunks, atoms, granular units, or even "lexia". No matter the name, these small units have been treated as critical to the possibility of experiencing a text as multi-sequenced rather than as confined to a single sequence. 
