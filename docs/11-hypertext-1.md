@@ -3,7 +3,7 @@ layout: lecture
 title: "11: Hypertext 1"
 nav_order: 11
 reading: ['FBJ5I9LY=>focus: pp. 70-85', 'C8JPGTVW', '7PSB2JCJ', '2THNCN2E']
-published: false
+published: true
 date: 2024-02-20
 ---
 <!-- landow reconfiguring text, FBJ5I9LY; landow reconfiguring author C8JPGTVW; Barthes 7PSB2JCJ, Foucault 2THNCN2E-->
