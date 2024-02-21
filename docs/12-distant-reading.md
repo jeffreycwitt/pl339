@@ -183,6 +183,8 @@ Why kinds of results did you see?
 {:.rquestion}
 Do you see any trends that were interesting or potentially interesting? Tell us why.
 
+</div>
+
 ## Topic Modelling.
 
 While Moretti digs into a specific problem aided by distant reading, he doesn't give us a very clear picture of the specific technical methods often used in "distant reading".
