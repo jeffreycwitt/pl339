@@ -168,6 +168,8 @@ Another simple example of distant reading is the (Google Ngram Viewer)[Albert Ei
 
 In this application you can explore all google books "from a distance", namely by looking for frequency trends in different the corpus of google books broken out by time.
 
+See https://books.google.com/ngrams/info for more info and tips on advanced use.
+
 <div class="discussion" markdown="1">
 
 Try out the application yourself. Try searching different words or phrases. Try comparing those words or against other phrases. 
