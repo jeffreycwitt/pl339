@@ -4,7 +4,7 @@ title: "12: Distant Reading"
 reading: ["UDFASSFK=>focus 54-58", "YCUSFWXI=>focus pp. 207-219, 225-227", "BL386AX3=>focus: pp. 1-8, 15-16"]
 nav_order: 12
 date: 2024-02-22
-published: false
+published: true
 ---
 
 <!-- conjectures on world literature, UDFASSFK; daily nous on GPT3 R29TCBQA; zimmerman WXUV48X3; Nguyen EG5GDCPK;  GPT-3 example 1, HZSRCCAL, GPT-3 example 2 4MXHYS44-->
@@ -20,13 +20,13 @@ Thus far, we have discussed three main categories where philosophers and theoris
 
 * access immediacy (Bush)
 * interconnectivity and context (Bush, Nelson)
-* non-linearity or multi-sequence (Neslon)
+* non-linearity or multi-sequence (Neslon, Landow)
 
 Today, I want to look at a fourth category, that we might call: 
 
 * machine accessibility or machine assisted analysis
 
-Here I mean that the text is not merely accessible to human readers, but also accessible in a form that it can be "acted upon" by machines with the result that the machine can assist in new forms of analysis.
+Here I mean that the text is not merely accessible to human readers, but also accessible in a form that it can be "acted upon" by machines with the result that the machine can assist in new forms of analysis (or is this a type of "reading"?).
 
 We will try to get a glimpse of this approach and its potential benefits by looking at some of the writings by one of the pioneers of a controversial approach to literature, Franco Moretti. Moretti calls this approach "distant reading".
 
@@ -50,11 +50,14 @@ grasped as such, as a whole..." (Moretti, 2003, p. 67-68)
 
 How does this concern resurface in his essay, "Conjectures on World Literature"?
 
-<span class="respond"/> What is world literature?
+{:.rquestion}
+What is world literature?
 
-<span class="respond"/> What does it aim to study?
+{:.rquestion}
+What does it aim to study?
 
-<span class="respond"/> What problems or concerns does it raise about national literature?
+{:.rquestion}
+What problems or concerns does it raise about national literature?
 
 </div>
 
@@ -115,7 +118,9 @@ or above; the device, or the genre." ("Slaughterhouse", p. 217)
 
 <div class="discussion" markdown="1">
 
-<span class="respond"/> What does he conclude from his analysis of the "form" of clues across many different stories, abstracted from the stories themselves?
+{:.rquestion}
+
+What does he conclude from his analysis of the "form" of clues across many different stories, abstracted from the stories themselves?
 
 </div>
 
@@ -165,14 +170,15 @@ Here are a few bog posts that describe the process and its application in the hu
 
 * [the-lda-buffet-is-now-open-or-latent-dirichlet-allocation-for-english-majors/](https://www.matthewjockers.net/2011/09/29/the-lda-buffet-is-now-open-or-latent-dirichlet-allocation-for-english-majors/)
 * [topic-modeling-made-just-simple-enough/](https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/)
-* [topic-modeling-what-humanists-actually-do-it-guest-post-teddy-roland-university](https://digitalhumanities.berkeley.edu/blog/16/07/14/topic-modeling-what-humanists-actually-do-it-guest-post-teddy-roland-university)
 
 Here's one quick description of what it does: 
 
 > "If a computer were shown many academic articles, it might discover that articles containing the word reading frequently include others like interpretation, criticism, discourse. Without foreknowledge of these words' meanings, it could statistically learn that there is a useful relationship between them. In turn, the computer would be able to identify articles in which this cluster of words seems to be prominent, corresponding to humanist methods.
-This process is popularly referred to as topic modeling, since it attempts to capture a list of many topics (that is, statistical word clusters) that would describe a given set of texts." [topic-modeling-what-humanists-actually-do-it-guest-post-teddy-roland-university](https://digitalhumanities.berkeley.edu/blog/16/07/14/topic-modeling-what-humanists-actually-do-it-guest-post-teddy-roland-university )
+This process is popularly referred to as topic modeling, since it attempts to capture a list of many topics (that is, statistical word clusters) that would describe a given set of texts." [topic-modeling-what-humanists-actually-do-it-guest-post-teddy-roland-university (link no longer live)](https://digitalhumanities.berkeley.edu/blog/16/07/14/topic-modeling-what-humanists-actually-do-it-guest-post-teddy-roland-university)
 
-# "Distant Writing"
+During our class time, we will look at some live examples together.
+
+<!-- # "Distant Writing"
 
 Finally, let's end with a provocative little foray into the future. 
 
@@ -212,7 +218,7 @@ If it is a latent ambiguity and we must now for the first time deliberate over t
 
 <span class="respond"/> If a machine can write legal briefs, sports summaries, and entertainment reports and humans are no longer needed to write such articles, is that a good thing or a bad thing? Are there distinction to be made here? Is it good if humans no longer have to do certain kinds of writing, but bad if all human generated writing stops? What are the distinguishing characteristics?
 
-</div>
+</div> -->
 
 <!-- Cut material 
 
