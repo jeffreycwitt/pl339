@@ -160,7 +160,28 @@ Ascari says something to this effect on p. 7:
 
 > Moretti’s  view  of  detective  fiction  uncritically  rests  on  the  normative  and  restrictive attitude that golden age theorists advertised as objective, adopting a self-validating  positivistic  stance.  Van  Dine  and  Knox,  however,  like  Richard  Austin  Freeman,  Dorothy  Sayers,  and  others,  were  first  and  foremost  creative  writers whose theoretical and historical constructs reflect their own practice as authors of clue puzzles. The rules to which they subscribed are no longer regarded as timelessly valid but rather as culturally situated, for in the course of the twentieth century, detective fiction deeply changed in terms of both creative writing and theoretical/historical constructs." (Ascari, p. 7)
 
-# A More Concrete Example of Distant Reading Applications: Topic Modelling.
+# More Concrete Examples of Distant Reading Applications: 
+
+## Google Ngram Viewer
+
+Another simple example of distant reading is the (Google Ngram Viewer)[Albert Einstein,Sherlock Holmes,Frankenstein](https://books.google.com/ngrams/)]
+
+In this application you can explore all google books "from a distance", namely by looking for frequency trends in different the corpus of google books broken out by time.
+
+<div class="discussion" markdown="1">
+
+Try out the application yourself. Try searching different words or phrases. Try comparing those words or against other phrases. 
+
+{:.rquestion}
+What kinds of searches did you try?
+
+{:.rquestion}
+Why kinds of results did you see?
+
+{:.rquestion}
+Do you see any trends that were interesting or potentially interesting? Tell us why.
+
+## Topic Modelling.
 
 While Moretti digs into a specific problem aided by distant reading, he doesn't give us a very clear picture of the specific technical methods often used in "distant reading".
 
