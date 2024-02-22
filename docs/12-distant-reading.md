@@ -164,7 +164,7 @@ Ascari says something to this effect on p. 7:
 
 ## Google Ngram Viewer
 
-Another simple example of distant reading is the (Google Ngram Viewer)[Albert Einstein,Sherlock Holmes,Frankenstein](https://books.google.com/ngrams/)]
+Another simple example of distant reading is the [Google Ngram Viewer](https://books.google.com/ngrams/)
 
 In this application you can explore all google books "from a distance", namely by looking for frequency trends in different the corpus of google books broken out by time.
 
