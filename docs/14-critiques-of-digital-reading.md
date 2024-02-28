@@ -4,7 +4,7 @@ title: "14: Shallow Reading, Shallow Thinking"
 reading: ["NG3M96X8", "ZG3ZLM6Y", "SH5H2UC8"]
 nav_order: 14
 date: 2024-02-29
-published: false
+published: true
 ---
 <!-- carr 6, carr 7, Birkerts c. 11-->
 ## Table of contents
@@ -44,13 +44,17 @@ Consider pages 102-103. The problem seems to lie in its connectivity, its abilit
 
 <div class="discussion" markdown="1">
 
-<span class="respond"> What does Carr/Updike mean when he says the digital book (even just in e-reader form) loses its "edges" (p. 104). Why do they consider these edges -- far from being a limitation -- to be an important positive feature of the book?
+{:.rquestion}
+What does Carr/Updike mean when he says the digital book (even just in e-reader form) loses its "edges" (p. 104). Why do they consider these edges -- far from being a limitation -- to be an important positive feature of the book?
 
-<span class="respond"> How does this compare to the concerns with imposed "linearity" by the likes of Bush, Nelson, Landow, Foucault, or Barthes?
+{:.rquestion}
+How does this compare to the concerns with imposed "linearity" by the likes of Bush, Nelson, Landow, Foucault, or Barthes?
 
-<span class="respond"> How are we supposed to weigh the pros and cons here? Or is there no way to speak of better and worse, but only the ability to recognize that every gain comes with loss?
+{:.rquestion}
+How are we supposed to weigh the pros and cons here? Or is there no way to speak of better and worse, but only the ability to recognize that every gain comes with loss?
 
-<span class="respond"> Consider your own reflections on your own reading this semester, in print and online. Where are th "edges" when you read? How has your comprehension changed or been affected relative to the presence or absence of these "edges"
+{:.rquestion}
+Consider your own reflections on your own reading this semester, in print and online. Where are th "edges" when you read? How has your comprehension changed or been affected relative to the presence or absence of these "edges"
 
 </div>
 
@@ -60,7 +64,7 @@ I can see an objection here. Why can't we just say, don't follow the link. If yo
 
 Perhaps this is a theoretical possibility, but if we believe Carr, empirical studies show that, on the whole, we can't stop ourselves from following these links when we see them. 
 
-Thus, in sum, though it may not be NECESSARY that the digital medium destroys the "edges" of a text, it nevertheless remains true that in practice the "edges" are fading.
+Thus, in sum, though it may not be NECESSARY that the digital medium destroys the "edges" of a text, it nevertheless remains true that, in practice, the "edges" are fading.
 
 ## More concerns
 
@@ -83,7 +87,7 @@ Carr sees the content on the internet as constantly moving and changing. The dyn
 
 **NOTE:** I'd like to note a tension here between the dominant use of a medium and the possibilities of the medium. 
 
-One the one hand, it is **absolutely** false (and uninformed) to say that we cannot create "immutable" digital objects. Consider the idea of ["Content-Addressable Storage"](https://en.wikipedia.org/wiki/Content-addressable_storage) as opposed to the system you and I are most familiar built on "Location-Addressable Storage".
+One the one hand, it is **absolutely** false (and uninformed) to say that we cannot create "immutable" digital objects. Consider the idea of ["Content-Addressable Storage"](https://en.wikipedia.org/wiki/Content-addressable_storage) as opposed to the system you and I are most familiar with which is built on "Location-Addressable Storage".
 
 On the other hand, it is true that the web at the present functions primarily through look ups on "mutable objects" or through "Location Addressability".
 
@@ -113,11 +117,14 @@ To be sure, the digital technology opens up the possibility for new kinds of use
 
 <div class="discussion" markdown="1">
 
-<span class="respond"/> But does it seem possible that we could design interfaces that encourage deeper think/reading? Or am I too optimistic here?
+{:.rquestion}
+Does it seem possible that we could design digital interfaces that encourage deeper think/reading? Or am I too optimistic here?
 
-<span class="respond"/> Can you think of examples of electronic texts and interfaces that promote concentrated reading/writing?
+{:.rquestion}
+Can you think of examples of electronic texts and interfaces that promote concentrated reading/writing?
 
-<span class="respond"/> What are some examples of interfaces that really "reward" distracted or shallow reading in the sense that Carr has in mind?
+{:.rquestion}
+What are some examples of interfaces that really "reward" distracted or shallow reading in the sense that Carr has in mind?
 </div>
 
 ## New Authorial Responsibilities? 
@@ -128,8 +135,12 @@ I mean: if the printed book had natural limits, then I, as an author, could assu
 
 But it is less clear that this is the case today. 
 
+<div class="discussion" markdown="1">
+
 {:.rquestion}
 Do we therefore, as scholars/researchers/content creators, need to take a deeper interest in the construction of our interfaces. In addition to what we write, do we also need to design suitable interfaces, or at least recommend those interfaces where we think this information is best read? Or is the job/responsibility of someone else?
+
+</div>
 
 ## Carr's Critique In Sum
 
@@ -149,7 +160,7 @@ Why is the Internet so successfully and re-wiring the brain? He writes:
 
 I think we should step back from Carr's critique and think once more about the categories of evaluation. 
 
-Unless we can identify some sort of eternal structures of good and bad by which we can evaluate the pros and cons of  these changes to our brain, we have to admit that Carr's ideas about positive and negative brain function are themselves determined by the medium which has dominated his life (namely the print medium). 
+Unless we can identify some sort of eternal structures of good and bad by which we can evaluate the pros and cons of these changes to our brain, we have to admit that Carr's ideas about positive and negative brain function are themselves determined by the medium which has dominated his life (namely the print medium). 
 
 If the goal/ideal is to consume information in the way we have during the reign of the printed book, then it is not hard to see the changes he describes as negative. 
 
@@ -157,8 +168,8 @@ Similarly, if the goal was to be able to memorize vast sums of information (as i
 
 But of course, even if Carr is correct and the digital medium means that we are losing certain cognitive abilities, we have to acknowledge that this same medium is also engendering new kinds of cognitive functions.
 
-{:rquestion}
-How do we compare these skills against the skills of the past?
+<!-- {:rquestion}
+How do we compare these skills against the skills of the past? -->
 
 Carr certainly acknowledges that a "trading of skills" is taking place. See p. 121 where he says:
 
@@ -176,9 +187,13 @@ But in response to the above quotations, Carr writes:
 
 > "the Net is making us smarter, in other words, only if we define intelligence by the Net's own standards." (p. 141)
 
+<div class="discussion" markdown="1">
+
 But I wonder: isn't Carr equally criticizing this "new intelligence" by defining 'intelligence' according to the standards of the printed book?
 
 Or is he appealing to a universal standard of intelligence that belongs to the essence of what it means to be a human being and human flourishing?
+
+</div>
 
 ## Carr on the additional Cognitive Burden of the Hyperlinked Text
 
@@ -198,9 +213,9 @@ Thus, in addition to "losing edges", the mere presence of a hyperlink and our **
 
 In Chapter 7, p. 122 he writes: 
 
-> But the extensive activity in the brains of surfers also points to why deep reading and other acts of sustained concentration become so difficult online. The need to evaluate links and makt; related . · navigational choices, while also processing a multiplicity of fleeting :: sensory stimuli, requires constant mental coordination and decision•·; making, distracting the brain from the work of interpreting text or} other information. <span class="citation" data-reading="ZG3ZLM6Y=>p. 122" data-annotation="https://hyp.is/dgmGdhFOEeuRbuNwQG77Uw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Carr_2020_The_Jugglers_Brain_Chapter_7.pdf"/>
+> But the extensive activity in the brains of surfers also points to why deep reading and other acts of sustained concentration become so difficult online. The need to evaluate links and make related navigational choices, while also processing a multiplicity of fleeting sensory stimuli, requires constant mental coordination and decision making, distracting the brain from the work of interpreting text or other information. <span class="citation" data-reading="ZG3ZLM6Y=>p. 122" data-annotation="https://hyp.is/UhIFItY1Ee6EsecP761ypw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Carr_2020_The_Jugglers_Brain_Chapter_7.pdf"/>
 
-.See also p. 125, the two most dominant sources of cognitive over-load are "extraneous problem-solving and divided attention".
+<!-- See also p. 125, the two most dominant sources of cognitive over-load are "extraneous problem-solving and divided attention". -->
 
 Again he writes: 
 
@@ -230,6 +245,7 @@ Let's keep things short here with one discussion question.
 
 We've spent a lot of time with people praising hyperlinks and here we see Birkerts, like Carr, critical of their use.
 
-<span class="respond"/> Can you identify one interesting critique or observation that he makes in the assigned chapter? Why did you find it interesting? Do you think it is a strong critique? Or do you think it is somehow off the mark?
+{:.rquestion}
+Can you identify one interesting critique or observation that he makes in the assigned chapter? Why did you find it interesting? Do you think it is a strong critique? Or do you think it is somehow off the mark?
 
 </div>
