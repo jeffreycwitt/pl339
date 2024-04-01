@@ -4,7 +4,7 @@ title: "20: Translation and Latent Ambiguities"
 reading: ["PIHI9TSZ=>cc. 9-10"]
 nav_order: 20
 date: 2024-04-02
-published: false
+published: true
 ---
 ## Table of contents
 {: .no_toc .text-delta } 
@@ -30,19 +30,19 @@ Rather than re-narrate Lessig's account, let me provide some "reading questions"
 {:.rquestion}
 What are the "facts" of Olmstead vs. United States case? 
 
-{:.question}
+{:.dquestion}
 What is the constitutional issue at stake in this case?
 
 {:.answer}
 4th amendment.
 
-{:.question}
+{:.dquestion}
 What are the background presuppositions standing behind the 4th amendment? (see esp. p. 160)
 
 {:.answer}
 Lessig notes that it presupposes 1) a "common-law system of trespass" (making the notion "property" seemingly central to to amendment's interpretation). 2) It also makes assumptions about what is and is not technologically possible. Trespassing property was understood as the only real way to conduct a search.
 
-{:.question}
+{:.dquestion}
 What are the two identified strategies for responding to contextual change (see bottom of p. 160)?
 
 {:.answer}
@@ -68,9 +68,9 @@ The key here is to differentiate between the essential and inessential. Lessig a
 
 Lessig summarizes this nicely on p. 164:
 
-> "This form of argument is common to our constitutional history, and it is central to the best in our constitutional tradition.....It acknowledges that to do this the Court may have to read the amendment differently, but it is **not reading the amendment differently to improve the amendment or to add to its protections**. It is reading the amendment differently to accommodate the changes in protection that have resulted from changes in technology. It is a translation to preserve meaning" (p. 163)
+> "This form of argument is common to our constitutional history, and it is central to the best in our constitutional tradition....It acknowledges that to do this the Court may have to read the amendment differently, but it is **not reading the amendment differently to improve the amendment or to add to its protections**. It is reading the amendment differently to accommodate the changes in protection that have resulted from changes in technology. It is a translation to preserve meaning" (p. 163)
 
-This seems like a decisive definition of translation. And critical here is the fact that in translation there is no attempt to change the amendment by adding new protections or introducing new values. In the *Olmstead* example. Brandeis is NOT trying to add new protections to the new amendment. He reads the "essence" of the amendment as trying to protect a "reasonable right to privacy" and thus, in light of technological changes, he changes the scope of the amendment in order to **maintain** the essence of the amendment.
+This seems like a decisive definition of translation. Critical here is the fact that in translation there is no attempt to change the amendment by adding new protections or introducing new values. In the *Olmstead* example. Brandeis is NOT trying to add new protections to the new amendment. He reads the "essence" of the amendment as trying to protect a "reasonable right to privacy" and thus, in light of technological changes, he changes the scope of the amendment in order to **maintain** the essence of the amendment.
 
 Critical for us in this definition of "translation" is how this kind of change differs from what we see in a "Latent Ambiguity"
 
@@ -78,9 +78,11 @@ Critical for us in this definition of "translation" is how this kind of change d
 
 Consider Lessig's final example of the "Confrontation Clause". Here the question is whether the constitution requires that a defendant confront his accuser in a one-directional or bi-directional way.
 
-<span class="respond"/> Why can't this be resolved simply through a "translation"?
+{:.rquestion}
+Why can't this be resolved simply through a "translation"?
 
-<span class="respond"/> If this is a Latent Ambiguity, what are the two undecided values that become visible once technology suddenly makes both one-direction and bi-directional confrontation possible?
+{:.rquestion}
+If this is a Latent Ambiguity, what are the two undecided values that become visible once technology suddenly makes both one-direction and bi-directional confrontation possible?
 
 </div>
 
@@ -118,7 +120,7 @@ So, what do we need to establish in order to see this as a Latent Ambiguity?
 
 1) First: we need to understand what the traditional laws of "intellectual property" are, what values they seem to protect, and the degree to which the laws achieve these protections with the help of nature and limits of the existing "code" of the dominant communications medium.
 
-2) Second: we need to see how a new communications medium makes it possible that obedience to the existing laws (and the values they protect) create the possibility of new injuries and grievances that previously (in an earlier media era) these same laws would never have produced. Further, we need to see how that these old values and new injurious create a conflict, without the past offering us any guidance about how to resolve this conflict. The question of resolution, of deciding the proper way to measure injuries on either side, has never been resolved because the protection of the old values never previously came at the cost of other valued goods. It is the change in "code" that creates this new conflict and requires us to re-evaluate our commitment to the old values and how much we want to commit to them in the light new kinds of irritations and problems.
+2) Second: we need to see how a new communications medium makes it possible for obedience to the existing laws (and the values they protect) to create new injuries and grievances that previously (in an earlier media era) these same laws would never have produced. Further, we need to see how these old values and new injurious create a conflict without the past offering us any guidance about how to resolve this conflict. The question of resolution, of deciding the proper way to measure injuries on either side, has never been resolved because the protection of the old values never previously came at the cost of other valued goods. It is the change in "code" that creates this new conflict and requires us to re-evaluate our commitment to the old values and how much we want to commit to them in the light new kinds of irritations and problems.
 
 **Note**: This three-fold structure is an example of the the classic Marxist pattern of **contradiction**. 
 
@@ -136,7 +138,7 @@ So let's follow Lessig and consider the first two aspects, leaving it an open qu
 
 Around p. 192, Lessig points out that the inventors of copyright law lived in a world where copying was very difficult (why? how did technology/code create this "difficulty"?), thus copyright law only applied to a very small domain. 
 
-The use of cultural material did not generally involve "copying", thus copyright law said very little about how most people might "use" cultural material.
+The general use and re-use of cultural material by the public at large did not generally involve "copying", thus copyright law said very little about how most people might "use" cultural material.
 
 ## 2. The new code and its conflicts
 
@@ -149,7 +151,7 @@ Even calling up a file from a hard drive to RAM means making a copy. Showing som
 
 Now a set of laws that once meant to regulate a small corner of life, leaving much area for freedom, is now poised to regulate huge areas of human activity and culture that it may have never been meant to regulate.
 
-A good summary reason for this (which really applies to all "latent ambiguities") is that in a previous world "costs of control" were so high, that much freedom remained almost *as if* by the laws of nature.
+A good summary reason for this (which really applies to all "latent ambiguities") is that in a previous world "costs of control" were so high that much freedom remained almost *as if* by the laws of nature.
 
 But now that the costs of control are becoming very cheap, it is possible to apply the law to new areas of life at a scale never before thought possible (see p. 196). 
 
@@ -161,22 +163,50 @@ The question: is this what we really want?
 
 Consider this first in real space.
 
-While the law protect real property from trespass. It doesn't do this perfectly. It might be possible to step on someone's property temporarily. 
+While the law protects real property from trespass, it doesn't do this perfectly. It might be possible to step on someone's property temporarily. 
 
-<span class="respond">  But what if the landowner saw this is as an imperfection and set up a electric wall to zap anyone from even momentarily touching a single square inch of their property. Is this socially desireable? Can you imagine an social goods that might be lost through this level of enforcement via code/architecture?
+{:.rquestion}
+But what if the landowner saw this is as an imperfection and set up a electric wall to zap anyone from even momentarily touching a single square inch of their property. Is this socially desireable? Can you imagine an social goods that might be lost through this level of enforcement via code/architecture?
 
-<span class="respond"> How is this similar to what is happening in the case of Intellectual Property? What social goods might be lost by the perfect enforcement of Intellectual Property through code/architecture?
+{:.rquestion}
+How is this similar to what is happening in the case of Intellectual Property? What social goods might be lost by the perfect enforcement of Intellectual Property through code/architecture?
 
-<span class="respond"/> Where do we see example of copyright control (through code) inhibiting action that once might have been allowed because it was impossible to monitor.
+{:.rquestion}
+Where do we see example of copyright control (through code) inhibiting action that once might have been allowed because it was impossible to monitor? Can you think of examples from your own life and interaction with digital content?
 
-<span class="respond"/> What are the pros and cons of the new increased control?
+{:.rquestion}
+What are the pros and cons of the new increased control?
 
 </div>
 
 In sum: the existing laws combined with new technology are creating un-imagined effects. In this case, IP-protecting code has the potential to restrict the free use of cultural material on a vast scale. But because the high costs of enforcement once protected the free use of culture, no laws have ever been created to protect this freedom. 
 
-And now we must decide where before the "code" decided. Do we like the freedoms previously protected by the limitations of the old technology? If so, then in a world of new technological possibilities, we are required to explicitly declare this through written laws what was only implicit in the architecture of the old technology.
+And now we must decide, whereas before the real space "code" decided. 
 
+Do we like the freedoms previously protected by the limitations of the old technology? If so, then in a world of new technological possibilities, we are required to explicitly declare this and explain why these values should be protected.
+
+<div class="discussion" markdown="1">
+
+As Lessig notes, the answer to this question will involve balancing interests. On the one hand, we want to preserve intellectual property to incentive production. This incentivization is recognized as a public good.
+
+But this needs to be balanced against other goods that are not so easy to see. Namely the value of "free culture" (see p. 192 and following).
+
+{:.rquestion}
+What does Lessig mean by "free culture"?
+
+{:.rquestion}
+Why is this an important public good? How does it create value for a society that "permission culture" cannot?
+
+{:.rquestion}
+Can you think of any concrete examples in which society was enriched by free culture? 
+
+{:.rquestion}
+Why did this value depend on the freedom to "fair use" of intellectual property? 
+
+{:.rquestion}
+Why might this example not have been possible in a world where intellectual property claims was exhaustively enforced?
+
+</div>
 
 
 
