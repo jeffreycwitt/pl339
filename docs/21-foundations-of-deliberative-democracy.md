@@ -80,7 +80,8 @@ Rousseau had a very unique political ambition. One might even say a very paradox
 
 His goal, as he himself states, was:
 
-> "to find a form of association wherever one gets the benefits of coordinated political action but nevertheless always remains free as before." (Social Contract, Book I, c. 6)
+{:#to-find-a-form}
+> "to find a form of association wherever one gets the benefits of coordinated political action but nevertheless always remains free as before." <span class="citation" data-reading="DQCKDACX=>Book I, c. 6" data-annotation="https://hyp.is/aMEPkPG9Ee6rNS-PvYX1Fw/www.gutenberg.org/files/46333/46333-h/46333-h.htm"/>
 
 Stated otherwise: the goal was to find a form of association where everyone remains their own law giver; they remain "autonomous". But at the same time, autonomous individuals would (almost magically it seems)  choose for themselves a course of action that is equal and fair to everyone. Thus, while remaining self-ruled, social cooperation and coordination would result without anyone being coerced by a foreign power. 
 
@@ -125,7 +126,7 @@ In theory this sounds rather nice, but a practical challenge that a community fa
 Rousseau's expresses this difficult in his description of the required "legislator" concluding that: 
 
 {:#it-would-take-gods}
-> "It would take gods to give men laws" <span class="citation" data-reading="DQCKDACX, Book II, c. 7" data-annotation="https://hyp.is/N-zXcPG7Ee6nAqeu0C0JGg/www.gutenberg.org/files/46333/46333-h/46333-h.htm">
+> "It would take gods to give men laws" <span class="citation" data-reading="DQCKDACX=>Book II, c. 7" data-annotation="https://hyp.is/N-zXcPG7Ee6nAqeu0C0JGg/www.gutenberg.org/files/46333/46333-h/46333-h.htm"/>
 
 So on the one hand, we have the idea of what an organized and peaceful society of self-ruled people would look like. But we face a difficulty about how to generate and identify the precepts and commands of the general will. 
 
