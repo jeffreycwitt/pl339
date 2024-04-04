@@ -191,7 +191,7 @@ It needs a large diversity of opinions to be made public so these different "the
 
 # Holmes and Brandeis: Competing Reasons to Value Free Speech
 
-In chapter 2, Sunstein introduces the opinions of Holmes and Brandeis who both argue in favor protecting free speech. 
+In chapter 2 (pages 52-56), Sunstein introduces the opinions of Holmes and Brandeis who both argue in favor protecting free speech. 
 
 But as Sunstein notes, they do so for different reasons
 
