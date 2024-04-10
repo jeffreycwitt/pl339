@@ -29,71 +29,83 @@ Let's consider each of these points in turn, using both articles by Habermas and
 
 Louw, quoting Habermas, provides a basic definition of the public sphere on pages 93 and 96. There are three main questions here.
 
+<div class="discussion" markdown="1">
+
 {:.rquestion} 
 How does Louw/Habermas define the Public Sphere?
 
-{:.requestion}
+{:.rquestion} 
 What were the modes of communication that enabled/constituted the public sphere? How did people communicate? e.g. Who owned the medium? What kind of medium was it?
 
 {:.rquestion} 
 Why is dialectic critical to the Frankfurt School and Habermas's idea of the public sphere? How do the above "media conditions" help ensure the "dialectical" nature of communication with the Public Sphere?
 
+</div>
 
 # 2. Commercialization and Neo-Feudalism
 
 Next Louw and Habermas describe changing conditions in 20th century.
 
+<div class="discussion" markdown="1">
+
 {:.rquestion} 
 What is happening to media conditions in the 20th century?
 
-For example, according to Louw, pp. 91-92, what is Garnham's concerning with broadcasting regulations in the 1980's 
+For example, according to Louw, pp. 91-92, what is Garnham's concerning with broadcasting regulations in the 1980's?
 
 {:.rquestion} 
 Why, again according to Louw, p. 96, does the Frankfurt School think this critique extends long before the 1980's and was already already operative from the 1920-1970s?
 
+</div>
+
 In short, Louw describes a process by which the deliberating bourgeoisie class, which previously aimed at "checking" administrative power, has now risen to the level of the ruling class. As such, their interest has shifted from preserving a space for deliberation to preserving the status quo. 
 
-This has involved a shift from preserving public spaces to the commercialization or privatization of space. Garhnam's concern about the "auctioning" of the broadcasting spectrum (in the name of "Consumer Sovereignty") is a good example.
+This has involved a shift from preserving public spaces to the commercialization or privatization of space. Garhnam's concern about the "auctioning" off of the broadcasting spectrum (in the name of "Consumer Sovereignty"!) is a good example.
 
 This commercialization or privatization has the effect of preventing "dialectic" through reducing a plurality of voices to one.
 
-> p. 96: "Following Adorno and Horkheimer's lead, the Frankfurt School argued that the culture industry was inherently undialectical and one-dimensional, producing 'mass culture' made by an elite group of professional communicators" 
+{:#following-adorno-and-horkheimer}
+>"Following Adorno and Horkheimer's lead, the Frankfurt School argued that the culture industry was inherently undialectical and one-dimensional, producing 'mass culture' made by an elite group of professional communicators." <span class="citation" data-reading="6L3H3YVN=>p. 96" data-annotation="https://hyp.is/R08y4vcwEe61Jmf4yyJigA/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Louw_2001_Sites_for_Making_Meaning_III_Commercialization_an.pdf"> 
 
 
 {:.rquestion} 
-
 Why does Habermas call this neo-feudalism?
 
-It seems important that we call this "neo-feudalism" and not just "feudalism" because there is an important difference. The new feudalists are not the same as the old feudalists. The feudalists must now wield influence and control in a different way than the land owning aristocrats. Notably, their decisions must still **appear** to be justified by the "will of the people". 
+It seems important that we call this "neo-feudalism" and not just "feudalism" because there is an important difference. The new feudalists are not the same as the old feudalists of the Middle Ages. The feudalists must now wield influence and control in a different way than the land owning aristocrats. Notably, their decisions must still **appear** to be justified by the "will of the people". 
 
 Thus in order to enact their private wishes, they must apply pressure to the communications apparatus that produces the "pool of reasons" from which they can rationalize their decisions. 
 
-In this regard, it remains important that there is still the appearance of a Public Sphere even it is no longer there.
+In this regard, it remains important that there is still the appearance of a Public Sphere even if it is no longer there.
 
-Habermas notes specifically that it was in the 20th century that we saw the rise "professional communicators" (or public relations). The goal of this "publicists" was to "construct the idea" of "public opinion" (rather than "enable" public opinion to emerge) in support of the predetermined aims of private interest.
+Habermas notes specifically that it was in the 20th century that we saw the rise of "professional communicators" (or public relations). The goal of these "publicists" was to "construct the idea" of "public opinion" (rather than "enable" public opinion to emerge) in support of the predetermined aims of private interest.
 
 Habermas writes on the final page of our reading:
 
-> At one time the process of making proceedings public (Publizitat) was intended to subject persons or affairs to public reason, and to make political decisions subject to appeal before the court of public opinion. But often enough today the process of making public simply serves the arcane policies of special interests; in the form of "publicity" it wins public prestige for people or affairs, thus making them worthy of acclamation in a climate of non-public opinion. The very words "public relations work" (Oeffentlichkeitsarbeit) betray the fact that a public sphere must first be arduously constructed case by case, a public sphere which earlier grew out of the social structure. Even the central relationship of the public, the parties and the parliament is affected by this change in function. <span class="citation" data-reading="6L3H3YVN=>p. 55" data-annotation="https://hyp.is/AkzaFij2Eeu2tk9QFmI4oQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Habermas_et_al._1974_The_Public_Sphere_An_Encyclopedia_Article_(1964).pdf">
+{:#at-one-time-the}
+> "At one time the process of making proceedings public (Publizitat) was intended to subject persons or affairs to public reason, and to make political decisions subject to appeal before the court of public opinion. But often enough today the process of making public simply serves the arcane policies of special interests; in the form of "publicity" it wins public prestige for people or affairs, thus making them worthy of acclamation in a climate of non-public opinion. The very words "public relations work" (Oeffentlichkeitsarbeit) betray the fact that a public sphere must first be arduously constructed case by case, a public sphere which earlier grew out of the social structure. Even the central relationship of the public, the parties and the parliament is affected by this change in function." <span class="citation" data-reading="RIY8VCD2=>p. 55" data-annotation="https://hyp.is/bHONVvcsEe6fTq-iIVjfUg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Habermas_et_al._1974_The_Public_Sphere_An_Encyclopedia_Article_(1964).pdf">
 
-See also my notes on the Habermas article, especially [here](https://hyp.is/VwAeuimqEeuJ_HtBN6qFNw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Habermas_et_al._1974_The_Public_Sphere_An_Encyclopedia_Article_(1964).pdf) and [here](https://hyp.is/s30KzCmqEeuUz5_NSNGZMg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Habermas_et_al._1974_The_Public_Sphere_An_Encyclopedia_Article_(1964).pdf)
+See also my notes on the Habermas article, especially [here](https://hyp.is/iMaoqPcsEe61T5OhEuf6RQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Habermas_et_al._1974_The_Public_Sphere_An_Encyclopedia_Article_(1964).pdf) and [here](https://hyp.is/p5a5qPcsEe63V0-s5QG2Qg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Habermas_et_al._1974_The_Public_Sphere_An_Encyclopedia_Article_(1964).pdf)
 
 And Louw echoes this on p. 94:
 
-> "over time, the public sphere enmeshed with 'representivity' and managerialism, becoming merely a means to legitimate managerialists ruling elites. Habermas bemoaned the resulting 'pseudo' democracy which he said, effectively constituted a 'depoliticized public realm' (Habermass 1976:37) Hence, by the late twentieth century, although there was the appearance of political participation in Western democracies, the effects of offering voters 'pseudo' choices meant that politicians faced increasingly cynical electorates..." <span class="citation" data-reading="RIY8VCD2=>p. 94" data-annotation="https://hyp.is/Vfo0iCj2EeuCf69MoABXQQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Louw_2001_Sites_for_Making_Meaning_III_Commercialization_an.pdf">
+{:#over-time-the-public}
+> "over time, the public sphere enmeshed with 'representivity' and managerialism, becoming merely a means to legitimate managerialists ruling elites. Habermas bemoaned the resulting 'pseudo' democracy which he said, effectively constituted a 'depoliticized public realm' (Habermass 1976:37) Hence, by the late twentieth century, although there was the appearance of political participation in Western democracies, the effects of offering voters 'pseudo' choices meant that politicians faced increasingly cynical electorates..." <span class="citation" data-reading="6L3H3YVN=>p. 94" data-annotation="https://hyp.is/5SHZnPcsEe6njCeaLX6_hQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Louw_2001_Sites_for_Making_Meaning_III_Commercialization_an.pdf">
 
 
 <div class="discussion" markdown="1">
 
 Let's spend sometime reflecting on this claim:
 
-<span class="response"/> Can we think of some of examples in which subtle/hidden pressure is placed on public discussion, in order to produce a particular outcome, albeit cloaked in the legitimizing cloak of "public opinion"?
+{:.rquestion}
+Can we think of some of examples in which subtle/hidden pressure is placed on public discussion, in order to produce a particular outcome, albeit cloaked in the legitimizing cloak of "public opinion"?
 
 One might consider the tremendous role "public relations" firms have in determining what "news programs" and "newspapers" present to us as "news". Consider [one example here of Amazon pitching positive "news" stories to local news outlets](https://www.huffpost.com/entry/amazon-coronavirus-news-script_n_5ecd74afc5b6e90d24b2cab3)
 
-<span class="response"/> Louw, p. 94, refers to two-party systems as another example. How so? How does a two-party system determine the outcome of deliberation in certain ways, while suggesting that the outcome is simply the "will of the people? Why might this not actually represent what the "people" really want. 
+{:.rquestion} 
+Louw, p. 94, refers to two-party systems as another example. How so? How does a two-party system determine the outcome of deliberation in certain ways, while suggesting that the outcome is simply the "will of the people? Why might this not actually represent what the "people" really want. 
 
-<span class="response"> The Frankfurt School continually points to the way "private" control aims at producing a "homogenized" "mass culture" the weakens the ability for "dialectic" to function? What are some examples of the way "mass culture" tends to produce "pseudo public discussions" that are "undialectical and one-dimensional" (p. 96)? (See especially page 97).
+{:.rquestion}
+The Frankfurt School continually points to the way "private" control aims at producing a "homogenized" "mass culture" the weakens the ability for "dialectic" to function? What are some examples of the way "mass culture" tends to produce "pseudo public discussions" that are "undialectical and one-dimensional" (p. 96)? (See especially page 97).
 
 </div>
 
@@ -103,7 +115,8 @@ Finally, Louw on p. 99, anticipates an objection to the trend describe by Haberm
 
 Louw writes: 
 
-> "However, the last decades of the twentieth century saw the rapid growth of niche media" (p. 99).
+{:#however-the-last-decades}
+> "However, the last decades of the twentieth century saw the rapid growth of niche media." <span class="citation" data-reading="6L3H3YVN=>p. 99" data-annotation="https://hyp.is/ekurovcxEe6LQb8segO02A/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Louw_2001_Sites_for_Making_Meaning_III_Commercialization_an.pdf">
 
 {:.rquestion}
 What does he have in mind here? How might the expansion of cable programming, for example, be a counteracting influence on the homogenizing forces of "mass culture", thus restoring the chance for genuine dialectic to take place in the Public Sphere.
@@ -118,7 +131,8 @@ Why does Louw suggest this is NOT what is happening? (He provides 3 reasons on p
 {:.rquestion} 
 Where doe Louw (and Enzensberger) see real possibility for "dialectic" to re-emerge?
 
-> p. 103: "Global information capitalists will be compelled to continually expand the world's digital communication networks. The sheer size of the network makes it too large to control or to monitor or limit its uses fully. So just as the old bourgeois revolutionary 'public sphere' grew out of the Gutenberg print revolution, **so too may new 'human interactivities' grow as a by-product of using the (as yet unimagined) possibilities inherent in the evolving digital networks**"
+{:#global-information-capitalists-will}
+> p. 103: "Global information capitalists will be compelled to continually expand the world's digital communication networks. The sheer size of the network makes it too large to control or to monitor or limit its uses fully. So just as the old bourgeois revolutionary 'public sphere' grew out of the Gutenberg print revolution, **so too may new 'human interactivities' grow as a by-product of using the (as yet unimagined) possibilities inherent in the evolving digital networks**" <span class="citation" data-reading="RIY8VCD2=>p. 103" data-annotation="https://hyp.is/hi2NaPctEe6P09dXhxp5Ww/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Louw_2001_Sites_for_Making_Meaning_III_Commercialization_an.pdf">
 
 Here the suggestion is that as global international conglomerates build the Internet as a way to facilitate their global reach, they are unintentionally building a communications network of criticism that is very hard to silence.
 
@@ -128,9 +142,11 @@ Here the suggestion is that as global international conglomerates build the Inte
 
 But we might want to keep in mind that the Internet of the 1990s is much different from the Internet today. 
 
-<span class="respond"/> First, why does it seem like the Internet of the 1990s might at first escape the three concerns (raised above) against the promise of niche media markets to restore the Public Sphere. (e.g. expansive cable programming etc.)
+{:.rquestion}
+First, why does it seem like the Internet of the 1990s might at first escape the three concerns (raised above) against the promise of niche media markets to restore the Public Sphere. (e.g. expansive cable programming etc.)
 
-<span class="respond"/> Second, to what extent is the Internet of today growing increasingly susceptible to these concerns?
+{:.rquestion}
+Second, to what extent is the Internet of today growing increasingly susceptible to these concerns?
 
 </div>
 
@@ -139,7 +155,9 @@ But we might want to keep in mind that the Internet of the 1990s is much differe
 
 Gary Webb was an investigative reporter for the *San Jose Mercury* who died from suicide in 2004. Gary reported an important article critical of the Government and the CIA. The reception and eventual tarnishing of that article is a good example of the kind of power that mass media outlets have and why many look to the Internet as a kind of escape from this kind of control. 
 
-The Gary Webb saga was recently made into a Hollywood movie. Let's get a sense of the story from the trailer.
+The Gary Webb saga was recently made into a Hollywood movie, which I have asked the library to make available for you. So if your interested, [the movie is available for you to watch here](https://digitalcampus.swankmp.net/lnd341920/watch/DC7C33DCCF364329?referrer=direct).
+
+But let's get a sense of the story from the trailer.
 
 <div class="video">
 
@@ -147,9 +165,9 @@ The Gary Webb saga was recently made into a Hollywood movie. Let's get a sense o
 
 </div>
 
-A key dynamic in this story, in connection to the concerns about "Neo-Feudalism" raised by Habermas, is that Gary Webb worked for a very small market regional newspaper, **The San Jose Mercury**. This very small paper did not have a national readership. It did not have a lot of money, and thus it did not have the financial backing to defend a highly controversial story against critique, whether justified or not.
+A key dynamic in this story, in connection to the concerns about "Neo-Feudalism" raised by Habermas, is that Gary Webb worked for a very small market regional newspaper, **The San Jose Mercury**. This very small paper did not have a national readership. It did not have a lot of money. Thus it did not have the financial backing to defend a highly controversial story against critique, whether justified or not.
 
-Also relevant to our concern is where the loudest critique of Webb's story was coming from. Webb himself notes that the CIA remained largely silent to his reporting. Instead his story was heavily critiqued and dismissed by other newspapers. But these were not newspapers like his. They were "mass media" newspapers, backed by millions of dollars, controlled by elite power brokers. 
+Also relevant to our concern is where the loudest critiques of Webb's story were coming from. Webb himself notes that the CIA remained largely silent to his reporting. Instead his story was heavily critiqued and dismissed by other newspapers. But these were not newspapers like his. They were "mass media" newspapers, backed by millions of dollars, controlled by elite power brokers. 
 
 The Huffington Post's Ryan Grim provides a kind of summary article of the role mass media played in discrediting the story of Gary Webb in an article title [Kill The Messenger: How The Media Destroyed Gary Webb](https://www.huffpost.com/entry/kill-the-messenger_n_5962708)
 
@@ -157,39 +175,42 @@ The article focuses on the Washington Post in particular and suggests that its c
 
 Grim captures this in the words of Douglas Farah, a former reporter for the Washington Post:
 
-> "If you’re talking about our intelligence community tolerating — if not promoting — drugs to pay for black ops, it’s rather an uncomfortable thing to do when you’re **an establishment paper** like the Post,” Farah told me. **“If you were going to be directly rubbing up against the government, they wanted it more solid than it could probably ever be done.”** <span class="citation" data-reading="32BHTJTJ" data-annotation="https://hyp.is/I9jC7CjaEeuVTeOm6E4eyw/www.huffpost.com/entry/kill-the-messenger_n_5962708"/> 
+> "If you’re talking about our intelligence community tolerating — if not promoting — drugs to pay for black ops, it’s rather an uncomfortable thing to do when you’re **an establishment paper** like the Post,” Farah told me. **“If you were going to be directly rubbing up against the government, they wanted it more solid than it could probably ever be done.”** <span class="citation" data-reading="32BHTJTJ" data-annotation="https://hyp.is/psAWnvcuEe6iULduUWa2hA/www.huffpost.com/entry/kill-the-messenger_n_5962708"/> 
 
 {:.rquestion}
 Why might the Post be hesitant to too overtly criticize the government? How might this effect their long term success as a newspaper?
 
 Grim continues: 
 
-> "Farah, now a consultant on the drug trade with the Department of Homeland Security, speculated that the Post’s proximity to the corridors of power made it beholden to whatever the official line was at the time." <span class="citation" data-reading="32BHTJTJ" data-annotation="https://hyp.is/r-ONYijVEeu2Uluy5hVahg/www.huffpost.com/entry/kill-the-messenger_n_5962708"/> 
+{:#farah-now-a-consultant}
+> "Farah, now a consultant on the drug trade with the Department of Homeland Security, speculated that the Post’s proximity to the corridors of power made it beholden to whatever the official line was at the time." <span class="citation" data-reading="32BHTJTJ" data-annotation="https://hyp.is/y4i3zvcuEe69Wv953YnCYw/www.huffpost.com/entry/kill-the-messenger_n_5962708"/> 
 
 As Habermas noted this kind of influence is a big concern from the health of society truly governed by the will of the people. Recall: 
 
 ![picture](https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/HabermasPublicSphereFigures/Folie1.jpeg)
 
-In this image, we can see the danger. Habermas worries that the "administrative power", while seemingly constrained by the pool of "normative reasons" it has to justify its action, it can bypass this constraint if it is able to manipulate the deliberative/communications process that generates this "normative reasons".
+In this image, we can see the danger. Habermas worries that the "administrative power", while seemingly constrained by the pool of "normative reasons" it has to justify its action, can bypass this constraint if it is able to manipulate the deliberative/communications process that generates these "normative reasons".
 
 {:.rquestion}
 How might Habermas's concerns be exacerbated now that the Post has be bought by Amazon CEO, Jeff Bezos? Could there be a more extreme example of private control over public debate?
 
-Other journalists, like Beverly Bandler from Consortiumnews, have likewise seen the Gary Webb saga as power example the power of mass media to determine what does or does not get discussed in the public sphere.
+Other journalists, like Beverly Bandler from Consortium news, have likewise seen the Gary Webb saga as power example the power of mass media to determine what does or does not get discussed in the public sphere.
 
+{:#the-concerted-effort-by}
 > "2) The concerted effort by U.S. major news media, specifically, the New York Times, Los Angeles Times and Washington Post to not only disparage the scandal but also discredit investigative reporter Gary Webb who, in 1996, revived the story by explaining the Contra cocaine’s impact on U.S. cities in the 1980s."
-<span class="citation" data-reading="5SZGHU55" data-annotation="https://hyp.is/uNQHWijYEeuxUM_rum1KRA/consortiumnews.com/2014/11/02/gary-webb-and-media-manipulation/">
+<span class="citation" data-reading="5SZGHU55" data-annotation="https://hyp.is/BviYOPcvEe6txBf1gs5H6w/consortiumnews.com/2014/11/02/gary-webb-and-media-manipulation/">
 
 Gary Web's editor Dan Simon summarizes the saga as follows: 
 
+{:#the-mainstream-print-media}
 > “The mainstream print media was ominously silent until October and November 1996,” Simon continued, “when The New York Times, The Washington Post, and the Los Angeles Times all finally picked up the story. But instead of launching their own investigations into whether the CIA had shielded drug traffickers, these papers went after Gary’s reporting, although they ‘could not find a single significant factual error,’ as Gary’s then-editor at The Mercury News, Jerry Ceppos, would write in an internal memo.
-“But after that, the series was described frequently as ‘discredited.’ Soon the story and Gary himself were spoiled goods. Gary’s editor switched sides and penned an apologia distancing the paper from the series. Gary was forced out of his job, even though the body of evidence supporting Gary’s account was actually growing. Two years later, the CIA’s internal investigation would prove to be a vindication of Gary’s work.” <span class="citation" data-reading="5SZGHU55" data-annotation="https://hyp.is/AYyIZCjZEeuVEB94MLn-Wg/consortiumnews.com/2014/11/02/gary-webb-and-media-manipulation/">
+“But after that, the series was described frequently as ‘discredited.’ Soon the story and Gary himself were spoiled goods. Gary’s editor switched sides and penned an apologia distancing the paper from the series. Gary was forced out of his job, even though the body of evidence supporting Gary’s account was actually growing. Two years later, the CIA’s internal investigation would prove to be a vindication of Gary’s work.” <span class="citation" data-reading="5SZGHU55" data-annotation="https://hyp.is/P45nIvcvEe679O-DrK0P5Q/consortiumnews.com/2014/11/02/gary-webb-and-media-manipulation/">
 
-**Note** a particular insidious problem here: even to the tell the story of the Gary Webb saga one has to rely on sources. Sources like "consortiunews" or even the *Huffington Post* -- sources that see the story as an example of the power of mass media to silence independent news reporting -- are themselves typically also niche publications -- whereas major outlets like the Post and New York Times tend to be silent. (This makes sense sense: if the point here is that major news outlets need to be critiqued, one can hardly expect that these outlets will be eager to critique themselves.) But this creates a serious confidence problem for the general public. As the balance between niche publication and mass media publication grows, the problem of confidence and trust becomes more sinister and difficult to resolve. Niche publications are dismissed for being fringe; mass media publications grow more suspect because they seem invulnerable to critique.
+**Note** a particular insidious problem here: even to the tell the story of the Gary Webb saga one has to rely on sources. Sources like "consortium mews" or even the *Huffington Post* -- sources that see the story as an example of the power of mass media to silence independent news reporting -- are themselves typically also niche publications -- whereas major outlets like the Post and New York Times tend to be silent. (This makes sense sense: if the point here is that major news outlets need to be critiqued, one can hardly expect that these outlets will be eager to critique themselves.) But this creates a serious confidence problem for the general public. As the balance between niche publication and mass media publication grows, the problem of confidence and trust becomes more sinister and difficult to resolve. Niche publications are dismissed for being fringe; mass media publications grow more suspect because they seem invulnerable to critique.
 
 In any case, it is fitting, in the end, if we hear from Gary Webb himself. 
 
-(This video is also important because it helps us transition to our theme for our next meeting. Namely, Webb, at the end of the video, praises the Internet as vehicle to bring stories to light, stories that otherwise could not reach a national audience becomes of the costs of national publication and the control of the national market by a few powerful conglomerates.)
+(This video is also important because it helps us transition to our theme for our next meeting. More precisely, Webb, at the end of the video, praises the Internet as vehicle to bring stories to light, stories that otherwise could not reach a national audience becomes of the costs of national publication and the control of the national market by a few powerful conglomerates.)
 
 <div class="video">
 
