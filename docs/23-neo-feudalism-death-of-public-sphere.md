@@ -4,7 +4,7 @@ title: "23: Neo-Feudalism and the Death of the Public Sphere"
 reading: ["RIY8VCD2", "6L3H3YVN"]
 nav_order: 23
 date: 2024-04-11
-published: false
+published: true
 ---
 
 <!-- habermas "RIY8VCD2", louw "6L3H3YVN" -->
