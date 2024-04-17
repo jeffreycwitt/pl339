@@ -4,7 +4,7 @@ title: "25: Freedom of speech and Polarization"
 nav_order: 25
 reading: [5RCLA4K6, MZSRQI53]
 date: 2024-04-18
-published: false
+published: true
 ---
 
 ## Table of contents
@@ -23,8 +23,12 @@ It seems clear that the Internet is providing new avenues for group formation.
 
 As noted by both Lessig and Shapiro, this group formation is an important tool that enables individuals to speak who would not have otherwise done so.
 
+<div class="discussion" markdown="1">
+
 {:.rquestion} 
 As review, can you think of some examples that support this aspect of group formation?
+
+</div>
 
 From a Habermasian perspective, this kind of group formation would seem to be a good thing. The public sphere is distorted when individuals are NOT equally "free" (here we might think of freedom as "enabled" or "empowered") to express their own opinion. In the language of Sunstein, such expression expands the "pool of arguments and opinions in the public sphere", and such expansion improves the results of deliberation.
 
@@ -42,7 +46,7 @@ With this in mind, we as policy makers can then use the tools at our disposal (l
 
 ## Ideal Speech Conditions
 
-This attempt to identify conditions is what Habermas sometimes refers to as ["Ideal Speech Situation"](https://en.wikipedia.org/wiki/Ideal_speech_situation). Defining such a situation seems to be part of what Sunstein attempts to identify when he distinguishes between "deliberative enclaves" and "polarized" groups. (See Sunstein, c3, pp. 85-88)
+This attempt to identify ideal speech conditions is what Habermas sometimes refers to as an ["Ideal Speech Situation"](https://en.wikipedia.org/wiki/Ideal_speech_situation). Defining such a situation seems to be part of what Sunstein attempts to identify when he distinguishes between "deliberative enclaves" and "polarized" groups. (See Sunstein, c3, pp. 85-88)
 
 To help us appreciate Sunstein's reflections on the forces of polarization vis-a-vis enclave formation, let's first review what Habermas thinks is needed for good deliberation and then turn to Sunstein's description of some of the new modalities of the Internet that threaten these conditions.
 
@@ -53,7 +57,7 @@ There seem to be two things necessary:
 
 **1. Speaking Freely**
 
-As we've discussed the conditions necessary to allow everyone to freely speak are not so easy to attain. The ability of private citizens to freely express themselves on public matters is threatened by both the direct interference of administrative power and indirectly through the manipulation of opinion formation (by either administrative power or disproportionately empowered private interest).
+As we've discussed, the conditions necessary to allow everyone to freely speak are not so easy to attain. The ability of private citizens to freely express themselves on public matters is threatened by both the direct interference of administrative power and indirectly through the manipulation of opinion formation (by either administrative power or disproportionately empowered private interest).
 
 The formation of small groups with a common interest is an important way of combatting these pressures. If people fear being ostracized from a community or from their means of employment, they are not likely to speak. 
 
@@ -71,7 +75,7 @@ For free speech to result in positive deliberation/dialectic it has to come into
 
 I like to think of that conflict producing a kind of reverberation that takes time to be received. Thus, if the speech platform (the technology of communication) hinders the reception of that "reverberation" (if it "clogs the pores" of a deliberative enclave) then speech will actual homogenize. And thus, though there may be quantitatively more speech, there will be qualitatively "less speech". In fact, this combination (high quantity, low quality) may create a distorting amplification of an individual voice (see our discussion "amplification" below.)
 
-It is in this light that I read Sunstein's chapters. In these two chapters, I see Sunstein describing several different ways (along with many examples/studies) that the new modalities (e.g. the speed, scale, cost, discoverability, etc.) of digital media are "clogging pores" of deliberative enclaves, making its members increasingly unable to hear the results of public deliberation, and consequently, constraining the speech of its own members.
+In these two chapters, I see Sunstein describing several different ways (along with many examples/studies) that the new modalities (e.g. the speed, scale, cost, discoverability, etc.) of digital media are "clogging the pores" of deliberative enclaves, making its members increasingly unable to hear the results of public deliberation, and consequently, constraining the speech of its own members.
 
 With this in mind I would like to focus our discussion around what Sunstein thinks joining a group looks like in the Internet Age and the ways the combination of human behavior and technological possibility prevents reception of the "reverberations" of public deliberation.
 
@@ -85,9 +89,11 @@ Consider pp. 63-68: As technology improves the ability of people to speak, it cr
 
 But as Sunstein notes on p. 64, this is not necessarily a new problem. Filtering was needed and has existed long before the Internet. In fact, as we read, Shapiro identifies a number of defects in the way filtering was previously conducted. Shapiro was excited about the new filtering possibilities of the Internet because it gave individuals more control over the selection process. 
 
-<span class="respond"/> What aspects of the pre-internet filtering process left "open pores" in the deliberative enclave wherein unwanted, unselected content could be received?
+{:.rquestion}
+What aspects of the pre-internet filtering process left "open pores" in the deliberative enclave wherein unwanted, unselected content could be received?
 
-<span class="respond"/> According to Sunstein, how is filtering within the Internet closing those "pores"? How is individual "opinion formation" being affected as a result?
+{:.rquestion}
+According to Sunstein, how is filtering within the Internet closing those "pores"? How is individual "opinion formation" being affected as a result?
 
 </div> 
 
@@ -95,9 +101,11 @@ But as Sunstein notes on p. 64, this is not necessarily a new problem. Filtering
 
 Sunstein talks a lot about the unique ability of the Internet to enable repetition, and thereby "amplify" a message.
 
-<span class="respond"> What are some examples of this repetition and amplification?
+{:.rquestion}
+What are some examples of this repetition and amplification?
 
-<span class="respond"> How does this amplification distort "public deliberation"? For example, to what extent do **you** consider the reaction of the crowd or the majority of people when you engage in opinion formation? When might it be reasonable or rational to do this? To what extent is the "amplification" effect of the Internet giving people a "distorted" view of the crowd? (Among many pages, consider p. 77, p. 83, p. 85, p. 88.)
+{:.rquestion}
+How does this amplification distort "public deliberation"? For example, to what extent do **you** consider the reaction of the crowd or the majority of people when you engage in opinion formation? When might it be reasonable or rational to do this? To what extent is the "amplification" effect of the Internet giving people a "distorted" view of the crowd? (Among many pages, consider p. 77, p. 83, p. 85, p. 88.)
 
 </div>
 
@@ -107,9 +115,11 @@ On p. 75, Sunstein considers the impact of group identity. While group identity 
 
 This seems to have direct effects on how able someone is to "hear and absorb" criticism and receive the results of "deliberative reverberations".
 
-<span class="respond"> In what way is the Internet changing "why" we hold an opinion or how "enthusiastically" we hold that opinion?
+{:.rquestion}
+In what way is the Internet changing "why" we hold an opinion or how "enthusiastically" we hold that opinion?
 
-<span class="respond"> What are some examples of ways that this kind of "opinion formation" is preventing further deliberation and growth? (Consider especially the sections on pp. 92 and 93.)
+{:.rquestion} 
+What are some examples of ways that this kind of "opinion formation" is preventing further deliberation and growth? (Consider especially the sections on pp. 92 and 93.)
 </div>
 
 
@@ -137,23 +147,29 @@ As Sunstein notes, to some extent these cascades have always existed. But he sug
 
 Let's focus our attention on the example of political petitions (pp. 104-108). Petitions have always existed, but now they exist online.
 
-<span class="respond"/> How is the new "platform" of the petition affecting its success or failure? 
+{:.rquestion}
+How is the new "platform" of the petition affecting its success or failure? 
 
-<span class="respond"/> In this form, does a successful petition represent a "rational opinion formation" or is it somehow distorted? If distorted what prevented it from being the result of "deliberation" or "dialectic"? 
+{:.rquestion}
+In this form, does a successful petition represent a "rational opinion formation" or is it somehow distorted? If distorted what prevented it from being the result of "deliberation" or "dialectic"? 
 
-<span class="respond"/> Why might a petition with the same number signatures achieved, through physical mail or door to door canvassing, more closely represent the results of dialectical synthesis (i.e. synthesized opinions refined through the opposition of antithesis)? Why might online petitions still represent an un-refined thesis (opinions not yet refined by the dialectical process)?
+{:.rquestion}
+Why might a petition with the same number signatures achieved, through physical mail or door to door canvassing, more closely represent the results of dialectical synthesis (i.e. synthesized opinions refined through the opposition of antithesis)? Why might online petitions still represent an un-refined thesis (opinions not yet refined by the dialectical process)?
 
 </div>
 
 <div class="discussion" markdown="1">
 
-The same dynamic seems to be at work in polling? 
+The same dynamic seems to be at work in polling.
 
-<span class="respond"/> How does the "speed" of polling, enabled by digital communication, affect its results and its subsequent affect on law-givers? 
+{:.rquestion}
+How does the "speed" of polling, enabled by digital communication, affect its results and its subsequent affect on law-givers? 
 
-<span class="respond"/> Why might this speed prevent people's response to a poll from reflecting a "deliberatively informed opinion"?
+{:.rquestion}
+Why might this speed prevent people's response to a poll from reflecting a "deliberatively informed opinion"?
 
-<span class="respond"/> What is a Fishkin Poll (pp. 133-135) and how does it attempt to address this problem?
+{:.rquestion}
+What is a Fishkin Poll (pp. 133-135) and how does it attempt to address this problem?
 
 </div>
 
