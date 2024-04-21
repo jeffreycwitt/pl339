@@ -183,12 +183,11 @@ But as Mill notes, even if someone is 98% correct, deliberation that exposes som
 
 And further, if we are 100% correct, the 100% false antithesis still helps us understand the reasons behind our belief and the essential meaning of it.
 
-
 But sometime the notion of a middle doesn't really make much sense, especially when we move away from probabilities and move toward normative questions, "should" or "should not" statements. Here, the idea that the right thing to do is just halfway between two opposing beliefs doesn't make a lot of sense.
 
 Take for example, opposing positions on immigration. 
 
-Bob says, borders should be open; Sally says, borders should be closed. Is the rational policy merely: borders half open? I think not. What if the issue were civil rights and the opposing positions were, grant civil rights to marginalized communities or do not grant them? Is the rational answers, grant minority communities "half of the civil rights" to marginalized communities? I think not.
+Bob says, borders should be open; Sally says, borders should be closed. Is the rational policy merely: borders half open? I think not. What if the issue were civil rights and the opposing positions were, grant civil rights to marginalized communities or do not grant them? Is the rational answers, grant minority communities "half of the civil rights"? I think not.
 
 Another way we might understand the importance of deliberation and the hearing of many voices (without attempting to "normalize" or "rationalize" manifestly false or even hateful opinions) can be found by looking back to Rousseau. 
 
@@ -202,11 +201,11 @@ Without context, there is no right answer to open borders closed borders questio
 
 It is likely then that the person who wants open borders recognizes some benefits of this policy toward their private interest. Similarly the person who argues for closed borders likely sees benefits to their private interest from this position. 
 
-The goal of dialectic/deliberation then would not be to find a middle between two stated policy positions. Rather, through the clashing of the interests that motivate these policy positions, each party would be more capable of seeing the competing interests of the other. Through this clash, we are encouraged to consider the situation again from a more neutral perspective.In this way, deliberation would help us acquire the perspective of the General Will. And then finally, the policy position that results from this perspective would be considered the rational proposal.
+The goal of dialectic/deliberation then would not be to find a middle between two stated policy positions. Rather, through the clashing of the interests that motivate these policy positions, each party would be more capable of seeing the competing interests of the other. Through this clash, we are encouraged to consider the situation again from a more neutral perspective. In this way, deliberation would help us acquire the perspective of the General Will. And then finally, the policy position that results from this perspective would be considered the rational proposal.
 
 **But I think there is one caveat here**. The Internet's ability to repeat or amplifying an individual voice could still have a distorting effect. An amplified voice creates the impression of more competing interests than there actually are. In an attempt to arrive at the perspective of the General Will (which takes into account all competing interest), this perspective will be distorted by the artificial impression of voices and interests that do not actually exist.
 
-Here, following Mill, we might readily allow hateful and prejudiced voices to enter the public sphere, as these are voices that represents the interest of real people within society. Thus these persons interests/opinions must be taken into account as one attempts to acquire the perspective of the General Will. 
+Here, following Mill, we might readily allow hateful and prejudiced voices to enter the public sphere, as these are voices that represents the interest of real people within society. 
 
 And yet at the same time, the amplification and repetition of these voices in echo chambers or by "bots" might need to be curtailed, since this amplification suggests that there are more persons standing behind these voices than there actually are.
 

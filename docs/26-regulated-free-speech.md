@@ -4,7 +4,7 @@ title: "26: Regulated Free Speech"
 nav_order: 26
 reading: [8G46KY82, P8CTMFZT, "PIHI9TSZ=>c. 12"]
 date: 2024-04-23
-published: false
+published: true
 ---
 <!-- Sunstein chapter 7, 8 -->
 
@@ -13,9 +13,9 @@ published: false
 1. TOC 
 {:toc}
 
-# Thinking about your policy papers
+<!-- # Thinking about your policy papers
 
-As this is our final week together, I'd like to you use our class time this week to help you focus on and make progress with your final policy papers ([as described here](https://jeffreycwitt.com/pl339/docs/24-internet-as-savior.html#final-paper-assignment)). 
+As this is our final week together, I'd like to you use our class time this week to help you focus on and make progress with your final papers. 
 
 To that end, I would like to use our final readings as sources of guidance for how we might proceed as potential regulators or policy makers. 
 
@@ -35,7 +35,7 @@ We'll spend some time brainstorming in class as well, but we can asynchronously 
 
 <span class="respond"/> What concrete cases come to mind (from today's reading, previous readings, or your own experience) where changes in communications technology are posing specific problems to deliberative democracy that could potentially benefit from regulation?
 
-</div>
+</div> -->
 
 # Review: The need for regulation
 
@@ -50,7 +50,7 @@ to one another’s body. And therefore, as long as this natural right of every m
 endureth, there can be no security to any man, how strong or wise soever he be, of living out the
 time which nature ordinarily alloweth men to live." (Hobbes, Leviathan, Book 1, Chapter 14)
 
-In their own ways, both Sunstein and Lessig begin by challenging a common assumption that the first amendment protects speech from regulation, **absolutely**. 
+In their own ways, both Sunstein and Lessig begin by challenging a common assumption that the first amendment protects speech from regulation **absolutely**. 
 
 Both identify this view as "incoherent" or "naive", and though Hobbes goes unmentioned, they do so for Hobbesian reasons. Hobbes's great insight was that the pursuit of absolute freedom always leads to less freedom than would be possible if parties agreed to allow some restrictions to freedom. 
 
@@ -69,7 +69,7 @@ In the context of free speech this can be seen simply through the image of a gro
 
 As Hobbes noted, it is only when we are willing to give up our hopes for the **theoretically best** option ("the right to speak at any and all times") and accept the second best option ("take turns speaking") that we are able to get the **best actually realizable option**.
 
-In this regard, Sunstein and Lessig point out that government regulation has always been at work in order to make free speech possible. As Sunstein says: those that complain against regulation, are really just complaining about changes to the advantageous status quo that existing regulation has created. (Just a car drivers might complain that the imposition of a bike lane is undo government interference, while ignoring the fact that their entitlement to use an automobile on public streets is already the result of government "interference" &#x1F609;)
+In this regard, Sunstein and Lessig point out that government regulation has always been at work in order to make free speech possible. As Sunstein says: those that complain against regulation, are really just complaining about changes to the advantageous status quo that existing regulation has created. (Just a car drivers might complain that the imposition of a bike lane is undo government interference, while ignoring the fact that their entitlement to use an automobile on public streets is already the result of government "interference")
 
 Sunstein also connects the appeal for de-regulation to an incoherent valuation of consumer sovereignty. This connection offers us one further chance to review. 
 
@@ -101,9 +101,6 @@ After all, if someone is wealthy enough to buy a megaphone that would allow them
 Government regulation that attempts to use code, market, norms, or law to give everyone, rich or poor, an equal opportunity to speak should strictly speaking **not** be seen as a **constraint** -- though it can often feel like one (e.g. "You are NOT allowed to use your megaphone"). On the contrary, such a government imposition is meant to be a protection of the maximal amount of freedom that all individuals can be possess in social context.
 
 
-
-
-
 # Sunstein: Advice for cautious regulators
 
 This idea of maintaining the **maximal** amount of freedom is a good transition. The regulator's solutions should not be heavy handed. They should attempt to "toe the line", that is find a solution that gives everyone as much freedom as possible without over privileging anyone. A heavy handed approach, may be easier and more efficient, but it creates new problems.
@@ -127,15 +124,20 @@ Since we spent quite a bit of time discussion the YouTube algorithm and interfac
 
 The first kind "neutrality" is a regulation that is "neutral with respect to the content of speech at issue". 
 
-<span class="respond"/> What might a regulation policy with this kind of neutrality targeted at YouTube look like? 
+{:.rquestion}
+What might a regulation policy with this kind of neutrality targeted at YouTube look like? 
 
-<span class="respond"/> For example, what about a ban on all speech one month before any election? What other examples come to mind?
+{:.rquestion}
+For example, what about a ban on all speech one month before any election? What other examples come to mind?
 
-<span class="respond"/> Why would such a policy be "neutral with respect to the content of speech at issue"?
+{:.rquestion}
+Why would such a policy be "neutral with respect to the content of speech at issue"?
 
-<span class="respond"/> What are some of the advantages of this position? 
+{:.rquestion}
+What are some of the advantages of this position? 
 
-<span class="respond"/> What are some of the negatives?
+{:.rquestion}
+What are some of the negatives?
 
 </div> 
 
@@ -144,15 +146,20 @@ The first kind "neutrality" is a regulation that is "neutral with respect to the
 
 The second kind "neutrality" is a regulation that addresses speech of a particular content, but is neutral with respect to a given point of view.
 
-<span class="respond"/> What might a regulation policy with this kind of neutrality targeted at YouTube look like? 
+{:.rquestion}
+What might a regulation policy with this kind of neutrality targeted at YouTube look like? 
 
-<span class="respond"/> For example, what about a ban on all "political" speech one month before any election?
+{:.rquestion}
+For example, what about a ban on all "political" speech one month before any election?
 
-<span class="respond"/> How has the form of neutrality changed in this example?
+{:.rquestion}
+How has the form of neutrality changed in this example?
 
-<span class="respond"/> What are some of the advantages of this position over the first? 
+{:.rquestion}s
+What are some of the advantages of this position over the first? 
 
-<span class="respond"/> Are there new negatives with this approach that might outweigh the positives?
+{:.rquestion}
+Are there new negatives with this approach that might outweigh the positives?
 
 </div> 
 
@@ -160,11 +167,14 @@ The second kind "neutrality" is a regulation that addresses speech of a particul
 
 Third, speech regulation could directly target a particular point of view.
 
-<span class="respond"/> What might a regulation policy with this kind of neutrality targeted at YouTube look like? 
+{:.rquestion}
+What might a regulation policy with this kind of neutrality targeted at YouTube look like? 
 
-<span class="respond"/> What are some of the advantages of this position over the first two? Are there certain problems caused by forms of political speech on YouTube that the first two approaches would not be able to address?
+{:.rquestion}
+What are some of the advantages of this position over the first two? Are there certain problems caused by forms of political speech on YouTube that the first two approaches would not be able to address?
 
-<span class="respond"/> This third form is the most direct and efficient way to regulate speech? So why not always take this approach? What are some of its disadvantages? How do we know when it should be used and when it should not?
+{:.rquestion}
+This third form is the most direct and efficient way to regulate speech? So why not always take this approach? What are some of its disadvantages? How do we know when it should be used and when it should not?
 
 </div> 
 
@@ -174,9 +184,11 @@ Finally, Sunstein discusses different ways that regulators can "incentivize".
 
 In the above examples, I mostly spoke about "banning" which is enforced through penalties.
 
-<span class="respond"/> Why does Sunstein see "subsidies" as preferable to penalities?
+{:.rquestion}
+Why does Sunstein see "subsidies" as preferable to penalities?
 
-<span class="respond"/> Still trying to remain as concrete as possible, how might the government use "subsidies" to address some of the problems in the YouTube algorithm?
+{:.rquestion}
+Still trying to remain as concrete as possible, how might the government use "subsidies" to address some of the problems in the YouTube algorithm?
 
 </div> 
 
@@ -184,7 +196,7 @@ In the above examples, I mostly spoke about "banning" which is enforced through 
 
 In thinking about regulation, our minds turn most quickly to direct censorship and explicit punishment. Sunstein has already tried to push us to be more creative regulators by noting the power and flexibility that comes with subsidies. 
 
-Lessig is equally a pains to help us think about how regulators could affect the code, or use market or norm pressures to indirectly affect the code, that would have a similar affect. 
+Lessig is equally a pains to help us think about how regulators could affect the code, or how they could use market or norm pressures to indirectly affect the code, that would have a similar affect. 
 
 In this chapter, Lessig discusses possible solutions to new problems of porn and spam in the digital age. His basic methodology is worth our attention -- in light of our final paper assignment -- because it illustrates the creative use of all four modalities of regulation to protect something valuable. 
 
@@ -196,22 +208,28 @@ Let's consider each of these three aspects with each example he offers.
 
 With respect to pornography:
 
-<span class="respond"/> How did the "old code" regulate, more or less sufficiently, pornography and its sale to minors?
+{:.rquestion}
+How did the "old code" regulate, more or less sufficiently, pornography and its sale to minors?
 
-<span class="respond"/> How did the new code create a new problem? (Be attentive here to the way different modalities affect each other. How do changes in the code change the market, which in turn changes behavior?)
+{:.rquestion}
+How did the new code create a new problem? (Be attentive here to the way different modalities affect each other. How do changes in the code change the market, which in turn changes behavior?)
 
-<span class="respond"/> What solution does Lessig propose and how does its creatively use the modalities of regulation to come up with a sensitive regulatory solution?
+{:.rquestion}
+What solution does Lessig propose and how does its creatively use the modalities of regulation to come up with a sensitive regulatory solution?
 
 </div>
 
 <div class="discussion" markdown="1">
 
-With respect to span:
+With respect to spam:
 
-<span class="respond"/> How did the "old code" regulate spam, more or less sufficiently?
+{:.rquestion}
+How did the "old code" regulate spam, more or less sufficiently?
 
-<span class="respond"/> How did the new code create a new problem? (Be attentive here to the way different modalities affect each other. How do changes in the code change the market, which in turn change behavior?)
+{:.rquestion}
+How did the new code create a new problem? (Be attentive here to the way different modalities affect each other. How do changes in the code change the market, which in turn change behavior?)
 
-<span class="respond"/> What solution does Lessig propose and how does its creatively use the modalities of regulation to come up with a sensitive regulatory solution?
+{:.rquestion}
+What solution does Lessig propose and how does its creatively use the modalities of regulation to come up with a sensitive regulatory solution?
 
 </div>
