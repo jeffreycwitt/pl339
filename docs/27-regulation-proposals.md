@@ -23,11 +23,11 @@ Did any of these proposals seem particularly un-promising, problematic, or ineff
 
 </div>
 
-# Course/Exam Review
+# Course Exam Review
 
 # Exam Format 
 
-The exam format will consist of two parts. (1) A question section composed primarily of multiple choice, quotation identification, and/or short answer questions and (2) then two essay questions asking you to explore and articulate some of the big ideas we've been discussing throughout the semester. You'll have 2 hours to complete the exam.
+The final exam format will consist of two parts. (1) A question section composed primarily of multiple choice, quotation identification, and/or short answer questions and (2) then two essay questions asking you to explore and articulate some of the big ideas we've been discussing throughout the semester. You'll have 2 hours to complete the exam.
 
 In preparation for class and our review session, consider the following bullet points. Please annotate any ideas you would like to discuss, review, or clarify during our class review session.
 
@@ -37,8 +37,11 @@ In preparation for class and our review session, consider the following bullet p
 * For example, ideas like:
   * The Medium is the Message
   * The Living (oral culture) vs. the Dead (literary culture) 
+    * What were some of the pros and cons, strengths and weakness of each culture according to Ong?
     * McLuhan sometimes refers to the electronic age as the second age of orality. Why?
-    * How does the dynamism of oral culture re-emerge in the digital age?
+    * How does the dynamism of oral culture re-emerge in the digital age? 
+    * Do we see some of the strengths of oral culture noted by Ong re-occurring?
+    * Are we losing some of the strengths of literary culture noted by Ong?
   * Shannon's theory of information.
     * How does Shannon's theory of information make possible the kind of communication dynamism, speed, and scale that creates new "Latent Ambiguities" for us in the digital age?
   * Hyperlinks, Interconnectivity, Multi-sequence
