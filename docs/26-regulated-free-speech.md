@@ -4,7 +4,7 @@ title: "26: Regulated Free Speech"
 nav_order: 26
 reading: [8G46KY82, P8CTMFZT, "PIHI9TSZ=>c. 12"]
 date: 2024-04-23
-published: true
+published: false
 ---
 <!-- Sunstein chapter 7, 8 -->
 

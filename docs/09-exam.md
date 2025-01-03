@@ -3,7 +3,7 @@ layout: lecture
 title: "9: Exam Review"
 date: 2024-01-13
 nav_order: 9
-published: true
+published: false
 ---
 
 # Exam Format 

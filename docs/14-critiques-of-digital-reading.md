@@ -4,7 +4,7 @@ title: "14: Shallow Reading, Shallow Thinking"
 reading: ["NG3M96X8", "ZG3ZLM6Y", "SH5H2UC8"]
 nav_order: 14
 date: 2024-02-29
-published: true
+published: false
 ---
 <!-- carr 6, carr 7, Birkerts c. 11-->
 ## Table of contents

@@ -4,7 +4,7 @@ title: "13: Distant Writing"
 reading: ["4J64JWQD", 'WXUV48X3', "EG5GDCPK", "HZSRCCAL", "4MXHYS44"]
 nav_order: 13
 date: 2024-02-27
-published: true
+published: false
 ---
 
 <!-- conjectures on world literature, UDFASSFK; daily nous on GPT3 R29TCBQA; zimmerman WXUV48X3; Nguyen EG5GDCPK;  GPT-3 example 1, HZSRCCAL, GPT-3 example 2 4MXHYS44-->

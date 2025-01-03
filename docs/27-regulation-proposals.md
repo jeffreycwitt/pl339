@@ -4,7 +4,7 @@ title: "27: Regulation Proposals"
 nav_order: 27
 reading: [LPNNPZZI]
 date: 2024-04-25
-published: true
+published: false
 ---
 
 # Sunstein: Regulation Ideas

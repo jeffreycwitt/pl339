@@ -4,7 +4,7 @@ title: "25: Freedom of speech and Polarization"
 nav_order: 25
 reading: [5RCLA4K6, MZSRQI53]
 date: 2024-04-18
-published: true
+published: false
 ---
 
 ## Table of contents

@@ -4,7 +4,7 @@ title: "22: Deliberative Democracy"
 nav_order: 22
 reading: ["SWWUUQXZ=>c. 2 (focus)", "GCYCSLUR=>(focus) section 4, pp. 55-63 "]
 date: 2024-04-09
-published: true
+published: false
 ---
 
 ## Table of contents
