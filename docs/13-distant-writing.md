@@ -3,7 +3,7 @@ layout: lecture
 title: "13: Distant Writing"
 reading: ["4J64JWQD", 'WXUV48X3', "EG5GDCPK", "HZSRCCAL", "4MXHYS44"]
 nav_order: 13
-date: 2024-02-27
+date: 2024-02-25
 published: false
 ---
 

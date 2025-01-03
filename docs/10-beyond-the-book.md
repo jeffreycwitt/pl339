@@ -3,7 +3,7 @@ layout: lecture
 title: "10: Beyond the Book"
 nav_order: 10
 reading: ["JNA89KWB", "PYUMRPFD", "K5L5DYVS", "V2BN56HW", "KUZITWWR=>focus, first section, p. 83-86"]
-date: 2024-02-15
+date: 2024-02-13
 published: false
 watchtime: 27
 ---

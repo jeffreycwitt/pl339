@@ -2,7 +2,7 @@
 layout: lecture
 title: "6: Information Applied"
 reading: ["SN4EQIZ5=>cc. 8"]
-date: "2024-02-01"
+date: 2024-01-30
 nav_order: 6
 published: false
 ---

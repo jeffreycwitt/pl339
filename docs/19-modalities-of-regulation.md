@@ -3,7 +3,7 @@ layout: lecture
 title: "19: modalities of regulation"
 reading: ["PIHI9TSZ=>cc. 6-8"]
 nav_order: 19
-date: 2024-03-26
+date: 2024-03-25
 published: false
 ---
 

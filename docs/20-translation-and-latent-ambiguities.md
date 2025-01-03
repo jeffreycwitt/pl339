@@ -3,7 +3,7 @@ layout: lecture
 title: "20: Translation and Latent Ambiguities"
 reading: ["PIHI9TSZ=>cc. 9-10"]
 nav_order: 20
-date: 2024-04-02
+date: 2024-03-27
 published: false
 ---
 ## Table of contents

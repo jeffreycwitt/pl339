@@ -2,7 +2,7 @@
 layout: lecture
 title: "16: Digital Editions Presentations"
 nav_order: 16
-date: 2024-03-14
+date: 2024-03-13
 published: false
 ---
 

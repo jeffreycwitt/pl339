@@ -1,0 +1,426 @@
+<div style="padding: 10px">
+    <div style="padding: 10px">
+      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/01-introduction.html">Class
+          1</a> (2024-01-14): </h2>
+      <p>1: Introduction</p>
+      <ul></ul>
+    </div>
+    <div style="padding: 10px">
+      <h2> Reading for <a
+          href="https://jeffreycwitt.com/pl339/docs/02-the-medium-is-the-message.html">Class 2</a>
+        (2024-01-16): </h2>
+      <p>2: The Medium is the Message</p>
+      <ul>
+        <li class="reading" data-reading="MZZ5E5RE">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/McLuhan_2001_The_Medium_is_the_Message.pdf"
+            target="_blank">McLuhan, The Medium is the Message - Chapter 1, pp. 7-23</a>
+        </li>
+      </ul>
+    </div>
+    <div style="padding: 10px">
+      <h2> Reading for <a
+          href="https://jeffreycwitt.com/pl339/docs/03-from-orality-to-literacy.html">Class 3</a>
+        (2024-01-21): </h2>
+      <p>3: From Orality to Literacy</p>
+      <ul>
+        <li class="reading"
+          data-reading="78FP4M3A=>focus, pp. 12-18 (speech in praise of the lover), pp. 28-30 (criteria of true rhetoric), pp. 32-36 (in defense of speech over the written word)">
+          <a href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Plato_Phaedrus.pdf"
+            target="_blank">Plato, Phaedrus, focus, pp. 12-18 (speech in praise of the lover),
+            pp. 28-30 (criteria of true rhetoric), pp. 32-36 (in defense of speech over the
+            written word)</a>
+        </li>
+        <li class="reading" data-reading="U25N8RU8">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_The_Orality_of_Language,_chapter_1.pdf"
+            target="_blank">Ong, The Orality of Language, chapter 1, pp. 5-15</a>
+        </li>
+        <li class="reading" data-reading="MKVLEEA6=>focus: pp. 78-96, 101-103">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"
+            target="_blank">Ong, Writing Restructures Consciousness, chapter 4, pp. 77-113,
+            focus: pp. 78-96, 101-103</a>
+        </li>
+        <li class="reading"
+          data-reading="SN4EQIZ5=>cc. intro-3, pp. 3-77, focus: intro, pp. 3-13 and c. 2, pp. 28-50"
+          >Gleick, The information: a history, a theory, a flood, cc. intro-3, pp. 3-77, focus:
+          intro, pp. 3-13 and c. 2, pp. 28-50</li>
+      </ul>
+    </div>
+    <div style="padding: 10px">
+      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/04-wires-codes-ideas.html"
+          >Class 4</a> (2024-01-23): </h2>
+      <p>4: Wires, Codes, and New Ideas</p>
+      <ul>
+        <li class="reading" data-reading="SN4EQIZ5=>cc. 4-5">Gleick, The information: a history,
+          a theory, a flood, cc. 4-5</li>
+      </ul>
+    </div>
+    <div style="padding: 10px">
+      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/05-information-as-entropy.html"
+          >Class 5</a> (2024-01-28): </h2>
+      <p>5: Information as Entropy</p>
+      <ul>
+        <li class="reading" data-reading="SN4EQIZ5=>cc. 6-7">Gleick, The information: a history,
+          a theory, a flood, cc. 6-7</li>
+      </ul>
+    </div>
+    <div style="padding: 10px">
+      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/06-information-applied-1.html"
+          >Class 6</a> (2024-01-30): </h2>
+      <p>6: Information Applied</p>
+      <ul>
+        <li class="reading" data-reading="SN4EQIZ5=>cc. 8">Gleick, The information: a history, a
+          theory, a flood, cc. 8</li>
+      </ul>
+    </div>
+    <div style="padding: 10px">
+      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/07-information-applied-2.html"
+          >Class 7</a> (2024-02-04): </h2>
+      <p>7: Information Applied</p>
+      <ul>
+        <li class="reading" data-reading="SN4EQIZ5=>cc. 9-10">Gleick, The information: a
+          history, a theory, a flood, cc. 9-10</li>
+      </ul>
+    </div>
+    <div style="padding: 10px">
+      <h2> Reading for <a
+          href="https://jeffreycwitt.com/pl339/docs/08-information-and-semantics.html">Class 8</a>
+        (2024-02-06): </h2>
+      <p>8: Information and Semantics</p>
+      <ul>
+        <li class="reading" data-reading="F578UMXR=>recommended">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ilari_2013_What_is_the_Philosophy_of_Information_Today,_chapt.pdf"
+            target="_blank">Ilari, What is the Philosophy of Information Today, chapter 2, pp.
+            28-42, recommended</a>
+        </li>
+        <li class="reading" data-reading="3JMTBWNW=>focus: pp. 43-50">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ilari_2013_Naturalized_Information,_chapter_3.pdf"
+            target="_blank">Ilari, Naturalized Information, chapter 3, pp. 43-53, focus: pp.
+            43-50</a>
+        </li>
+      </ul>
+    </div>
+    <div style="padding: 10px">
+      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/09-exam.html">Class 9</a>
+        (2024-02-11): </h2>
+      <p>9: Exam Review</p>
+      <ul></ul>
+    </div>
+    <div style="padding: 10px">
+      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/10-beyond-the-book.html">Class
+          10</a> (2024-02-13): </h2>
+      <p>10: Beyond the Book</p>
+      <ul>
+        <li class="reading" data-reading="JNA89KWB">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Bush_1945_As_We_May_Think.pdf"
+            target="_blank">Bush, As We May Think</a>
+        </li>
+        <li class="reading" data-reading="PYUMRPFD">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Nelson_2001_Hyperworld,_chapter_0.pdf"
+            target="_blank">Nelson, Hyperworld, chapter 0</a>
+        </li>
+        <li class="reading" data-reading="K5L5DYVS">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Nelson_2001_Hypertext,_chapter_1.pdf"
+            target="_blank">Nelson, Hypertext, chapter 1</a>
+        </li>
+        <li class="reading" data-reading="V2BN56HW">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Nelson_2001_Proposal_for_a_universal_electronic_publishing_sys.pdf"
+            target="_blank">Nelson, Proposal for a universal electronic publishing system and
+            archive, chapter 2</a>
+        </li>
+        <li class="reading" data-reading="KUZITWWR=>focus, first section, p. 83-86">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Zundert_2016_Barely_Beyond_the_Book.pdf"
+            target="_blank">Zundert, Barely Beyond the Book, pp. 83-106, focus, first section,
+            p. 83-86</a>
+        </li>
+      </ul>
+    </div>
+    <div style="padding: 10px">
+      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/11-hypertext-1.html">Class
+          11</a> (2024-02-18): </h2>
+      <p>11: Hypertext 1</p>
+      <ul>
+        <li class="reading" data-reading="FBJ5I9LY=>focus: pp. 70-85">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Landow_2006_Reconfiguring_the_Text,_chapter_3.pdf"
+            target="_blank">Landow, Reconfiguring the Text, chapter 3, pp. 70-124, focus: pp.
+            70-85</a>
+        </li>
+        <li class="reading" data-reading="C8JPGTVW">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Landow_2006_Reconfiguring_the_Author,_chapter_4.pdf"
+            target="_blank">Landow, Reconfiguring the Author, chapter 4, pp. 125-143</a>
+        </li>
+        <li class="reading" data-reading="7PSB2JCJ">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Barthes_2007_The_Death_of_the_Author.pdf"
+            target="_blank">Barthes, The Death of the Author, pp. 142-148</a>
+        </li>
+        <li class="reading" data-reading="2THNCN2E">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Foucault_1979_What_is_an_Author.pdf"
+            target="_blank">Foucault, “What is an Author?”, pp. 141-160</a>
+        </li>
+      </ul>
+    </div>
+    <div style="padding: 10px">
+      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/12-distant-reading.html">Class
+          12</a> (2024-02-20): </h2>
+      <p>12: Distant Reading</p>
+      <ul>
+        <li class="reading" data-reading="UDFASSFK=>focus 54-58">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Moretti_2000_Conjectures_on_world_literature.pdf"
+            target="_blank">Moretti, Conjectures on world literature, pp. 54–68, focus 54-58</a>
+        </li>
+        <li class="reading" data-reading="YCUSFWXI=>focus pp. 207-219, 225-227">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Moretti_2000_The_slaughterhouse_of_literature.pdf"
+            target="_blank">Moretti, The slaughterhouse of literature, pp. 207–227, focus pp.
+            207-219, 225-227</a>
+        </li>
+        <li class="reading" data-reading="BL386AX3=>focus: pp. 1-8, 15-16">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ascari_2014_The_Dangers_of_Distant_Reading.pdf"
+            target="_blank">Ascari, The Dangers of Distant Reading: Reassessing Moretti's
+            Approach to Literary Genres, pp. 1-19, focus: pp. 1-8, 15-16</a>
+        </li>
+      </ul>
+    </div>
+    <div style="padding: 10px">
+      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/13-distant-writing.html">Class
+          13</a> (2024-02-25): </h2>
+      <p>13: Distant Writing</p>
+      <ul>
+        <li class="reading" data-reading="4J64JWQD">
+          <a href="http://dailynous.com/2020/07/30/philosophers-gpt-3" target="_blank"
+            >Zimmerman, Philosophers On GPT-3, Introduction</a>
+        </li>
+        <li class="reading" data-reading="WXUV48X3">
+          <a href="http://dailynous.com/2020/07/30/philosophers-gpt-3/#zimmermann"
+            target="_blank">Zimmerman, If You Can Do Things with Words, You Can Do Things With
+            Algorithms</a>
+        </li>
+        <li class="reading" data-reading="EG5GDCPK">
+          <a href="http://dailynous.com/2020/07/30/philosophers-gpt-3/#nguyen" target="_blank"
+            >Nguyen, Who Trainsthe Machine Artist?</a>
+        </li>
+        <li class="reading" data-reading="HZSRCCAL">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/GPT-3_Response_to_Philosophers_1.pdf"
+            target="_blank">GPT-3, Response to Philosophers 1</a>
+        </li>
+        <li class="reading" data-reading="4MXHYS44">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/GPT-3_Response_to_Philosophers_2.pdf"
+            target="_blank">GPT-3, Response to Philosophers 2</a>
+        </li>
+      </ul>
+    </div>
+    <div style="padding: 10px">
+      <h2> Reading for <a
+          href="https://jeffreycwitt.com/pl339/docs/14-critiques-of-digital-reading.html">Class
+          14</a> (2024-02-27): </h2>
+      <p>14: Shallow Reading, Shallow Thinking</p>
+      <ul>
+        <li class="reading" data-reading="NG3M96X8">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Carr_2020_The_Very_Image_of_a_Book,_Chapter_6.pdf"
+            target="_blank">Carr, The Very Image of a Book, Chapter 6, pp. 99-114</a>
+        </li>
+        <li class="reading" data-reading="ZG3ZLM6Y">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Carr_2020_The_Jugglers_Brain_Chapter_7.pdf"
+            target="_blank">Carr, The Juggler's Brain, Chapter 7, pp. 115-143</a>
+        </li>
+        <li class="reading" data-reading="SH5H2UC8">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Birkerts_2006_Hypertext_Of_Mouse_and_Man,_chapter_11.pdf"
+            target="_blank">Birkerts, Hypertext: Of Mouse and Man, chapter 11, pp. 151-164</a>
+        </li>
+      </ul>
+    </div>
+    <div style="padding: 10px">
+      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/15-digital-editions-1.html"
+          >Class 15</a> (2024-03-11): </h2>
+      <p>15: Digital Editions Presentations</p>
+      <ul></ul>
+    </div>
+    <div style="padding: 10px">
+      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/16-digital-editions-2.html"
+          >Class 16</a> (2024-03-13): </h2>
+      <p>16: Digital Editions Presentations</p>
+      <ul></ul>
+    </div>
+    <div style="padding: 10px">
+      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/17-code-and-puzzles.html">Class
+          17</a> (2024-03-18): </h2>
+      <p>17: Code and the Puzzles of Cyberspace</p>
+      <ul>
+        <li class="reading" data-reading="PIHI9TSZ=>cc. 1-2">Lessig, Code, cc. 1-2</li>
+      </ul>
+    </div>
+    <div style="padding: 10px">
+      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/18-internet-and-control.html"
+          >Class 18</a> (2024-03-20): </h2>
+      <p>18: internet and control</p>
+      <ul>
+        <li class="reading" data-reading="PIHI9TSZ=>cc. 3-5">Lessig, Code, cc. 3-5</li>
+      </ul>
+    </div>
+    <div style="padding: 10px">
+      <h2> Reading for <a
+          href="https://jeffreycwitt.com/pl339/docs/19-modalities-of-regulation.html">Class 19</a>
+        (2024-03-25): </h2>
+      <p>19: modalities of regulation</p>
+      <ul>
+        <li class="reading" data-reading="PIHI9TSZ=>cc. 6-8">Lessig, Code, cc. 6-8</li>
+      </ul>
+    </div>
+    <div style="padding: 10px">
+      <h2> Reading for <a
+          href="https://jeffreycwitt.com/pl339/docs/20-translation-and-latent-ambiguities.html"
+          >Class 20</a> (2024-03-27): </h2>
+      <p>20: Translation and Latent Ambiguities</p>
+      <ul>
+        <li class="reading" data-reading="PIHI9TSZ=>cc. 9-10">Lessig, Code, cc. 9-10</li>
+      </ul>
+    </div>
+    <div style="padding: 10px">
+      <h2> Reading for <a
+          href="https://jeffreycwitt.com/pl339/docs/21-foundations-of-deliberative-democracy.html"
+          >Class 21</a> (2024-04-01): </h2>
+      <p>21: Foundations of Deliberative Democracy</p>
+      <ul>
+        <li class="reading" data-reading="DQCKDACX=>Book 1, c. 6, The social compact">
+          <a href="https://www.gutenberg.org/files/46333/46333-h/46333-h.htm" target="_blank"
+            >Rousseau, The Social Contract, Book 1, c. 6, The social compact</a>
+        </li>
+        <li class="reading" data-reading="75SNV9X4">
+          <a href="https://www.marxists.org/reference/subject/ethics/kant/enlightenment.htm"
+            target="_blank">Kant, An Answer to the Question: What is Enlightenment?</a>
+        </li>
+        <li class="reading" data-reading="SI4SA3MJ">Sunstein, The Daily Me - Chapter 1, pp.
+          1-30</li>
+        <li class="reading" data-reading="JXC47B3Y">Sunstein, An Analogy and an Ideal - Chapter
+          2, pp. 31-58</li>
+        <li class="reading" data-reading="CD7ZLMWR">
+          <a
+            href="https://scholar.google.com/scholar_case?case=9558803063364299687&amp;q=Whitney+v.+California,+274+U.S.+357+(1927)&amp;hl=en&amp;as_sdt=20000006&amp;as_vis=1"
+            target="_blank">US Supreme Court, Whitney v. California</a>
+        </li>
+      </ul>
+    </div>
+    <div style="padding: 10px">
+      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/22-deliberative-democracy.html"
+          >Class 22</a> (2024-04-03): </h2>
+      <p>22: Deliberative Democracy</p>
+      <ul>
+        <li class="reading" data-reading="SWWUUQXZ=>c. 2 (focus)">
+          <a href="https://www.gutenberg.org/files/34901/34901-h/34901-h.htm#Page_28"
+            target="_blank">Mill, On Liberty, c. 2 (focus)</a>
+        </li>
+        <li class="reading" data-reading="GCYCSLUR=>(focus) section 4, pp. 55-63 ">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Habermas_1997_Popular_Sovereignty_as_Procedure.pdf"
+            target="_blank">Habermas, Popular Sovereignty as Procedure, pp. 35-65, (focus)
+            section 4, pp. 55-63 </a>
+        </li>
+      </ul>
+    </div>
+    <div style="padding: 10px">
+      <h2> Reading for <a
+          href="https://jeffreycwitt.com/pl339/docs/23-neo-feudalism-death-of-public-sphere.html"
+          >Class 23</a> (2024-04-08): </h2>
+      <p>23: Neo-Feudalism and the Death of the Public Sphere</p>
+      <ul>
+        <li class="reading" data-reading="RIY8VCD2">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Habermas_et_al._1974_The_Public_Sphere_An_Encyclopedia_Article_(1964).pdf"
+            target="_blank">Habermas, The Public Sphere: An Encyclopedia Article (1964), pp.
+            49</a>
+        </li>
+        <li class="reading" data-reading="6L3H3YVN">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Louw_2001_Sites_for_Making_Meaning_III_Commercialization_an.pdf"
+            target="_blank">Louw, Sites for Making Meaning III: Commercialization and the 'Death
+            of the Public Sphere', chapter 4, pp. 91-103</a>
+        </li>
+      </ul>
+    </div>
+    <div style="padding: 10px">
+      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/24-internet-as-savior.html"
+          >Class 24</a> (2024-04-10): </h2>
+      <p>24: Internet as Savior of Deliberative Democracy</p>
+      <ul>
+        <li class="reading" data-reading="AVLEG7M6">
+          <a href="https://www.eff.org/cyberspace-independence" target="_blank">Barlow, A
+            Declaration of the Independence of Cyberspace</a>
+        </li>
+        <li class="reading" data-reading="MTNERR8X">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Shapiro_1999_We_have_Revolution_Now,_chapter_1.pdf"
+            target="_blank">Shapiro, We have Revolution Now, chapter 1, pp. 3-12</a>
+        </li>
+        <li class="reading" data-reading="GA4JUQUP">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Shapiro_1999_Gaining_Control,_chapter_3.pdf"
+            target="_blank">Shapiro, Gaining Control, chapter 3, pp. 25-33</a>
+        </li>
+        <li class="reading" data-reading="3Q53BL69">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Shapiro_1999_Lieblings_Revenge_ch4.pdf"
+            target="_blank">Shapiro, Liebling's Revenge - The Power of Interactivity, chapter 4,
+            pp. 34-43</a>
+        </li>
+        <li class="reading" data-reading="QBW8YNIE">
+          <a
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Shapiro_1999_Masters_of_our_own_domains_Personalization_of_Ex.pdf"
+            target="_blank">Shapiro, Masters of our own domains - Personalization of Experience,
+            chapter 5, pp. 44-52</a>
+        </li>
+      </ul>
+    </div>
+    <div style="padding: 10px">
+      <h2> Reading for <a
+          href="https://jeffreycwitt.com/pl339/docs/25-free-speech-and-polarization.html">Class
+          25</a> (2024-04-15): </h2>
+      <p>25: Freedom of speech and Polarization</p>
+      <ul>
+        <li class="reading" data-reading="5RCLA4K6">Sunstein, Polarization - Chapter 3, pp.
+          59-97</li>
+        <li class="reading" data-reading="MZSRQI53">Sunstein, Cybercascades - Chapter 4, pp.
+          98-136</li>
+      </ul>
+    </div>
+    <div style="padding: 10px">
+      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/26-regulated-free-speech.html"
+          >Class 26</a> (2024-04-22): </h2>
+      <p>26: Regulated Free Speech</p>
+      <ul>
+        <li class="reading" data-reading="8G46KY82">Sunstein, What's Regulation? A Plea -
+          Chapter 7, pp. 176-190</li>
+        <li class="reading" data-reading="P8CTMFZT">Sunstein, Freedom of Speech - Chapter 8, pp.
+          191-212</li>
+        <li class="reading" data-reading="PIHI9TSZ=>c. 12">Lessig, Code, c. 12</li>
+      </ul>
+    </div>
+    <div style="padding: 10px">
+      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/27-regulation-proposals.html"
+          >Class 27</a> (2024-04-24): </h2>
+      <p>27: Regulation Proposals</p>
+      <ul>
+        <li class="reading" data-reading="LPNNPZZI">Sunstein, Proposals - Chapter 9, pp.
+          192-213</li>
+      </ul>
+    </div>
+  </div>
