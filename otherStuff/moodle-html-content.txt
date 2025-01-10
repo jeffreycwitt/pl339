@@ -1,13 +1,18 @@
-<div style="padding: 10px">
-    <div style="padding: 10px">
-      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/01-introduction.html">Class
+<div id="main-content" class="main-content" role="main">
+  <h1 id="readings-by-lesson">
+    <a href="#readings-by-lesson" aria-labelledby="readings-by-lesson" class="anchor-heading"
+        ><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"
+      ></use></svg></a> Readings by Lesson </h1>
+  <div>
+    <div>
+      <h2> Reading for <a href="http://localhost:4000/pl339/docs/01-introduction.html">Class
           1</a> (2024-01-14): </h2>
       <p>1: Introduction</p>
       <ul></ul>
     </div>
-    <div style="padding: 10px">
+    <div>
       <h2> Reading for <a
-          href="https://jeffreycwitt.com/pl339/docs/02-the-medium-is-the-message.html">Class 2</a>
+          href="http://localhost:4000/pl339/docs/02-the-medium-is-the-message.html">Class 2</a>
         (2024-01-16): </h2>
       <p>2: The Medium is the Message</p>
       <ul>
@@ -18,9 +23,9 @@
         </li>
       </ul>
     </div>
-    <div style="padding: 10px">
+    <div>
       <h2> Reading for <a
-          href="https://jeffreycwitt.com/pl339/docs/03-from-orality-to-literacy.html">Class 3</a>
+          href="http://localhost:4000/pl339/docs/03-from-orality-to-literacy.html">Class 3</a>
         (2024-01-21): </h2>
       <p>3: From Orality to Literacy</p>
       <ul>
@@ -48,8 +53,8 @@
           intro, pp. 3-13 and c. 2, pp. 28-50</li>
       </ul>
     </div>
-    <div style="padding: 10px">
-      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/04-wires-codes-ideas.html"
+    <div>
+      <h2> Reading for <a href="http://localhost:4000/pl339/docs/04-wires-codes-ideas.html"
           >Class 4</a> (2024-01-23): </h2>
       <p>4: Wires, Codes, and New Ideas</p>
       <ul>
@@ -57,8 +62,8 @@
           a theory, a flood, cc. 4-5</li>
       </ul>
     </div>
-    <div style="padding: 10px">
-      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/05-information-as-entropy.html"
+    <div>
+      <h2> Reading for <a href="http://localhost:4000/pl339/docs/05-information-as-entropy.html"
           >Class 5</a> (2024-01-28): </h2>
       <p>5: Information as Entropy</p>
       <ul>
@@ -66,8 +71,8 @@
           a theory, a flood, cc. 6-7</li>
       </ul>
     </div>
-    <div style="padding: 10px">
-      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/06-information-applied-1.html"
+    <div>
+      <h2> Reading for <a href="http://localhost:4000/pl339/docs/06-information-applied-1.html"
           >Class 6</a> (2024-01-30): </h2>
       <p>6: Information Applied</p>
       <ul>
@@ -75,8 +80,8 @@
           theory, a flood, cc. 8</li>
       </ul>
     </div>
-    <div style="padding: 10px">
-      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/07-information-applied-2.html"
+    <div>
+      <h2> Reading for <a href="http://localhost:4000/pl339/docs/07-information-applied-2.html"
           >Class 7</a> (2024-02-04): </h2>
       <p>7: Information Applied</p>
       <ul>
@@ -84,9 +89,9 @@
           history, a theory, a flood, cc. 9-10</li>
       </ul>
     </div>
-    <div style="padding: 10px">
+    <div>
       <h2> Reading for <a
-          href="https://jeffreycwitt.com/pl339/docs/08-information-and-semantics.html">Class 8</a>
+          href="http://localhost:4000/pl339/docs/08-information-and-semantics.html">Class 8</a>
         (2024-02-06): </h2>
       <p>8: Information and Semantics</p>
       <ul>
@@ -104,14 +109,14 @@
         </li>
       </ul>
     </div>
-    <div style="padding: 10px">
-      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/09-exam.html">Class 9</a>
+    <div>
+      <h2> Reading for <a href="http://localhost:4000/pl339/docs/09-exam.html">Class 9</a>
         (2024-02-11): </h2>
       <p>9: Exam Review</p>
       <ul></ul>
     </div>
-    <div style="padding: 10px">
-      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/10-beyond-the-book.html">Class
+    <div>
+      <h2> Reading for <a href="http://localhost:4000/pl339/docs/10-beyond-the-book.html">Class
           10</a> (2024-02-13): </h2>
       <p>10: Beyond the Book</p>
       <ul>
@@ -144,8 +149,8 @@
         </li>
       </ul>
     </div>
-    <div style="padding: 10px">
-      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/11-hypertext-1.html">Class
+    <div>
+      <h2> Reading for <a href="http://localhost:4000/pl339/docs/11-hypertext-1.html">Class
           11</a> (2024-02-18): </h2>
       <p>11: Hypertext 1</p>
       <ul>
@@ -172,8 +177,8 @@
         </li>
       </ul>
     </div>
-    <div style="padding: 10px">
-      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/12-distant-reading.html">Class
+    <div>
+      <h2> Reading for <a href="http://localhost:4000/pl339/docs/12-distant-reading.html">Class
           12</a> (2024-02-20): </h2>
       <p>12: Distant Reading</p>
       <ul>
@@ -196,39 +201,22 @@
         </li>
       </ul>
     </div>
-    <div style="padding: 10px">
-      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/13-distant-writing.html">Class
+    <div>
+      <h2> Reading for <a href="http://localhost:4000/pl339/docs/13-distant-writing.html">Class
           13</a> (2024-02-25): </h2>
       <p>13: Distant Writing</p>
       <ul>
-        <li class="reading" data-reading="4J64JWQD">
-          <a href="http://dailynous.com/2020/07/30/philosophers-gpt-3" target="_blank"
-            >Zimmerman, Philosophers On GPT-3, Introduction</a>
-        </li>
-        <li class="reading" data-reading="WXUV48X3">
-          <a href="http://dailynous.com/2020/07/30/philosophers-gpt-3/#zimmermann"
-            target="_blank">Zimmerman, If You Can Do Things with Words, You Can Do Things With
-            Algorithms</a>
-        </li>
-        <li class="reading" data-reading="EG5GDCPK">
-          <a href="http://dailynous.com/2020/07/30/philosophers-gpt-3/#nguyen" target="_blank"
-            >Nguyen, Who Trainsthe Machine Artist?</a>
-        </li>
-        <li class="reading" data-reading="HZSRCCAL">
+        <li class="reading" data-reading="C6AR5DQG">
           <a
-            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/GPT-3_Response_to_Philosophers_1.pdf"
-            target="_blank">GPT-3, Response to Philosophers 1</a>
-        </li>
-        <li class="reading" data-reading="4MXHYS44">
-          <a
-            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/GPT-3_Response_to_Philosophers_2.pdf"
-            target="_blank">GPT-3, Response to Philosophers 2</a>
+            href="https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Bajohr_2024_Writing_at_a_Distance.pdf"
+            target="_blank">Bajohr, Writing at a Distance: Notes on Authorship and Artificial
+            Intelligence, pp. 315-337</a>
         </li>
       </ul>
     </div>
-    <div style="padding: 10px">
+    <div>
       <h2> Reading for <a
-          href="https://jeffreycwitt.com/pl339/docs/14-critiques-of-digital-reading.html">Class
+          href="http://localhost:4000/pl339/docs/14-critiques-of-digital-reading.html">Class
           14</a> (2024-02-27): </h2>
       <p>14: Shallow Reading, Shallow Thinking</p>
       <ul>
@@ -249,55 +237,55 @@
         </li>
       </ul>
     </div>
-    <div style="padding: 10px">
-      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/15-digital-editions-1.html"
+    <div>
+      <h2> Reading for <a href="http://localhost:4000/pl339/docs/15-digital-editions-1.html"
           >Class 15</a> (2024-03-11): </h2>
       <p>15: Digital Editions Presentations</p>
       <ul></ul>
     </div>
-    <div style="padding: 10px">
-      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/16-digital-editions-2.html"
+    <div>
+      <h2> Reading for <a href="http://localhost:4000/pl339/docs/16-digital-editions-2.html"
           >Class 16</a> (2024-03-13): </h2>
       <p>16: Digital Editions Presentations</p>
       <ul></ul>
     </div>
-    <div style="padding: 10px">
-      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/17-code-and-puzzles.html">Class
+    <div>
+      <h2> Reading for <a href="http://localhost:4000/pl339/docs/17-code-and-puzzles.html">Class
           17</a> (2024-03-18): </h2>
       <p>17: Code and the Puzzles of Cyberspace</p>
       <ul>
         <li class="reading" data-reading="PIHI9TSZ=>cc. 1-2">Lessig, Code, cc. 1-2</li>
       </ul>
     </div>
-    <div style="padding: 10px">
-      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/18-internet-and-control.html"
+    <div>
+      <h2> Reading for <a href="http://localhost:4000/pl339/docs/18-internet-and-control.html"
           >Class 18</a> (2024-03-20): </h2>
       <p>18: internet and control</p>
       <ul>
         <li class="reading" data-reading="PIHI9TSZ=>cc. 3-5">Lessig, Code, cc. 3-5</li>
       </ul>
     </div>
-    <div style="padding: 10px">
+    <div>
       <h2> Reading for <a
-          href="https://jeffreycwitt.com/pl339/docs/19-modalities-of-regulation.html">Class 19</a>
+          href="http://localhost:4000/pl339/docs/19-modalities-of-regulation.html">Class 19</a>
         (2024-03-25): </h2>
       <p>19: modalities of regulation</p>
       <ul>
         <li class="reading" data-reading="PIHI9TSZ=>cc. 6-8">Lessig, Code, cc. 6-8</li>
       </ul>
     </div>
-    <div style="padding: 10px">
+    <div>
       <h2> Reading for <a
-          href="https://jeffreycwitt.com/pl339/docs/20-translation-and-latent-ambiguities.html"
+          href="http://localhost:4000/pl339/docs/20-translation-and-latent-ambiguities.html"
           >Class 20</a> (2024-03-27): </h2>
       <p>20: Translation and Latent Ambiguities</p>
       <ul>
         <li class="reading" data-reading="PIHI9TSZ=>cc. 9-10">Lessig, Code, cc. 9-10</li>
       </ul>
     </div>
-    <div style="padding: 10px">
+    <div>
       <h2> Reading for <a
-          href="https://jeffreycwitt.com/pl339/docs/21-foundations-of-deliberative-democracy.html"
+          href="http://localhost:4000/pl339/docs/21-foundations-of-deliberative-democracy.html"
           >Class 21</a> (2024-04-01): </h2>
       <p>21: Foundations of Deliberative Democracy</p>
       <ul>
@@ -320,8 +308,8 @@
         </li>
       </ul>
     </div>
-    <div style="padding: 10px">
-      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/22-deliberative-democracy.html"
+    <div>
+      <h2> Reading for <a href="http://localhost:4000/pl339/docs/22-deliberative-democracy.html"
           >Class 22</a> (2024-04-03): </h2>
       <p>22: Deliberative Democracy</p>
       <ul>
@@ -337,9 +325,9 @@
         </li>
       </ul>
     </div>
-    <div style="padding: 10px">
+    <div>
       <h2> Reading for <a
-          href="https://jeffreycwitt.com/pl339/docs/23-neo-feudalism-death-of-public-sphere.html"
+          href="http://localhost:4000/pl339/docs/23-neo-feudalism-death-of-public-sphere.html"
           >Class 23</a> (2024-04-08): </h2>
       <p>23: Neo-Feudalism and the Death of the Public Sphere</p>
       <ul>
@@ -357,8 +345,8 @@
         </li>
       </ul>
     </div>
-    <div style="padding: 10px">
-      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/24-internet-as-savior.html"
+    <div>
+      <h2> Reading for <a href="http://localhost:4000/pl339/docs/24-internet-as-savior.html"
           >Class 24</a> (2024-04-10): </h2>
       <p>24: Internet as Savior of Deliberative Democracy</p>
       <ul>
@@ -390,9 +378,9 @@
         </li>
       </ul>
     </div>
-    <div style="padding: 10px">
+    <div>
       <h2> Reading for <a
-          href="https://jeffreycwitt.com/pl339/docs/25-free-speech-and-polarization.html">Class
+          href="http://localhost:4000/pl339/docs/25-free-speech-and-polarization.html">Class
           25</a> (2024-04-15): </h2>
       <p>25: Freedom of speech and Polarization</p>
       <ul>
@@ -402,8 +390,8 @@
           98-136</li>
       </ul>
     </div>
-    <div style="padding: 10px">
-      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/26-regulated-free-speech.html"
+    <div>
+      <h2> Reading for <a href="http://localhost:4000/pl339/docs/26-regulated-free-speech.html"
           >Class 26</a> (2024-04-22): </h2>
       <p>26: Regulated Free Speech</p>
       <ul>
@@ -414,8 +402,8 @@
         <li class="reading" data-reading="PIHI9TSZ=>c. 12">Lessig, Code, c. 12</li>
       </ul>
     </div>
-    <div style="padding: 10px">
-      <h2> Reading for <a href="https://jeffreycwitt.com/pl339/docs/27-regulation-proposals.html"
+    <div>
+      <h2> Reading for <a href="http://localhost:4000/pl339/docs/27-regulation-proposals.html"
           >Class 27</a> (2024-04-24): </h2>
       <p>27: Regulation Proposals</p>
       <ul>
@@ -424,3 +412,4 @@
       </ul>
     </div>
   </div>
+</div>
