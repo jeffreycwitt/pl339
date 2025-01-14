@@ -1,11 +1,11 @@
 ---
 layout: lecture
 title: "2: The Medium is the Message"
-date: 2024-01-16
+date: 2025-01-16
 nav_order: 2
 reading: ["MZZ5E5RE"]
 watchtime: 20 
-published: false
+published: true
 ---
 
 ## Table of contents
@@ -69,12 +69,16 @@ Sarnoff aims to critique technological pessimists who blame technological advanc
 Consider what Sarnoff's says as quoted by McLuhan:
 
 {:#the-products-of}
-> "The products of modern science are not good or bad: it is the way they are used that determines their value." <span class="citation" data-reading="MZZ5E5RE=>p. 11" data-annotation="https://hyp.is/oyiklrTMEe6t4LO60SnArg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/McLuhan_2001_The_Medium_is_the_Message.pdf"/>
+> "The products of modern science are not good or bad: it is the way they are used that determines their value." <span class="citation" data-reading="MZZ5E5RE=>p. 11"/>
+
+<!-- 2024 annotation https://hyp.is/oyiklrTMEe6t4LO60SnArg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/McLuhan_2001_The_Medium_is_the_Message.pdf -->
 
 We see this position criticized again in McLuhan's critique of Toynbee:
 
 {:#arnold-toynbee}
-> "Arnold Toynbee is innocent of any understanding of media as they have shaped history, but he is full of examples that the student of media can use. At one moment he can seriously suggest that adult education, such as the Workers Educational Association in Britain, is a useful counterforce to the popular press. Toynbee considers that although all of the oriental societies have in our time accepted the industrial technology and its political consequences: “On the cultural plane, however, there is no uniform corresponding tendency.” (Somervell, I. 267) This is like the voice of the literate man, floundering in a milieu of ads, who boasts, “Personally, I pay no attention to ads.” The spiritual and cultural reservations that the oriental peoples may have toward our technology will avail them not at all. The effects of technology do not occur at the level of opinions or concepts, but alter sense ratios or patterns of perception steadily and without any resistance. The serious artist is the only person able to encounter technology with impunity, just because he is an expert aware of the changes in sense perception." <span class="citation" data-reading="MZZ5E5RE=>p. 19" data-annotation="https://hyp.is/3CQuvrTMEe6Zilc-6H4TbA/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/McLuhan_2001_The_Medium_is_the_Message.pdf"/>
+> "Arnold Toynbee is innocent of any understanding of media as they have shaped history, but he is full of examples that the student of media can use. At one moment he can seriously suggest that adult education, such as the Workers Educational Association in Britain, is a useful counterforce to the popular press. Toynbee considers that although all of the oriental societies have in our time accepted the industrial technology and its political consequences: “On the cultural plane, however, there is no uniform corresponding tendency.” (Somervell, I. 267) This is like the voice of the literate man, floundering in a milieu of ads, who boasts, “Personally, I pay no attention to ads.” The spiritual and cultural reservations that the oriental peoples may have toward our technology will avail them not at all. The effects of technology do not occur at the level of opinions or concepts, but alter sense ratios or patterns of perception steadily and without any resistance. The serious artist is the only person able to encounter technology with impunity, just because he is an expert aware of the changes in sense perception." <span class="citation" data-reading="MZZ5E5RE=>p. 19"/>
+
+<!-- data-annotation="https://hyp.is/3CQuvrTMEe6Zilc-6H4TbA/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/McLuhan_2001_The_Medium_is_the_Message.pdf" -->
 
 
 With respect to this quotation, consider the following questions: 
@@ -142,7 +146,9 @@ What might be some reasons to think that it **does** matter?
 Let's consider how  McLuhan might respond. In response to Sarnoff, he writes: 
 
 {:#it-has-never-occurred}
-> "It has never occurred to General Sarnoff that technology could do anything but add itself to we already are". <span class="citation" data-reading="MZZ5E5RE=>p. 12" data-annotation="https://hyp.is/BCZLsrTOEe6TD-8wDxD-cg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/McLuhan_2001_The_Medium_is_the_Message.pdf"/>
+> "It has never occurred to General Sarnoff that technology could do anything but add itself to we already are". <span class="citation" data-reading="MZZ5E5RE=>p. 12"/>
+
+<!-- data-annotation="https://hyp.is/BCZLsrTOEe6TD-8wDxD-cg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/McLuhan_2001_The_Medium_is_the_Message.pdf" -->
 
 
 He describes Sarnoff as being asleep or in a kind of hypnosis. 
@@ -331,12 +337,16 @@ McLuhan certain has something like this in mind when (in a later chapter) he dis
 
 {:#there-is-a-basic}
 > "There is a basic principle that distinguishes a hot medium like radio from a cool one like the telephone, or a hot medium like the movie from a cool one like TV A hot medium is one that extends one single sense in "high definition." High definition is the state of being well filled with data. A photograph is, visually, "high definition." A cartoon is "low definition," simply because very little visual information is provided. Telephone is a cool medium, or one of low definition, because the ear is given a meager amount of information. And speech is a cool medium of . low definition, because so little is given and so much has to be filled in by the listener."
-<span class="citation" data-reading="QHGGLSI2=>p. 24" data-annotation="https://hyp.is/0g5dqLTOEe6WmPO--P_mSg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/McLuhan_2001_Media_Hot_and_Cold.pdf"/>
+<span class="citation" data-reading="QHGGLSI2=>p. 24"/>
+
+<!-- data-annotation="https://hyp.is/0g5dqLTOEe6WmPO--P_mSg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/McLuhan_2001_Media_Hot_and_Cold.pdf" -->
 
 And again:
 
 {:#hot-media-are-therefore}
-> Hot media are, therefore, low in participation, and cool media are high in participation or completion by the audience. Naturally, therefore, a hot medium like radio has very different effects on the user from a cool medium like the telephone. <span class="citation" data-reading="QHGGLSI2=>p. 25" data-annotation="https://hyp.is/_U-tyLTOEe6aPfMVpig0PQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/McLuhan_2001_Media_Hot_and_Cold.pdf"/>
+> Hot media are, therefore, low in participation, and cool media are high in participation or completion by the audience. Naturally, therefore, a hot medium like radio has very different effects on the user from a cool medium like the telephone. <span class="citation" data-reading="QHGGLSI2=>p. 25"/>
+
+<!-- data-annotation="https://hyp.is/_U-tyLTOEe6aPfMVpig0PQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/McLuhan_2001_Media_Hot_and_Cold.pdf" -->
 
 Consider this video which mention McLuhan's idea of print as "hot" medium while television is a "cool" medium.
 
