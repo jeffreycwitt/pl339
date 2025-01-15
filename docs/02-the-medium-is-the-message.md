@@ -389,7 +389,7 @@ Perhaps it is still possible to track identity of a letter written on a type wri
     
 **Connectivity Type**
     
-Here too, I'm not sure I have the right label, but by "connectivity type" I aim to identify the different kinds of connections different media allow: one-to-one, one-to-few, one-to-many
+Here too I'm not sure I have the right label, but by "connectivity type" I aim to identify the different kinds of connections different media allow: one-to-one, one-to-few, one-to-many
 
 ||one(sender)|few|many|
 |one (receiver)||||
