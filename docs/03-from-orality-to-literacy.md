@@ -4,7 +4,7 @@ title: "3: From Orality to Literacy"
 reading: ["78FP4M3A=>focus, pp. 12-18 (speech in praise of the lover), pp. 28-30 (criteria of true rhetoric), pp. 32-36 (in defense of speech over the written word)", "U25N8RU8", "MKVLEEA6=>focus: pp. 78-96, 101-103", "SN4EQIZ5=>cc. intro-3, pp. 3-77, focus: intro, pp. 3-13 and c. 2, pp. 28-50"]
 date: 2025-01-21
 nav_order: 3
-published: false
+published: true
 ---
 <!-- phaedrus: 78FP4M3A; ong c. 1; ong, c. 4; Glieck 1-3 -->>
 
