@@ -156,13 +156,13 @@ For example, he offers the example of Mendel and the concept of laws of genetics
 
 He writes: 
 
-> "and this sort of catastrophe is undoubtedly being repeated all about us, as truly significant attainments become lost in the mass of the inconsequential." <span class="citation" data-reading="JNA89KWB=>p. 3"/>
+> "and this sort of catastrophe is undoubtedly being repeated all about us, as truly significant attainments become lost in the mass of the inconsequential." <span class="citation" data-reading="JNA89KWB=>p. 3" data-annotatio="https://hyp.is/aD-SMNWmEe-X4k8V5pcE2A/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Bush_1945_As_We_May_Think.pdf"/>
 
-> "The difficulty seems to be...that publication has been extended far beyond our present ability to make real use of the record." <span class="citation" data-reading="JNA89KWB=>p. 3"/>
+> "The difficulty seems to be...that publication has been extended far beyond our present ability to make real use of the record." <span class="citation" data-reading="JNA89KWB=>p. 3" data-annotation="https://hyp.is/UDM__NWmEe-0_p_mKkOv7w/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Bush_1945_As_We_May_Think.pdf"/>
 
 We would benefit from mechanical aids to...
 
-> "essentially repetitive thought" <span class="citation" data-reading="JNA89KWB=>p. 9"/>
+> "essentially repetitive thought" <span class="citation" data-reading="JNA89KWB=>p. 9" data-annotation="https://hyp.is/UBY3LNWmEe-8NtsiOftaZw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Bush_1945_As_We_May_Think.pdf"/>
 
 In general, he seems attentive to a certain kind of waste through repetition and unmanageable overload.
 
@@ -175,7 +175,7 @@ What are the so-called "repetitive thoughts" we encounter that Bush would like t
 
 Bush thinks most people will immediately think of simple arithmetic, as seen in a simple calculator. But he pushes back and suggests that there is lot more repetitive work that could be "relegated to the machine".
 
-> But "the repetitive processes of thought are not confided however, to matters of arithmetic and statistics. In fact, every time one combines and records facts in accordance with established logical processes, the creative aspect of thinking is concerned only with the selection of the data and the process to be employed and the manipulation thereafter is repetitive in nature and hence a fit matter to be relegated to the machine." <span class="citation" data-reading="JNA89KWB=>p. 10"/>
+> But "the repetitive processes of thought are not confided however, to matters of arithmetic and statistics. In fact, every time one combines and records facts in accordance with established logical processes, the creative aspect of thinking is concerned only with the selection of the data and the process to be employed and the manipulation thereafter is repetitive in nature and hence a fit matter to be relegated to the machine." <span class="citation" data-reading="JNA89KWB=>p. 10" data-annotation="https://hyp.is/T_aZvNWmEe-hAKfIvu8qWg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Bush_1945_As_We_May_Think.pdf"/>
 
 In other words, the construction, recording, and recalling of **data relationships** is also something that machine could help up us with, but it is often overlooked.
 
@@ -185,7 +185,7 @@ Note 1: It is worth noting the language that Bush uses of "freeing the brain" an
 
 For example he says: 
 
-> "Whenever logical processes of thought are employed--that is, whenever thought for a time runs along an accepted groove--there is an opportunity for the machine." <span class="citation" data-reading="JNA89KWB=>p. 12"/>
+> "Whenever logical processes of thought are employed--that is, whenever thought for a time runs along an accepted groove--there is an opportunity for the machine." <span class="citation" data-reading="JNA89KWB=>p. 12" data-annotation="https://hyp.is/vFsF_NWmEe-f3SOkFIOwkQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Bush_1945_As_We_May_Think.pdf"/>
 
 Bush sees this outsourcing (what McLuhan calls the "extensions of man") as a way to free the brain for "creative cognitive acts" in contradistinction from "repetitive tasks", perhaps precisely the routine or repetition that was so highly valued by a purely oral culture.
 
@@ -193,7 +193,7 @@ Note 2: Here we should also keep in mind that the new way of thinking about text
 
 In this respect, we can see him complaining of an inhibitor to progress that is similar to the concern we have looked already, namely the "visual encoding of scholarly information": the imprecise and ambiguous redundancies in the print layout of a text that make communication slow and transmission difficult. He writes:
 
-> "Progress is inhibited by the exceedingly crude way in which mathematicians express their relationships. They imply a symbolism which grew like Topsy and has little consistency; a strange fact in that most logical field." <span class="citation" data-reading="JNA89KWB=>12"/> 
+> "Progress is inhibited by the exceedingly crude way in which mathematicians express their relationships. They imply a symbolism which grew like Topsy and has little consistency; a strange fact in that most logical field." <span class="citation" data-reading="JNA89KWB=>12" data-annotation="https://hyp.is/1wzjotWmEe-63ddJSgstNg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Bush_1945_As_We_May_Think.pdf"/> 
 
 {:.rquestion}
 Could we say the same thing about the notation of the way we write? How we indicate headings, paragraphs, footnotes, etc?
@@ -205,11 +205,11 @@ Beyond the generation of information? Where does Bush see the computer as helpfu
 
 Bush points to the "selection of data": the curation of data and the organization of data. 
 
-> "But back to the main point, the computer could be useful for the generation of data, but also the "selection of data". <span class="citation" data-reading="JNA89KWB=>p. 12"/> <!-- near the bottom -->
+> "The prime action of use is selection..." <span class="citation" data-reading="JNA89KWB=>p. 12" data-annotation="https://hyp.is/NB_mcNWnEe-f4I863GgVRw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Bush_1945_As_We_May_Think.pdf"/> <!-- near the bottom -->
 
 <!-- (see also the beginning of section 6, bttm of p. 14) -->
 
-> "Selection by association, rather than by indexing, may yet be mechanized" <span class="citation" data-reading="JNA89KWB=>p. 15"/>
+> "Selection by association, rather than by indexing, may yet be mechanized" <span class="citation" data-reading="JNA89KWB=>p. 15" data-annotation="https://hyp.is/WSXF8tWnEe-0zc9triXl1A/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Bush_1945_As_We_May_Think.pdf"/>
 
 </div>
 
@@ -230,7 +230,7 @@ What is the name of the machine he imagines in order to illustrate these possibi
 
 The Memex machine (See <span class="citation" data-reading="JNA89KWB=>p. 15"/>)
 
-> "this is the essential feature of the memex. The process of tying two items together is the important thing." <span class="citation" data-reading="JNA89KWB=>p. 17"/>
+> "this is the essential feature of the memex. The process of tying two items together is the important thing." <span class="citation" data-reading="JNA89KWB=>p. 17" data-annotation="https://hyp.is/bJ84PtWnEe-Ip4uClOUcEA/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Bush_1945_As_We_May_Think.pdf"/>
 
 </div>
 
@@ -238,7 +238,7 @@ In the constructions of trails of association, one thing that seems to be remark
 
 He goes on: 
 
-> p. 17 "and his trails do not fade".  <span class="citation" data-reading="JNA89KWB=>p. 17"/>
+> p. 17 "and his trails do not fade".  <span class="citation" data-reading="JNA89KWB=>p. 17" data-annotation="https://hyp.is/fRBA5tWnEe-SGme8hk1zvw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Bush_1945_As_We_May_Think.pdf"/>
 
 This also strikes me as important. In many cases in research, we build associative trails in order to arrive at a conclusion. We then write an article about our conclusions, while casting aside the trail of data we used to make this conclusion. We generally do this because the printed medium does not have the space to record all our data. While understandable, this makes the conclusion of research less transparent and less verifiable through repetition.
 
@@ -270,11 +270,11 @@ From reading these texts, what do you see as the most fundamental frustration wi
 
 Perhaps more than anything else, Nelson seems concerned with the "rigidity" of the linear sequence enforced by print media.
 
-> "We are used to sequential writing, and so we come easily to suppose that writing is intrinsically sequential." <span class="citation" data-reading="K5L5DYVS=>p. 1/14"/>
+> "We are used to sequential writing, and so we come easily to suppose that writing is intrinsically sequential." <span class="citation" data-reading="K5L5DYVS=>p. 1/14" data-annotatio="https://hyp.is/wRgXyNWnEe-RAHcV-MN7FQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Nelson_2001_Hypertext,_chapter_1.pdf"/>
 
 In particular: Nelson identifies two problems with sequential writing:
 
-> “1) it spoils the unity and structure of interconnection. 2) It forces a single sequence for all readers which may be appropriate for some. <span class="citation" data-reading="K5L5DYVS=>p. 1/14"/>
+> “1) it spoils the unity and structure of interconnection. 2) It forces a single sequence for all readers which may be appropriate for some. <span class="citation" data-reading="K5L5DYVS=>p. 1/14" data-annotation="https://hyp.is/qddfQtWnEe-T6rOGkNRDQQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Nelson_2001_Hypertext,_chapter_1.pdf"/>
 
 Let's briefly consider each of these concerns.
 
@@ -396,7 +396,7 @@ Joris Van Zundert (Barely beyond the book) gives us a helpful vocabulary for voi
 He calls it "paradigmatic regression".
 
 {:#i-have-previously}
-> I have previously argued that social shaping of technology can lead to ‘paradigmatic regression’. These are acts of shaping that translate an expression of the paradigm of the new technology into an expression of a paradigm that is already known to the user. Resistance to new technologies, where the use or sophistication of the new technology is denied, can of course be a motivator of paradigmatic regression. Not all regressions are necessarily motivated by conservatism or resistance, however. But even when users do embrace a new technology, the act of its social shaping may create a paradigmatic regression effect. An example of this effect can often be found when a metaphor is used in a graphical user interface (GUI)." <span class="citation" data-reading="KUZITWWR=>p. 85"/>
+> I have previously argued that social shaping of technology can lead to ‘paradigmatic regression’. These are acts of shaping that translate an expression of the paradigm of the new technology into an expression of a paradigm that is already known to the user. Resistance to new technologies, where the use or sophistication of the new technology is denied, can of course be a motivator of paradigmatic regression. Not all regressions are necessarily motivated by conservatism or resistance, however. But even when users do embrace a new technology, the act of its social shaping may create a paradigmatic regression effect. An example of this effect can often be found when a metaphor is used in a graphical user interface (GUI)." <span class="citation" data-reading="KUZITWWR=>p. 85" data-annotation="https://hyp.is/9rY-mgcXEeuKIk_45Yf56w/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Zundert_2016_Barely_Beyond_the_Book.pdf"/>
 
 
 <div class="discussion" markdown="1">

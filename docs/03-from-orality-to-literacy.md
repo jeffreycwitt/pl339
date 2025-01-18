@@ -2,7 +2,7 @@
 layout: lecture
 title: "3: From Orality to Literacy"
 reading: ["78FP4M3A=>focus, pp. 12-18 (speech in praise of the lover), pp. 28-30 (criteria of true rhetoric), pp. 32-36 (in defense of speech over the written word)", "U25N8RU8", "MKVLEEA6=>focus: pp. 78-96, 101-103", "SN4EQIZ5=>cc. intro-3, pp. 3-77, focus: intro, pp. 3-13 and c. 2, pp. 28-50"]
-date: 2024-01-21
+date: 2025-01-21
 nav_order: 3
 published: false
 ---
@@ -54,7 +54,7 @@ As stated, our goal is to use this book by Gleick to historically introduce ours
 In 1981 Dretske said the following: 
 
 {:#the-higher-level}
-> "The higher-level accomplishments associated with intelligent life can be seen as manifestations of progressively more efficient ways of handling and coding information. Meaning, and the constellation of mental attitudes that exhibit it, are manufactured products. The raw material is information." (Dretske, 1981, p. vii.) See <span class="citation" data-reading="3JMTBWNW=>p.43" data-annotation="https://hyp.is/b7fJ-LiVEe6tojNW2QRp2Q/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ilari_2013_Naturalized_Information,_chapter_3.pdf">Philosophy of Information 2013, p. 43</span>
+> "The higher-level accomplishments associated with intelligent life can be seen as manifestations of progressively more efficient ways of handling and coding information. Meaning, and the constellation of mental attitudes that exhibit it, are manufactured products. The raw material is information." (Dretske, 1981, p. vii.) See <span class="citation" data-reading="3JMTBWNW=>p.43" data-annotation="https://hyp.is/R5bUYNWeEe-EbjdBh1copQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ilari_2013_Naturalized_Information,_chapter_3.pdf">Philosophy of Information 2013, p. 43</span> 
 
 The suggestion here is that scientific progress tracks with the development of more and more efficient ways of "encoding" information to the point that "information" and the "message/meaning" can be separated, making "information" into kind of medium at the highest level of abstraction.
 
@@ -132,7 +132,7 @@ Such an abstraction provides a pathway for moving a message from sound waves to 
 Claude Shannon, in his landmark paper  <span class="citation" data-reading="P54C8DCW">A mathematical theory of communication</span>, was the first to clearly identify the need for a concept of "information" divorced from both matter and semantics. 
 
 {:#the-fundamental-problem}
-> "The fundamental problem of communication is that of reproducing at one point either exactly or approximately a message selected at another point. Frequently the messages have meaning; that is they refer to or are correlated according to some system with certain physical or conceptual entities. These semantic aspects of communication are irrelevant to the engineering problem. The significant aspect is that the actual message is one selected from a set of possible messages. The system must be designed to operate for each possible selection, not just the one which will actually be chosen since this is unknown at the time of design." <span class="citation" data-reading="P54C8DCW=>p. 3" data-annotation="https://hyp.is/dGOhsriKEe6bNpNZLxjFiw">
+> "The fundamental problem of communication is that of reproducing at one point either exactly or approximately a message selected at another point. Frequently the messages have meaning; that is they refer to or are correlated according to some system with certain physical or conceptual entities. These semantic aspects of communication are irrelevant to the engineering problem. The significant aspect is that the actual message is one selected from a set of possible messages. The system must be designed to operate for each possible selection, not just the one which will actually be chosen since this is unknown at the time of design." <span class="citation" data-reading="P54C8DCW=>p. 3" data-annotation="https://hyp.is/jzpCAtWeEe-6xM_kXbCQMg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Shannon_2001_A_mathematical_theory_of_communication.pdf">
 <!-- (See PofI, 2013, p. 18) -->
 
 
@@ -182,13 +182,13 @@ What does Socrates describe as the true desire of the soul?
 He seems to indicate that the "true desire" of the soul is "union" with the ideal forms, the one (over the many).
 
 {:#the-rest-of-the}
-> "The rest of the souls are also longing after the upper world and they all follow, but not being strong enough they are carried round below the surface, plunging, treading on one another, each striving to be first." <span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/2Uy-5riLEe6dNfcvEsE1ZQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Plato_Phaedrus.pdf"/>
+> "The rest of the souls are also longing after the upper world and they all follow, but not being strong enough they are carried round below the surface, plunging, treading on one another, each striving to be first." <span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/y_wCttWeEe-qEres6rvFoA/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Plato_Phaedrus.pdf"/>
 
 {:#the-reason-why-the}
-> "The reason why the souls exhibit this exceeding eagerness to behold the plain of truth is that pasturage is found there, which is suited to the highest part of the soul; and the wing on which the soul soars is nourished with this. And there is a law of Destiny, that the soul which attains any vision of truth in company with a god is preserved from harm until the next period, and if attaining always is always unharmed." <span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/DaHmiriMEe6oYdPMjZPMDA/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Plato_Phaedrus.pdf"/>
+> "The reason why the souls exhibit this exceeding eagerness to behold the plain of truth is that pasturage is found there, which is suited to the highest part of the soul; and the wing on which the soul soars is nourished with this. And there is a law of Destiny, that the soul which attains any vision of truth in company with a god is preserved from harm until the next period, and if attaining always is always unharmed." <span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/MjBIlNWfEe-DBZ_Wiw_3rQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Plato_Phaedrus.pdf"/>
 	
 {:#the-soul-of-a}
-> "The soul of a man may pass into the life of a beast, or from the beast return again into the man. But the soul which has never seen the truth will not pass into the human form. For a man must have intelligence of universals, and be able to proceed from the many particulars of sense to one conception of reason;-this is the recollection of those things which our soul once saw while following God-when regardless of that which we now call being she raised her head up towards the true being. And therefore the mind of the philosopher alone has wings; and this is just, for he is always, according to the measure of his abilities, clinging in recollection to those things in which God abides, and in beholding which He is what He is. And he who employs aright these memories is ever being initiated into perfect mysteries and alone becomes truly perfect. But, as he forgets earthly interests and is rapt in the divine, the vulgar deem him mad, and rebuke him; they do not see that he is inspired." <span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/P00cuLiMEe6DX_dRLFW_Mg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Plato_Phaedrus.pdf"/>
+> "The soul of a man may pass into the life of a beast, or from the beast return again into the man. But the soul which has never seen the truth will not pass into the human form. For a man must have intelligence of universals, and be able to proceed from the many particulars of sense to one conception of reason;-this is the recollection of those things which our soul once saw while following God-when regardless of that which we now call being she raised her head up towards the true being. And therefore the mind of the philosopher alone has wings; and this is just, for he is always, according to the measure of his abilities, clinging in recollection to those things in which God abides, and in beholding which He is what He is. And he who employs aright these memories is ever being initiated into perfect mysteries and alone becomes truly perfect. But, as he forgets earthly interests and is rapt in the divine, the vulgar deem him mad, and rebuke him; they do not see that he is inspired." <span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/_uCwUNWeEe-kCTeI59Kq8Q/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Plato_Phaedrus.pdf"/>
 
 {:.question}
 How does Socrates describe the present human problem? 
@@ -211,7 +211,7 @@ According to Plato, why is rhetoric like medicine?
 
 {:.answer}
 {:#why-because-medicine}
-> Why, because medicine has to define the nature of the body and rhetoric of the soul-if we would proceed, not empirically but scientifically, in the one case to impart health and strength by giving medicine and food in the other to implant the conviction or virtue which you desire, by the right application of words and training. <span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/5RtQ7LiMEe6pVxeIXHZVJw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Plato_Phaedrus.pdf"/>
+> Why, because medicine has to define the nature of the body and rhetoric of the soul-if we would proceed, not empirically but scientifically, in the one case to impart health and strength by giving medicine and food in the other to implant the conviction or virtue which you desire, by the right application of words and training. <span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/iR4jatWfEe-kGy8pff9Puw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Plato_Phaedrus.pdf"/>
 
 {:.rquestion}
 What are the three criteria of true rhetoric as described by Socrates? See p. 28-30.
@@ -222,17 +222,17 @@ Three things:
 
 {:#then-clearly-thrasymachus-or}
 > "Then clearly, Thrasymachus or anyone else who teaches rhetoric in earnest will give an exact description of the nature of the soul; which will enable us to see whether she be single and same, or, like the body, multiform. That is what we should call showing the nature of the soul." 
-<span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/NQibtLiNEe61wTM7fkionQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Plato_Phaedrus.pdf">
+<span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/pNXxHtWfEe-xY0cFWhsUkw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Plato_Phaedrus.pdf">
 
 2) knowledge of the different kinds of speeches/oratory
 
 {:#he-will-explain-secondly}
-> "He will explain, secondly, the mode in which she acts or is acted upon." <span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/TmzodriNEe6sRLsTWwj4ww/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Plato_Phaedrus.pdf">
+> "He will explain, secondly, the mode in which she acts or is acted upon." <span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/U7r1EtWlEe-k1BPqHQGs4Q/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Plato_Phaedrus.pdf">
 
 3) he can provide justification for how he arranges different kinds of speeches for different kinds of souls. (The speaker can respond, adjust. the spoken word is alive.) 
 
 {:#thirdly-having-classified-men}
-> "Thirdly, having classified men and speeches, and their kinds and affections, and adapted them to one another, he will tell the reasons of his arrangement, and show why one soul is persuaded by a particular form of argument, and another not." <span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/aQFiNLiNEe6sK2uuSLE63A/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Plato_Phaedrus.pdf">
+> "Thirdly, having classified men and speeches, and their kinds and affections, and adapted them to one another, he will tell the reasons of his arrangement, and show why one soul is persuaded by a particular form of argument, and another not." <span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/U52sFNWlEe-2YltVW9gbyA/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Plato_Phaedrus.pdf">
 
 We should emphasize this point as Walter Ong will talk about the importance of the written text as "dead", not as a negative but as a positive.
 
@@ -242,7 +242,7 @@ So finally, we come to it: why is writing an inferior form of rhetoric?
 Oratory, adjusts and adapts to its patient:
 
 {:#oratory-is-the-art}
-> "Oratory is the art of enchanting the soul, and therefore he who would be an orator has to learn the differences of human souls-they are so many and of such a nature, and from them come the differences between man and man. Having proceeded thus far in his analysis, he will next divide speeches into their different classes: "Such and such persons," he will say, are affected by this or that kind of speech in this or that way," and he will tell you why." <span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/jNnGpriNEe6dTSu6YnWX3A/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Plato_Phaedrus.pdf"/>
+> "Oratory is the art of enchanting the soul, and therefore he who would be an orator has to learn the differences of human souls-they are so many and of such a nature, and from them come the differences between man and man. Having proceeded thus far in his analysis, he will next divide speeches into their different classes: "Such and such persons," he will say, are affected by this or that kind of speech in this or that way," and he will tell you why." <span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/U3x2cNWlEe-0yOc3Cn7PGg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Plato_Phaedrus.pdf"/>
 
 In contrast, the dead written word has at least three drawbacks:
 
@@ -252,7 +252,7 @@ In contrast, the dead written word has at least three drawbacks:
 
 {:#i-cannot-help-feeling}
 > "I cannot help feeling, Phaedrus, that writing is unfortunately like painting; for the creations of the painter have the attitude of life, and yet if you ask them a question they preserve a solemn silence. And the same may be said of speeches. You would imagine that they had intelligence, but if you want to know anything and put a question to one of them, the speaker always gives one unvarying answer. And when they have been once written down they are tumbled about anywhere among those who may or may not understand them, and know not to whom they should reply, to whom not: and, if they are maltreated or abused, they have no parent to protect them; and they cannot protect or defend themselves."
-<span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/pDQjPLiNEe63lUtMgh3wqw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Plato_Phaedrus.pdf"/>
+<span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/U1-qQNWlEe-N7itTMFGjMw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Plato_Phaedrus.pdf"/>
 
 
 <div class="discussion" id="orality-pros-cons" markdown="1">
@@ -325,10 +325,11 @@ Let's turn then to consider Ong's thesis and the new advantages he sees from the
 In his introduction, Ong writes: 
 
 {:#oral-cultures-indeed-produce}
-> "Oral cultures indeed produce powerful and beautiful verbal performances of high artistic and human worth, which are no longer even possible once writing has taken possession of the psyche. Nevertheless, without writing, human consciousness cannot achieve its fuller potentials, cannot produce other beautiful and powerful creations…" <span class="citation" data-reading="U25N8RU8=>p. 14" data-annotation="https://hyp.is/z529AriOEe6tYUuWyWQuxQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_The_Orality_of_Language,_chapter_1.pdf"/>
+> "Oral cultures indeed produce powerful and beautiful verbal performances of high artistic and human worth, which are no longer even possible once writing has taken possession of the psyche. Nevertheless, without writing, human consciousness cannot achieve its fuller potentials, cannot produce other beautiful and powerful creations…" <span class="citation" data-reading="U25N8RU8=>p. 14" data-annotation="https://hyp.is/v086AtWiEe-8F-OpchJpTA/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_The_Orality_of_Language,_chapter_1.pdf"/>
 
 {:#more-than-any-other}
-> "More than any other single invention, writing has transformed human consciousness." <span class="citation" data-reading="MKVLEEA6=>p. 77" data-annotation="https://hyp.is/8YYl5LiOEe6KMQeOrwkORg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
+> "More than any other single invention, writing has transformed human consciousness." <span class="citation" data-reading="MKVLEEA6=>p. 77" data-annotation="https://hyp.is/ybX5vNWjEe-kJ7sACO4Fzg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
+
 
 Let's look at the opening claim in chapter 4. 
 
@@ -338,7 +339,7 @@ What is the chief characteristic he notes about writing? Did we see a recognitio
 The written text is divorced from its author. 
 
 {:#writing-establishes-what}
-> "Writing establishes what has been called 'context-free' language or 'autonomous' discourse." <span class="citation" data-reading="MKVLEEA6=>p. 78" data-annotation="https://hyp.is/DTegJLiPEe6ElHuvq_UnIw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
+> "Writing establishes what has been called 'context-free' language or 'autonomous' discourse." <span class="citation" data-reading="MKVLEEA6=>p. 78" data-annotation="https://hyp.is/yZjJoNWjEe-5wo_qhz-2Vg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
 
 <!-- is this "hotter" or "colder" according to McLuhan's categories? I would guess "cooler": 
 since removed from the context, writing asks for more participation on the part of the receiver.-->
@@ -365,7 +366,7 @@ The spoken word is alive, but the written word is dead.
 Ong acknowledges this, but he also thinks there is a paradox hidden within this truth. What paradox does he have in mind here? 
 
 {:#the-paradox-lies}
-> "The paradox lies in the fact that the deadness of the text, its removal from the living human lifeworld, its rigid visual fixity, assures its endurance its potential for being resurrected into limitless living contexts by a potentially infinite number of living readers" <span class="citation" data-reading="MKVLEEA6=>p. 80" data-annotation="https://hyp.is/Lyc91LiPEe6_hn_vQkYZqQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
+> "The paradox lies in the fact that the deadness of the text, its removal from the living human lifeworld, its rigid visual fixity, assures its endurance its potential for being resurrected into limitless living contexts by a potentially infinite number of living readers" <span class="citation" data-reading="MKVLEEA6=>p. 80" data-annotation="https://hyp.is/yIbZntWjEe--qWNTfkqw0Q/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
 
 Surprisingly (and perhaps paradoxically) it is precisely the deadness of this text that makes it possible for its entrance into a plurality of new contexts.
 
@@ -382,7 +383,7 @@ It seems that Ong is headed in this direction, saying: <!-- is this is a quote? 
 This point seems to me to come across pretty clear on p. 81: 
 
 {:#to-say-writing-is}
-> "To say writing is artificial is not to condemn it but to praise it. Like other artificial creations and indeed more than any other, it is utterly invaluable and indeed essential for the realization of fuller, interior, human potentials. Technologies are not mere exterior aids but also interior transformations of consciousness, and never more than when they affect the word. Such transformations can be uplifting. Writing heights consciousness. Alienation from a natural milieu can be good for us and indeed is in many ways essential for a full human life. To live and to understand fully, we need not only proximity but also distance. This writing provides for consciousness as nothing else does." <span class="citation" data-reading="MKVLEEA6=>p. 81" data-annotation="https://hyp.is/YaMOHriPEe6rHJufWQKStw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
+> "To say writing is artificial is not to condemn it but to praise it. Like other artificial creations and indeed more than any other, it is utterly invaluable and indeed essential for the realization of fuller, interior, human potentials. Technologies are not mere exterior aids but also interior transformations of consciousness, and never more than when they affect the word. Such transformations can be uplifting. Writing heights consciousness. Alienation from a natural milieu can be good for us and indeed is in many ways essential for a full human life. To live and to understand fully, we need not only proximity but also distance. This writing provides for consciousness as nothing else does." <span class="citation" data-reading="MKVLEEA6=>p. 81" data-annotation="https://hyp.is/yYIbatWjEe-X29PPN7inhg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
 
 ## B. Examples / Evidence 
 
@@ -412,11 +413,11 @@ How was this different than pictographic writing? And what were some of the adva
 It reduced the number of symbols to a manageable size. 
 
 {:#all-pictographic-systems-even}
-> "All pictographic systems...require a dismaying number of symbols..." <span class="citation" data-reading="MKVLEEA6=>p. 86" data-annotation="https://hyp.is/zTcf7riPEe60X_un8NhgPQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
+> "All pictographic systems...require a dismaying number of symbols..." <span class="citation" data-reading="MKVLEEA6=>p. 86" data-annotation="https://hyp.is/yVqM2tWjEe-Lic_-U5JhPw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
 
 It facilitated the reproduction of the spoken word in new contexts
 
-> "This Greek achievement in abstractly analyzing the elusive word of sound into visual equivalents both presages and implemented their further analytic exploits" <span class="citation" data-reading="MKVLEEA6=>p. 89" data-annotation="https://hyp.is/sv_efPHcEeqm0PMRtePCSA/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
+> "This Greek achievement in abstractly analyzing the elusive word of sound into visual equivalents both presages and implemented their further analytic exploits" <span class="citation" data-reading="MKVLEEA6=>p. 89" data-annotation="https://hyp.is/yUFvPtWjEe-2Xv_h7-S-Ig/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
 
 </div>
 
@@ -442,15 +443,15 @@ Let's conclude this example with a revealing quotation from Ong:
 
 {:#the-reason-why-the}
 > "The reason why the alphabet was invented so late…For the alphabet operates more directly on sound as sound than the other scripts..."
-<span class="citation" data-reading="MKVLEEA6=>p. 89" data-annotation="https://hyp.is/J6NcuPHdEeqFPCsdbKd_eg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf "/>
+<span class="citation" data-reading="MKVLEEA6=>p. 89" data-annotation="https://hyp.is/yP7uUtWjEe-O-PNwvA6R6w/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
 
 {:#sounds-as-has-earlier}
 > "...Sounds, as has earlier been explained, exists only when it is going out of existence…The alphabet implies that matters are otherwise, that a word is a **thing** not an event...a picture, say, of a bird does not reduce sound to space, for it represents an object, not a word.
-<span class="citation" data-reading="MKVLEEA6=>p. 89" data-annotation="https://hyp.is/MTd8ULiQEe68M9MaHF0BEA/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
+<span class="citation" data-reading="MKVLEEA6=>p. 89" data-annotation="https://hyp.is/yR_fkNWjEe-s3Lcaldtcxw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
 
 {:#the-alphabet-though-it}
 >...The alphabet, though it probably derives from pictographs, has lost all connection with things as things. It represents sound itself as a thing, **transforming the evanescent world of sound to the quiescent, quasi-permanent world of space**." 
-<span class="citation" data-reading="MKVLEEA6=>p. 90" data-annotation="https://hyp.is/Y2VvPriQEe6_7WefZNrK0g/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
+<span class="citation" data-reading="MKVLEEA6=>p. 90" data-annotation="https://hyp.is/yOjlgNWjEe-0w5uifpbdMw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
 
 
 ### 2) Example of Logic
@@ -460,10 +461,10 @@ The suggestion is that the transition to the written phonetic word, as a transit
 Ong writes:
 
 {:#the-distancing-which}
-> "The distancing which writing effects develops a new kind of precision…" <span class="citation" data-reading="MKVLEEA6=>p. 101" data-annotation="https://hyp.is/qEQ5ptXQEeqtkY_ii1_EXw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
+> "The distancing which writing effects develops a new kind of precision…" <span class="citation" data-reading="MKVLEEA6=>p. 101" data-annotation="https://hyp.is/yMPc9NWjEe-yU5vG-VhGeA/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
 
 {:#but-written-words-sharpen}
-> "But written words sharpen analysis" <span class="citation" data-reading="MKVLEEA6=>p. 101" data-annotation="https://hyp.is/tgAKxLiQEe6rJ6ubMF-SVQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
+> "But written words sharpen analysis" <span class="citation" data-reading="MKVLEEA6=>p. 101" data-annotation="https://hyp.is/yKwkptWjEe-NWQtCnKO4tw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
 
 Ong notes that: the removal of the word from its spoken context requires every more precision.
 
@@ -473,7 +474,7 @@ Why?
 Because the removal of this context removes hundreds of "communicative redundancies" that help sure the success of a transmission. 
 
 {:#to-make-yourself-clear}
-> "to make yourself clear without gesture, without facial expression, without intonation, without a real hearer, you have to foresee circumspectly all possible meanings a statement may have for any possible reader in any possible situation, and you have to make your language work so as to come clear all by itself, with no existential context. The need for this exquisite circumspection makes writing the agonizing work it commonly is." <span class="citation" data-reading="MKVLEEA6=>p. 101" data-annotation="https://hyp.is/C00AmriREe6pLeetXEXntw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
+> "to make yourself clear without gesture, without facial expression, without intonation, without a real hearer, you have to foresee circumspectly all possible meanings a statement may have for any possible reader in any possible situation, and you have to make your language work so as to come clear all by itself, with no existential context. The need for this exquisite circumspection makes writing the agonizing work it commonly is." <span class="citation" data-reading="MKVLEEA6=>p. 101" data-annotation="https://hyp.is/xYOn1tWjEe-LiP-TuWsxMg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
 
 Perhaps you've experienced this through the inefficiency of an email. Sometimes it takes 20 minutes to write an email to address a question that would have taken 30 seconds in an oral conversation.
 
@@ -525,17 +526,17 @@ Briefly, I'd like to think a little bit now about the role of of increased abstr
 In a later chapter, Ong points out an important fact: 
 
 {:#manuscript-cultures-remained-largely}
-> "Manuscript cultures remained largely oral-aural even in retrieval of material preserved in texts. Manuscripts were not easy to read, by later typographic standards, and what readers found in manuscripts they tended to commit at least somewhat to memory. Relocating material in a manuscript was not always easy. Memorization was encouraged..." <span class="citation" data-reading="FXZZ4PZP=>p.117" data-annotation="https://hyp.is/n4cZdriREe6tUse-Q9B3qg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Print_Space_and_Closure.pdf"/> 
+> "Manuscript cultures remained largely oral-aural even in retrieval of material preserved in texts. Manuscripts were not easy to read, by later typographic standards, and what readers found in manuscripts they tended to commit at least somewhat to memory. Relocating material in a manuscript was not always easy. Memorization was encouraged..." <span class="citation" data-reading="FXZZ4PZP=>p.117" data-annotation="https://hyp.is/rcmE3tWkEe-bJYPq6emD_g/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Print_Space_and_Closure.pdf"/> 
 
 He points out that even in early print books, visual practices seem counter-intuitive to us. They seem to make reading more difficult not less difficult. 
 
 {:#example-image}
-Consider the example image Ong provides on pg. 118 <span class="citation" data-reading="FXZZ4PZP=>p.118" data-annotation="https://hyp.is/v4zP9LiREe6pkJ81mSqPdg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Print_Space_and_Closure.pdf"/> 
+Consider the example image Ong provides on pg. 118 <span class="citation" data-reading="FXZZ4PZP=>p.118" data-annotation="https://hyp.is/rW3FGNWkEe-yVsejuICDsg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Print_Space_and_Closure.pdf"/> 
 
 And he asks an interesting question: 
 
 {:#why-does-the-original}
-> "Why does the original, presumably more 'natural' procedure seem wrong to us? Because we feel the printed words before us as visual units." <span class="citation" data-reading="FXZZ4PZP=>p.119" data-annotation="https://hyp.is/2jj8LriREe6-8kNKTTEJjw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Print_Space_and_Closure.pdf"/> 
+> "Why does the original, presumably more 'natural' procedure seem wrong to us? Because we feel the printed words before us as visual units." <span class="citation" data-reading="FXZZ4PZP=>p.119" data-annotation="https://hyp.is/rarZqNWkEe-a91OxSBUfzg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Print_Space_and_Closure.pdf"/> 
 
 It seems to me that part of the answer lies in the fact that we are the products of changes in book culture. It is NOT as simple as saying we prefer the modern book and the modern typeset book over the 16th century printing because it is "naturally clearer or better". Rather our conscious expectation of what a book should do, what we should do with a book, etc., is itself of a product of centuries of book development. And therefore the modern book looks/feels more "natural" or "clearer" as a direct result of the media shaping our expectations of what kinds of activities the book should and should not promote.
 
@@ -544,7 +545,7 @@ This is a consciousness that the 15th or 16th century reader of the printed book
 Ong says something similar: 
 
 {:#evidently-in-processing-text}
-> "Evidently, in processing the text for meaning, the sixteenth century was concentrating less on the sight of the word and more on its sound than we do." <span class="citation" data-reading="FXZZ4PZP=>p.119" data-annotation="https://hyp.is/BLQRlriSEe6bnAuchgeF_Q/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Print_Space_and_Closure.pdf"/> 
+> "Evidently, in processing the text for meaning, the sixteenth century was concentrating less on the sight of the word and more on its sound than we do." <span class="citation" data-reading="FXZZ4PZP=>p.119" data-annotation="https://hyp.is/rYzEwtWkEe-NXHv07Y65UQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Print_Space_and_Closure.pdf"/> 
 
 And thus, what we are talking about here is the development of the fairly modern notion of "sustained silent reading" as a consequence of slow cycle shifts in a material medium. (In fact I was taught this in elementary school, when we had SSR time, "sustained silent reading" time: clear evidence of the fact that far from being "natural", we are educated into developing certain kinds of reading habits over others.)
 
