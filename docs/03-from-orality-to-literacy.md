@@ -68,7 +68,7 @@ We generally think about information as tied up with "semantics", messages, or m
 
 Perhaps another reason this is strange is because we think of the message/meaning as what is immaterial, communicated to us through a material medium. 
 
-But Gleick is leading us toward is that claim "the informational turn" is tied to the discovery of the concept of information as kind of medium on "a higher level of abstraction" standing over and above other material media, standing at an "immaterial level". 
+But Gleick is leading us toward the claim that: information as a kind of medium on "a higher level of abstraction", standing over and above other material media, standing at an "immaterial level". 
 
 Strange as it may be, the story to be told is that the discovery or invention of the information as a "medium" at a higher level of abstraction has proved incredibly powerful, making scientific breakthroughs possible in a variety of fields, as well as making possible the scale and speed of communication that we wrestle with today.
 
