@@ -354,7 +354,7 @@ Written texts can't be corrected. They can't be clarified. The author no longer 
 Do we see something of this concern with the proliferation of fake-news online? Is this perhaps more troublesome with electronic text? Why or why not?
 
 {:.answer} 
-Such texts are harder to burn because they re-produces themselves more easily, and they are perhaps even more context-less, reducing themselves to fragmented assertions that are easily detached from argument, evidence, or context.
+Such texts are harder to burn because they re-produce themselves more easily, and they are perhaps even more context-less, reducing themselves to fragmented assertions that are easily detached from argument, evidence, or context.
 
 But we're getting ahead of ourselves here.
 
@@ -383,7 +383,7 @@ It seems that Ong is headed in this direction, saying: <!-- is this is a quote? 
 This point seems to me to come across pretty clear on p. 81: 
 
 {:#to-say-writing-is}
-> "To say writing is artificial is not to condemn it but to praise it. Like other artificial creations and indeed more than any other, it is utterly invaluable and indeed essential for the realization of fuller, interior, human potentials. Technologies are not mere exterior aids but also interior transformations of consciousness, and never more than when they affect the word. Such transformations can be uplifting. Writing heights consciousness. Alienation from a natural milieu can be good for us and indeed is in many ways essential for a full human life. To live and to understand fully, we need not only proximity but also distance. This writing provides for consciousness as nothing else does." <span class="citation" data-reading="MKVLEEA6=>p. 81" data-annotation="https://hyp.is/yYIbatWjEe-X29PPN7inhg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
+> "To say writing is artificial is not to condemn it but to praise it. Like other artificial creations and indeed more than any other, it is utterly invaluable and indeed essential for the realization of fuller, interior, human potentials. Technologies are not mere exterior aids but also interior transformations of consciousness, and never more than when they affect the word. Such transformations can be uplifting. Writing heightens consciousness. Alienation from a natural milieu can be good for us and indeed is in many ways essential for a full human life. To live and to understand fully, we need not only proximity but also distance. This writing provides for consciousness as nothing else does." <span class="citation" data-reading="MKVLEEA6=>p. 81" data-annotation="https://hyp.is/yYIbatWjEe-X29PPN7inhg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
 
 ## B. Examples / Evidence 
 
@@ -639,6 +639,6 @@ With the advent of the internet, the need for print and physical distribution, a
 
 As we can see here, this is an active and ongoing conversation that many scholars and writers are thinking about.
 
-But one thing is for sure: the ability to see these problems and imagine alternative solutions requires that one recognize just how much an existing medium is shaping habits of thought. Thus, to think beyond these habits, we must first recognize that these habits exists and then critically examine them, so that we can think beyond them.
+But one thing is for sure: the ability to see these problems and imagine alternative solutions requires that one recognize just how much an existing medium is shaping habits of thought. Thus, to think beyond these habits, we must first recognize that these habits exists and then critically examine them so that we can think beyond them.
 
 
