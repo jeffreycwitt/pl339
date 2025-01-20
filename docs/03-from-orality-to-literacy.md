@@ -99,7 +99,7 @@ In this case, moving the entire chalk board would be very expensive, making the 
 
 We could copy that message from the chalk board to a piece of paper and the select a "courier" to pass the message to the next room. 
 
-And this is much more economical and this is the way much of communication has occurred for most of human history. But it is still demanding and expensive. To send a letter to China is slow and expensive process. 
+This is much more economical, and this is the way much of communication has occurred for most of human history. But it is still demanding and expensive. To send a letter to China is a slow and expensive process. 
 
 But let's consider what it takes to "shout" that message to the other room. 
 
@@ -119,13 +119,13 @@ What is needed is a **mind** that understands the **semantics** or meaning of wh
 
 Compared to the speed and scale of communication today, this requirement that the semantics of a message be understood first and then re-encoded before transmission remains very costly. It substantially delays the speed and scale of communication.
 
-The "informational turn" coincides with the search for and discovery of a medium at level of abstraction higher than either sound or light waves. An abstraction that allows for the **exchange of information without the understanding of semantics**.
+The "informational turn" coincides with the search for and discovery of a medium at a level of abstraction higher than either sound or light waves. An abstraction that allows for the **exchange of information without the understanding of semantics**.
 
 But what could that be? 
 
 Here we are talking about a level above all physical matter, at the level of logic, specifically the logic of **difference**. Difference can be found in any material form, and yet cannot be reduced to a particular material form. Thus "difference" stands above matter and this means that it can be encoded **in any matter** at a lower downstream level of abstraction. 
 
-The promise that lies within this level of abstraction is the possibility of the automatic re-encoding of message without the requirement that the semantics of that message be understood. 
+The promise that lies within this level of abstraction is the possibility of automatically re-encoding a message without the requirement that the semantics of that message be understood. 
 
 Such an abstraction provides a pathway for moving a message from sound waves to light-waves, letters, and words, without any human intermediary decoding and then re-coding the message. This is possible through the discovery of "information" as its own kind of medium, which, because it is more abstract, can seamlessly move from sound to light without needing (at its level of abstraction) to be decoded, understood, and then re-coded.
 
@@ -148,7 +148,7 @@ This objection is precisely on the right track. But hopefully, you can see that 
 
 We abstracted from the visual "a" and the aural "a" to a common idea of "a" that does not have a material but only a logical existence.
 
-Consider this an analogous to the "idea" of a triangle. We see triangles instantiated in "material forms" all the time. But none of these material triangles are perfect triangles. Their angles may be askew or their lines may not be perfectly straight. Thus a perfect triangle can never be seen, but only defined by its properties (e.g. $$ a^{2} + b^2 = c^2 $$ etc.). Similarly, for a letter or word, it is easy to think of this as something that we see or hear, but Shannon will push us to think about the idea of the letter (or a word) as defined by its stastical properties: an "a" is really the first symbol in a series of 26, with a certain probability of appearance with in a given language. As we will see later, these properties are "measures" of difference, and the visual letter "a" is just one way of pointing to this difference.
+Consider this as analogous to the "idea" of a triangle. We see triangles instantiated in "material forms" all the time. But none of these material triangles are perfect triangles. Their angles may be askew or their lines may not be perfectly straight. Thus a perfectly triangle can never be seen, but only defined by its properties (e.g. $$ a^{2} + b^2 = c^2 $$ etc.). Similarly, for a letter or word, it is easy to think of this as something that we see or hear, but Shannon will push us to think about the idea of the letter (or a word) as defined by its stastical properties: an "a" is really the first symbol in a set of 26, with a certain probability of appearance with in a given language. As we will see later, these properties are "measures" of difference, and the visual letter "a" is just one way of pointing to this difference.
 
 If it is possible to think about the letter "a" at this level of abstraction, then we can imagine a machine that can measure the difference in light waves for input and reproduce that same difference in sound waves for output. 
 
@@ -307,7 +307,7 @@ Nevertheless, it also worth noting that the electronic age has the potential to 
 <div class="discussion" markdown="1">
 
 {:.rquestion}
-On this point, do you think Socrates would welcome this new "dynamic" text found in the electronic age?
+On this point, do you think Socrates would welcome this new "dynamic" text found in the electronic age? (Perhaps even generative AI's ability to tailor its response to the specific prompt given by an individual inquirer?)
 
 {:.rquestion}
 Does multi-media communication on the internet generally or via social media re-capture some of the things he likes about the spoken word?
