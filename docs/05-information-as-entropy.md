@@ -4,7 +4,7 @@ title: "5: Information as Entropy"
 reading: ["SN4EQIZ5=>cc. 6-7"]
 date: 2024-01-28
 nav_order: 5
-published: false
+published: true
 ---
 
 {% include math.html %}
@@ -24,7 +24,7 @@ For example, he asked: what is the minimal amount of information required to tra
 
 A voice recording is not actually sound, but the re-encoding of information from one form of difference into a new form of difference, such that it can be re-encoded back into sound waves at the end of transmission. Shannon's question is: what is the minimum amount of difference required in order to successfully complete this re-encoding back into sound waves.
 
-In the same way, the "storage" of a pdf on your hard drive (containing a visually encoded page layout), is not actually the saving of an image or "look". It is the storage of something called "information" in such a way that the "look" you experienced when you saved the file can be "reproduced" or "reconstructed" when you open it again. What you are saving is a really a series of differences that when given to a particular application (your pdf viewer) a visual presentation can be re-assembled. (Think about how similar this is to the Jacquard loom.)
+In the same way, the "storage" of a pdf on your hard drive (containing a visually encoded page layout), is not actually the saving of an image or a "look". It is the storage of something called "information" in such a way that the "look" you experienced when you saved the file can be "reproduced" or "reconstructed" when you open it again. What you are saving is a really a series of differences that when given to a particular application (your pdf viewer) a visual presentation can be re-assembled. (Think about how similar this is to the Jacquard loom.)
 
 In order for this to be possible, there needs to be an idea of a "quantifiable information" that is separate from something we can hear or see, but precise enough to be machine actionable and for the machine to be able to reconstruct a particular view or message (without having to understand the meaning of what you intend to display and present).
 
@@ -39,7 +39,7 @@ Shannon's breakthrough is related to an insight we started to see in our [earlie
 Ong noted that in verbal communications there are hundreds of "communicative redundancies" present in our verbal communication in order to assure the error-free transmission of the message. 
 
 {:#to-make-yourself-clear}
-> "To make yourself clear without gesture, without facial expression, without intonation, without a real hearer, you have to foresee circumspectly all possible meanings of a statement may have for a possible reader in any possible situation, and you have to make your language work so as to come clear all by itself, with no existential context. The need for this exquisite circumspection makes writing the agonizing work it commonly is." <span class="citation" data-reading="MKVLEEA6=>p. 101" data-annotation="https://hyp.is/C00AmriREe6pLeetXEXntw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
+> "To make yourself clear without gesture, without facial expression, without intonation, without a real hearer, you have to foresee circumspectly all possible meanings of a statement may have for a possible reader in any possible situation, and you have to make your language work so as to come clear all by itself, with no existential context. The need for this exquisite circumspection makes writing the agonizing work it commonly is." <span class="citation" data-reading="MKVLEEA6=>p. 101" data-annotation="https://hyp.is/xYOn1tWjEe-LiP-TuWsxMg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
 
 Shannon noticed the same kinds of redundancies in our visual encoding of information through the use of letters. 
 
@@ -96,11 +96,11 @@ and
 
 > "the point was to represent a message as the outcome of a process that generated events [choices] with discrete probabilities" (Gleick, p. 228)
 
-In this regard let's focus on the "choice" of a particular letter. But Shannon would want you to recognize that you are making as similar choice from a pre-defined set when you choose to use a word or phrase (but in the case the size of the set is much larger than 26)
+In this regard let's focus on the "choice" of a particular letter. But note that Shannon would want you to recognize that you are making a similar choice from a pre-defined set when you choose to use a word or phrase (but in the case the size of the set is much larger than 26)
 
 Let's suppose we have an alphabet of 32 characters, and the letter z is number 32. 
 
-I could communicate this as a "picture of the letter z", but this would require hundreds of pieces of information within a very large set of spatial information. Think of the range possible visual positions (x ad y coordinates), and the various "look" of "z" in different fonts.
+I could communicate this as a "picture of the letter z", but this would require hundreds of pieces of information within a very large set of spatial information. Think of the range of possible visual positions (x ad y coordinates), and the various "look" of "z" in different fonts.
 
 That fact that despite all this visual variation, we can still recognize the same letter "z" is evidence to Shannon that there is something more essential about "Z" than how it looks. 
 
@@ -133,7 +133,7 @@ Because it only takes me on average five questions/choices (and never more than 
 
 In terms of logical "difference" we could think of this 5 as a measure of "difference". To communicate a set of 32 requires 5 differences. Shannon referred to these difference as "bits".
 
-Calling these difference "bits" helps us abstract from any particular physical medium and thereby helps us recognize that these bits can be "encoded" or realized in any physical material admits of difference. Thus 5 stones would work, 5 sticks would work, and of course 5 electrical impulses. The letter "a" might be encoded with 4 absences of stone, stick or impulse and 1 presence as 00001 and 'z' could be encoded as the presence of 5 stones, sticks, or impulses as 11111.
+Calling these difference "bits" helps us abstract from any particular physical medium and thereby helps us recognize that these bits can be "encoded" or realized in any physical material that admits of difference. Thus 5 stones would work, 5 sticks would work, and of course 5 electrical impulses. The letter "a" might be encoded with 4 absences of stone, stick or impulse and 1 presence as 00001 and 'z' could be encoded as the presence of 5 stones, sticks, or impulses as 11111.
 
 What is critical here is not so much the math but the reduction of information to a new essence. 
 
@@ -162,7 +162,7 @@ But again, Shannon asks us to consider more precisely what we are trying to comm
 The information we want to communicate is the winner, but the way we are communicating is by transmitting the "the full results of the game" without thinking about the precise information needed to successfully communicate. Not being precise, creates redundancies that can be helpful when extracting semantics, but can also be distracting and confusing noise that makes it hard to communicate without understanding semantics.
 
 If we want to communicate the information precisely and not merely by the visual "look" of the game, we can do so more efficiently by being more precise. 
-	
+
 We can always send player 1's score, and then only send further bits when it was not a tie. 
 
 This will change the available outcomes in our set from four (00 tie, 11 tie, 10 win, 01 lose) to (1 or 0 tie, 10 win, 01 lose). 
@@ -184,11 +184,11 @@ Instead of taking 2 bits to communicate the outcome of the game, it now only tak
 
 Or said differently, it will takes on average 1.5 yes/no questions to figure out who won the game.
 
-Here precision about what we want to communicate allows us to be more efficient. Because we are interested in the the outcome as win, lose, or tie., not necessarily in "how" a tie was created, we can reduce the amount of information needed in order to communicate this.
+Here precision about what we want to communicate allows us to be more efficient. Because we are interested in the the outcome as win, lose, or tie, not necessarily in "how" a tie was created, we can reduce the amount of information needed in order to communicate this.
 
 Further, when we are less efficient, we are also less precise, making semantic-free communication and automatic processing more difficult. 
 
-When we communicate the tie in both way (heads, heads) (tails, tails), we are communicating four possible results instead of the desired three (win, lose, tie). A further step of interpretation is now required to understand that (heads, heads) **means** (semantics) the same thing (tails, tails).
+When we communicate the tie in both way (heads, heads) (tails, tails), we are communicating four possible results instead of the desired three (win, lose, tie). A further step of interpretation is now required to understand that (heads, heads) **means** (semantics) the same thing as (tails, tails).
 
 **In sum** 
 
@@ -216,7 +216,7 @@ For example, the text of a heading and the text of paragraph are both data, but 
 
 Our awareness that a particular string functions in special way (as a "heading" or as a "paragraph") shows our awareness that this string of data belongs to a particular class or type of data. We sometimes call these "data-types".
 
-Further, there are "relationships" asserted between other data-types (e.g. paragraphs or divisions to which this heading applies). The types of "relationships" is another kind of data-type and each specific relationship is the data communicated.
+Further, there are "relationships" asserted between other data-types (e.g. paragraphs or divisions to which this heading applies). The types of "relationships" are another kind of data-type and each specific relationship is the data communicated.
 
 How do we recognize this? Where do we get this information? How does the printed text communicate this?
 
@@ -252,7 +252,7 @@ Are there places where data-types are unclear or ambiguous? Where is a guess req
 
 </div>
 
-The tendency of the book paradigm is to record the **look**, and then expect the reader to understand the intention (meaning, semantics) behind this "look". That is, the reader is expected understand that the text in visualized in this or that way because the author intends the data, so formatted, to be understood as having this or that purpose/function.
+The tendency of the book paradigm is to record the **look**, and then expect the reader to understand the intention (meaning, semantics) behind this "look". That is, the reader is expected understand that the text is visualized in this or that way because the author intends the data, so formatted, to be understood as having this or that purpose/function.
 
 But Shannon's pursuit of efficiency pushes us to think more precisely. Aren't we really just trying to communicate a data-type, which is a symbol with a finite set of symbols. If so, what if, instead of communicating the visual "look" of our text, expecting further interpretation, we could directly label the text with one of the data-types within the predefined set of data-types.
 
@@ -272,7 +272,7 @@ The benefit of the latter approach comes in the ability to automatically transfo
 
 But this would have been impossible with the first approach. 
 
-The first example would require a RE-ENCODING. I would have to go back through each of the "blue" things and interpret the semantics, figure out which things are "blue" because they are headings and which things are "blue" because they are measurements, and only after that act of human interpretation could the transformation be made.
+The first example would require a manual RE-ENCODING. I would have to go back through each of the "blue" things and interpret the semantics, figure out which things are "blue" because they are headings and which things are "blue" because they are measurements, and only after that act of human interpretation could the transformation be made.
 
 <iframe src="https://jsfiddle.net/mvt093fr/9/embedded/html,css,result/dark/" width="100%" style="min-height: 500px"></iframe>
 
