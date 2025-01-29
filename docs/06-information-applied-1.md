@@ -4,7 +4,7 @@ title: "6: Information Applied"
 reading: ["SN4EQIZ5=>cc. 8"]
 date: 2025-01-29
 nav_order: 6
-published: false
+published: true
 ---
 
 ## Table of contents
