@@ -2,9 +2,9 @@
 layout: lecture
 title: "7: Information Applied"
 reading: ["SN4EQIZ5=>cc. 9-10"]
-date: 2024-02-04
+date: 2025-02-04
 nav_order: 7
-published: false
+published: true
 ---
 
 ## Table of contents
@@ -14,12 +14,16 @@ Student Presentations
 
 # Applications of Information Turn in Physics (chapter 9)
 
-[Course notes (created by your peers) can be found here](https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl339/SP24-studentNotes/GleickCh9ClassNotesEdited.pdf). Please open the PDF in your browser and annotate directly on the PDF. 
+[Course notes (created by Michael and Phillip) can be found here](https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl339/SP25-studentNotes/Gleick-c9-MandP.pdf). Please open the PDF in your browser and annotate directly on the PDF. 
 
+[Course notes (created by Elijah) can be found here](https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl339/SP25-studentNotes/Gleick-c9-E.pdf). Please open the PDF in your browser and annotate directly on the PDF. 
 
 # Applications of Information Turn in Biology (10)
 
-[Course notes (created by your peers) can be found here](https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl339/SP24-studentNotes/GleickCh10ClassnotesEdited.pdf). Please open the PDF in your browser and annotate directly on the PDF. 
+[Course notes (created by Corrie, Chelsea, and Asia) can be found here](https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl339/SP25-studentNotes/Gleick-c10-CandCandA.pdf). Please open the PDF in your browser and annotate directly on the PDF. 
+
+
+---
 
 I also thought this video about "translation" from mRNA to poly-peptides (Proteins or parts of Proteins) was really helpful to understand how "information" is used to instruct the building process of poly-peptides. (The video is about 15 minutes.)
 
@@ -147,7 +151,7 @@ $$ =  5(\frac{1}{16}*4)+  5(\frac{1}{32}*5) + 10(\frac{1}{64}*6)  = 1.25 + 0.781
 ## Question 4
 
 {:.question}
-Why does Dawkins suggest that the gene is not DNA but information?  How does this fit with the larger theme of shannon's information theory, whether talking about letters and words, mechanical or animal minds, or DNA?
+Why does Dawkins suggest that the gene is not DNA but information?  How does this fit with the larger theme of Shannon's information theory, whether talking about letters and words, mechanical or animal minds, or DNA?
 
 <div class="answer" markdown="1">
 
