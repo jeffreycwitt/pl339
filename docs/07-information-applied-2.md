@@ -22,6 +22,8 @@ Student Presentations
 
 [Course notes (created by Corrie, Chelsea, and Asia) can be found here](https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl339/SP25-studentNotes/Gleick-c10-CandCandA.pdf). Please open the PDF in your browser and annotate directly on the PDF. 
 
+[Course notes (created by Hannah and John) can be found here](https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl339/SP25-studentNotes/Gleick-c10-HandJ.pdf). Please open the PDF in your browser and annotate directly on the PDF. 
+
 
 ---
 
