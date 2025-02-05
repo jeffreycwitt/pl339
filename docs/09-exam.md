@@ -3,12 +3,12 @@ layout: lecture
 title: "9: Exam Review"
 date: 2024-02-11
 nav_order: 9
-published: false
+published: true
 ---
 
 # Exam Format 
 
-The exam format will consist of two parts. (1) A question section composed primarily of multiple choice or short answer questions and (2) then two essay questions asking you to explore and articulate some of the big ideas we've been discussing.
+The exam will take place in class on Tuesday 2/11. The exam format will consist of two parts. (1) A question section composed primarily of multiple choice or short answer questions and (2) then two essay questions asking you to explore and articulate some of the big ideas we've been discussing.
 
 # Key Ideas
 
@@ -18,7 +18,7 @@ The exam format will consist of two parts. (1) A question section composed prima
   * How do Marx's "Ruling" ideas explain the power of media and it's associated values?
 
 * Communication Modalities
-  * What different kinds of characteristics do communication systems display? Can you give some examples? 
+  * What different kinds of characteristics (modalities) do communication systems display? Can you give some examples? 
 
 * Orality and Literacy
   * Why does "Plato" praise the "living" text of speech? How does this fit his "goals" for knowledge?
@@ -31,26 +31,37 @@ The exam format will consist of two parts. (1) A question section composed prima
   * How does this force us to think of the "text" in a new way?
   * How did this "abstraction" enable the communication of information across "multiple" media? Why was this not possible when a text was thought of as something "written down"?
   * What problem does the "production economy" surrounding the telegraph create? 
-  * How does this push us to think about information and the message differently?
-
+    * How does this push us to think about information and the message differently?
+  
 * Shannon's Theory of Information
+  * How do both the Jaccard loom at Babbage's differential machine point us toward the new (more abstract) notion of information that we see fully developed in the 20th century?
   * How did studying patterns in English texts inspire Shannon's definition of information?
   * What is Information "Entropy" a measure of?
   * How does this allow us to think about "information" as a strange kind of "medium" rather than "message"?
   * What is Shannon's formula for Information "Entropy"?
   * Why does Wiener prefer to talk about Information as "Negative Entropy"?
   * Can you apply this formula to simple problems? 
-    * e.g. How many bits needed to communicate one letter? 
-    * How many bits needed to communicate one "codon"?
-    * What does it mean for a channel to communicate 100 bits/second?
-    * What is the limiting factor here? Why can't it communicate 101 bits/second?
-    * Approximately, how many words (in a vocabulary of 16) could be communicated per second in a channel that communicates 100 bits/second?
+    * For example:
+      * How many bits needed to communicate one letter? 
+      * How many bits needed to communicate one "codon"?
+      * What does it mean for a channel to communicate 100 bits/second?
+      * What is the limiting factor here? Why can't it communicate 101 bits/second?
+      * Approximately, how many words (in a vocabulary of 16) could be communicated per second in a channel that communicates 100 bits/second?
+  * In what sense is possible to say that "Information" is an immaterial medium? 
+    * Why would that sound counter-intuitive to most people?
+    * Why does think about information along these lines enable us to improve the speed, scale, and transfer of information?
+      * What is a "semantically enabled agent"? How does the need (or lack of need) for a "semantically enabled agent" impact the speed and scale of communication?
 
 * How do we see information theory applied in surprising new fields?
-  * Psychology
-  * Physics 
-  * Biology
-  * Even Philosophy of Language/Semantics (see our discussion of Searle and Dretske)
+  * For example
+    * Psychology
+    * Physics 
+    * Biology
+    * Even Philosophy of Language/Semantics (see our discussion of Searle and Dretske)
+      * Why does Searle think a machine cannot understand meaning?
+      * At a high level, according to Dretske, why might it look like for a machine to understand meaning?
+  * What are some breakthroughs in these fields that were made possible by thinking of their respective problems as problems of communication and information transfer? 
+    * Can you think of concrete or specific examples?
 
 <div class="discussion" markdown="1">
 
@@ -58,10 +69,10 @@ The exam format will consist of two parts. (1) A question section composed prima
 What else should be added to this list?
 
 {:.question}
-Based on our reading of Gleick, what do you think would be good "multiple choice question"; then tell us why this would be a good question.
+Based on our reading of Gleick, what do you think would be good "multiple choice question" for our exam; then tell us why this would be a good question.
 
 {:.question}
-Based on the work we've done so far, what do you think would be a good essay question and why? (Keep in mind an essay question is usually a longer form response that gives students a chance to connect big ideas, or explain key concepts with extended clarifying examples)
+Based on the work we've done so far, what do you think would be a good essay question and why? (Keep in mind an essay question is usually a longer form response that gives students a chance to **connect** big ideas, or explain key concepts with extended clarifying examples.)
 </div>
 
 <!-- # Essay Questions
