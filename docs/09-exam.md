@@ -1,7 +1,7 @@
 ---
 layout: lecture
 title: "9: Exam Review"
-date: 2024-02-11
+date: 2025-02-11
 nav_order: 9
 published: true
 ---
