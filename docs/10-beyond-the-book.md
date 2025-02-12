@@ -3,8 +3,8 @@ layout: lecture
 title: "10: Beyond the Book"
 nav_order: 10
 reading: ["JNA89KWB", "PYUMRPFD", "K5L5DYVS", "V2BN56HW", "KUZITWWR=>focus, first section, p. 83-86"]
-date: 2024-02-13
-published: false
+date: 2025-02-13
+published: true
 watchtime: 27
 ---
 <!-- bush,JNA89KWB ; nelson 0: PYUMRPFD, nelson 1 K5L5DYVS; nelson 2, V2BN56HW; zundert; KUZITWWR-->
@@ -13,7 +13,7 @@ watchtime: 27
 1. TOC 
 {:toc}
 
-Important: please make sure to listen to at least the first half of the interview with Nelson [embedded below](#nelson-v-allen-1979-interview) (up to the 11 minute, 18 second mark). I'm eager to discuss it with you tomorrow.
+Important! please make sure to listen to at least the first half of the interview with Nelson [embedded below](#nelson-v-allen-1979-interview) (up to the 11 minute, 18 second mark). I'm eager to discuss it with you tomorrow.
 
 # Introduction
 
@@ -29,9 +29,9 @@ Then, as we turn to our first readings for this unit, I want to look at some of 
 
 ## Reading as a latent ambiguity
 
-To start let me introduce a concept that will re-occur in our reading later. This idea is the notion of "Latent Ambiguity" as introduce by Lawrence Lessig in his book "Code". For now it is enough to summarize.
+To start let me introduce a concept that will re-occur in our reading later. This idea is the notion of a "Latent Ambiguity" as introduce by Lawrence Lessig in his book "Code". For now it is enough to summarize.
 
-The point is that there are many possibilities whose value/worth remains undecided or ambiguous because the inherent limitations of existing media make these theoretical possibilities impossible **for us**. When something is not possible **for us**, we rarely ask if we should or should not do it. In fact, when something is not possible **for us**, it is often hard for us to even see that it actually is a possibility, and accordingly it is even harder for us to to consider whether such a thing should be valued and protected or should be considered a danger that should be forbidden.
+The point is that there are many possibilities whose value/worth remains undecided or ambiguous because the inherent limitations of existing media make these theoretical possibilities impossible **for us**. When something is not possible **for us**, we rarely ask if we should or should not do it. In fact, when something is not possible **for us**, it is often hard for us to even see that it actually is a possibility. Accordingly it is even harder for us to to consider whether such a thing should be valued and protected or should be considered a danger that should be forbidden.
 
 But as technology changes, new theoretical possibilities become actual possibilities **for us**. This forces us in the present to confront trade-offs; a weighing of pros and cons that previous human beings never before had to make. Such hidden possibilities are "latent ambiguities" that new technology forces us to face for the first time. 
 
@@ -57,7 +57,7 @@ If we confine ourselves just to the medium of the book, do we see ambiguity in t
 What if we confined ourselves to a novel, is there a distinct notion of reading here?
 </div>
 
-Even here it seems like, in addition to regular "reading", I could "skim" read. And both of these activity of reading are enabled or hindered through the design of the human interface.
+Even here it seems like, in addition to regular "reading", I could "skim" read. And both of these activity of reading are enabled or hindered through the design of the user interface.
 
 For example: imagine a book that only allowed you to read "sentence by sentence". This would be a medium (or a "user interface") that would make "skim reading" very difficult. 
 
@@ -75,12 +75,12 @@ My question here is to what extent has the medium of the book shaped or determin
 Or better, in the spirit of a "latent ambiguity", is there a way in which the book technology necessitates this kind of reading, so that we have never been forced to explicitly identify it as a value in need of protecting?
 
 {:.rquestion}
-If so, is this a valuable kind of reading, to what extent is it or can it be threatened by technological shifts, and to what extent should we protect? At all costs? What counter forces should be weighed against it? Are there other potential values to be achieved by allow this mode of reading to be reduced or threatened?
+If so, is this a valuable kind of reading? To what extent is it or can it be threatened by technological shifts, and to what extent should we protect? At all costs? What counter forces should be weighed against it? Are there other potential values to be achieved by allow this mode of reading to be reduced or threatened?
 </div>
 
 ## Reading Before Print
 
-It might be helpful for us to remind ourselves about reading before the modern era. 
+It might be helpful for us to remind ourselves about reading before the modern era.
 
 Obviously some people read, but as we have previously discussed, the notion of silent reason was practically unknown. The goal of reading for much of literate history was to read aloud so that others could hear it.
 
@@ -98,7 +98,7 @@ Is this a bad or a good development?
 
 </div>
 
-This is a good example of a "latent ambiguity" because in a world where "reading a text" out loud was the only way for it to be recited, it was taken for granted (or the question was never considered) that the ability "to read" was itself important. The recitation was seen as the goal, and someone knowing how to read was an obvious necessary means of achieving this goal. But when the machine appears, able to take care of the reciting function, people were forced to ask for the first time: is it it important that we continue to cultivate this ability to "read"? Should we spend many of our precious hours here on earth learning to read? Is it worth it?
+This is a good example of a "latent ambiguity" because in a world where "reading a text" out loud was the only way for it to be recited, it was taken for granted (or the question was never considered) that the ability "to read" was itself important. The recitation was seen as the goal, and someone knowing how to read was an obvious necessary means of achieving this goal. But when the machine appears, able to take care of the reciting function, people were forced to ask for the first time: is it important that we continue to cultivate this ability to "read"? Should we spend many of our precious hours here on earth learning to read? Is it worth it?
 
 ## Reading After Print
 
@@ -137,7 +137,7 @@ We will look at this...
 
 Once we have seen some of these new possibilities, we will (hopefully) have laid bare the relevant "latent ambiguities".
 
-Then I want to look at some critics of new media: voices that want to defend the idea that there is something extremely valuable about the act of sustained silent deep reading, and that as a value it must be defended, when previously it did not need a defense because it was technologically demanded.
+Then I want to look at some critics of new media (e.g. Nicholas Carr): voices that want to defend the idea that there is something extremely valuable about the act of sustained silent deep reading, and that as a value it must be defended, when previously it did not need a defense because it was technologically demanded.
 
 # Introduction to Today's Reading
 
@@ -187,11 +187,11 @@ For example he says:
 
 > "Whenever logical processes of thought are employed--that is, whenever thought for a time runs along an accepted groove--there is an opportunity for the machine." <span class="citation" data-reading="JNA89KWB=>p. 12" data-annotation="https://hyp.is/vFsF_NWmEe-f3SOkFIOwkQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Bush_1945_As_We_May_Think.pdf"/>
 
-Bush sees this outsourcing (what McLuhan calls the "extensions of man") as a way to free the brain for "creative cognitive acts" in contradistinction from "repetitive tasks", perhaps precisely the routine or repetition that was so highly valued by a purely oral culture.
+Bush sees this outsourcing (what McLuhan calls the "extensions of man") as a way to free the brain for "creative cognitive acts" in contradistinction from "repetitive tasks". From Socrates perspective, perhaps there is something valuable about the routine or repetition which explains why it was so highly valued by a purely oral culture; perhaps there is something valuable here that something Bush has overlooked.
 
 Note 2: Here we should also keep in mind that the new way of thinking about texts is possible for Bush because he is able to perform precisely the kind of abstraction Shannon pushes us towards. (Bush was Shannon's teacher at MIT after all, and they were very much breathing the same intellectual air). While most of us may think of a text as something with a physical appearance, Bush want us to see it as "visually encoded" information: as such, if this information could be re-encoded in other types of matter it could be subject to automatic manipulation.
 
-In this respect, we can see him complaining of an inhibitor to progress that is similar to the concern we have looked already, namely the "visual encoding of scholarly information": the imprecise and ambiguous redundancies in the print layout of a text that make communication slow and transmission difficult. He writes:
+In this respect, we can see him complaining about an obstacle to progress that is similar to the concern we have looked already, namely the "visual encoding of scholarly information": the imprecise and ambiguous redundancies in the print layout of a text that make communication slow and transmission difficult. He writes:
 
 > "Progress is inhibited by the exceedingly crude way in which mathematicians express their relationships. They imply a symbolism which grew like Topsy and has little consistency; a strange fact in that most logical field." <span class="citation" data-reading="JNA89KWB=>12" data-annotation="https://hyp.is/1wzjotWmEe-63ddJSgstNg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Bush_1945_As_We_May_Think.pdf"/> 
 
@@ -213,7 +213,7 @@ Bush points to the "selection of data": the curation of data and the organizatio
 
 </div>
 
-Bush's focus here takes an interesting turn. Unlike many of the military uses forseen for the computer, namely the crunching of numbers and generation of ballistic trajectories, he imagines a feature of computing power that lies "between the lines" so to speak. 
+Bush's focus here takes an interesting turn. Unlike many of the military uses foreseen for the computer, namely the crunching of numbers and generation of ballistic trajectories, he imagines a feature of computing power that lies "between the lines" so to speak. 
 
 That is, he imagines the computer being helpful not just in the generation of data, but in the unique and novel ways that data might be connected, broken apart, and re-connected. 
 
@@ -234,15 +234,15 @@ The Memex machine (See <span class="citation" data-reading="JNA89KWB=>p. 15"/>)
 
 </div>
 
-In the constructions of trails of association, one thing that seems to be remarkable is the RE-USE of information (at a granular level, a paragraph here, a photo, a page, etc) in NEW-CONTEXTS. The construction of NEW-HIERARCHIES (new kinds of associations) from old HIERARCHIES. This strikes me at once as both a simple innovation, and a startling powerful one from the point of view research discovery.
+In the constructions of trails of association, one thing that seems to be remarkable is the RE-USE of information (at a granular level, a paragraph here, a photo, a page, etc) in NEW-CONTEXTS. The construction of NEW-HIERARCHIES (new kinds of associations) from old HIERARCHIES. This strikes me at once as both a simple innovation and a startling powerful one from the point of view research discovery.
 
 He goes on: 
 
 > p. 17 "and his trails do not fade".  <span class="citation" data-reading="JNA89KWB=>p. 17" data-annotation="https://hyp.is/fRBA5tWnEe-SGme8hk1zvw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Bush_1945_As_We_May_Think.pdf"/>
 
-This also strikes me as important. In many cases in research, we build associative trails in order to arrive at a conclusion. We then write an article about our conclusions, while casting aside the trail of data we used to make this conclusion. We generally do this because the printed medium does not have the space to record all our data. While understandable, this makes the conclusion of research less transparent and less verifiable through repetition.
+This also strikes me as important. In many cases in research, we build associative trails in order to arrive at a conclusion. We then write an article about our conclusions, while casting aside the trail of data we used to make this conclusion. We generally do this because the printed medium does not have the space to record all our data. While understandable, this makes the conclusion of research less transparent and less verifiable through repetition. If someone wanted to verify my research, they would have to re-construct these associative trails all over again.
 
-Bush here imagines the ability to save and name the trail, creating the possibility of the future re-use and future-re-discovery of what is often lost in scholarship. 
+Bush here imagines the ability to save and name the trail, creating the possibility of the future re-use and future-re-discovery of what is often lost in scholarship.
 
 <div class="discussion" markdown="1">
 
@@ -279,7 +279,6 @@ In particular: Nelson identifies two problems with sequential writing:
 Let's briefly consider each of these concerns.
 
 ## Concern 1: spoils the unity and structure of interconnection 
-
 
 <div class="discussion" markdown="1">
 
@@ -362,7 +361,7 @@ Around minute 4, Nelson talks about encountering a book in a library and being d
 {:.rquestion} 
 What information is lacking? How does this relate to his first concern that the print medium destroys the "unity and structure of interconnection"?
 
-Around minute 8, the interviewer appeals the satisfactory nature of "file folders"? 
+Around minute 8, the interviewer appeals to the satisfactory nature of "file folders"? 
 
 {:.rquestion} 
 Why does he treat this technology as sufficient? 
