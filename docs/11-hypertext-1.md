@@ -146,7 +146,7 @@ With this new research goal in mind, how might different media aid in this study
 
 ### Example 1
 
-Let me try to offer one concrete example of where I think Barthes' and Foucault's idea -- that  the "author" is more than a mere writer, but also a form of privilege, power, and control -- has constrained social imagination and prevented the realization of genuine possibilities. Further, in this example, we can see how the notion of a hypertext and collaborative composition -- where the "author" get lost or fades to the background -- is a large part of what finally allowed this possibility to be realized. 
+Let me try to offer one concrete example of where I think Barthes' and Foucault's idea -- that  the "author" is more than a mere writer, but also a form of privilege, power, and control -- has constrained social imagination and prevented the realization of genuine possibilities. Further, in this example, we can see how the notion of a hypertext and collaborative composition -- where the "author" gets lost or fades to the background -- is a large part of what finally allowed this possibility to be realized. 
 
 The example I have in mind is Wikipedia. The article, [*The Hive*](https://www.theatlantic.com/magazine/archive/2006/09/the-hive/305118/) in the Atlantic relates the story of Wikipedia's surprising success. 
 
