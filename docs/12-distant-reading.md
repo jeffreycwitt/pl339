@@ -204,6 +204,20 @@ This process is popularly referred to as topic modeling, since it attempts to ca
 
 During our class time, we will look at some live examples together.
 
+If you want, you can try out my little lab "notebook" yourself: [this link](https://colab.research.google.com/drive/1eKR3oVKaa96xqoHBZ4bhY_fwspuITz2W?usp=sharing) will load python notebook in Google Colab. If you can load the file, then select "runtime->run all" and it will start executing on all the cells in the notebook. 
+
+(Running the notebook can take a while, so be patient)
+
+The goal of this notebook is to analyze state of the union address from 1945 to 2006 using Topic Modeling and similar tools. Have a look. 
+
+<div class="discussion" markdown="1">
+
+{:.rquestion}
+Do you see any trends? Look particularly at the graphs over time.
+
+{:.rquestion}
+Do they raise any questions for you that might inspire more research and investigation? Questions that you might otherwise have overlooked?
+
 <!-- # "Distant Writing"
 
 Finally, let's end with a provocative little foray into the future. 
