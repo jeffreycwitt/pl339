@@ -3,8 +3,8 @@ layout: lecture
 title: "12: Distant Reading"
 reading: ["UDFASSFK=>focus 54-58", "YCUSFWXI=>focus pp. 207-219, 225-227", "BL386AX3=>focus: pp. 1-8, 15-16"]
 nav_order: 12
-date: 2024-02-20
-published: false
+date: 2025-02-20
+published: true
 ---
 
 <!-- conjectures on world literature, UDFASSFK; daily nous on GPT3 R29TCBQA; zimmerman WXUV48X3; Nguyen EG5GDCPK;  GPT-3 example 1, HZSRCCAL, GPT-3 example 2 4MXHYS44-->
@@ -199,6 +199,7 @@ Here are a few bog posts that describe the process and its application in the hu
 Here's one quick description of what it does: 
 
 > "If a computer were shown many academic articles, it might discover that articles containing the word reading frequently include others like interpretation, criticism, discourse. Without foreknowledge of these words' meanings, it could statistically learn that there is a useful relationship between them. In turn, the computer would be able to identify articles in which this cluster of words seems to be prominent, corresponding to humanist methods.
+
 This process is popularly referred to as topic modeling, since it attempts to capture a list of many topics (that is, statistical word clusters) that would describe a given set of texts." [topic-modeling-what-humanists-actually-do-it-guest-post-teddy-roland-university (link no longer live)](https://digitalhumanities.berkeley.edu/blog/16/07/14/topic-modeling-what-humanists-actually-do-it-guest-post-teddy-roland-university)
 
 During our class time, we will look at some live examples together.
