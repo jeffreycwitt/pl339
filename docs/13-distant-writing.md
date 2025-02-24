@@ -3,9 +3,194 @@ layout: lecture
 title: "13: Distant Writing"
 reading: ["C6AR5DQG"]
 nav_order: 13
-date: 2024-02-25
-published: false
+date: 2025-02-25
+published: true
 ---
+
+Today, I'd like to focus our discussion first around your own reflections on writing, then Bajohr's "classification" of types of writing. If time permits, I'd like to look at one interesting example of future "writing" called "Prompt Engineering".
+
+## Writing Reflections
+
+<div class="discussion" markdown="1">
+
+{:.rquestion} 
+Based on your journaling about "writing" (or your own further reflections on writing), how *diverse* do you think this activity is? 
+
+{:.rquestion}
+Is this a general word that cover a lot of very distinct activities, methods, goals, and outcomes?
+
+{:.rquestion}
+Is there something common (some essential core) to all the activities that we call "writing"?
+
+{:.rquestion}
+How far can we extend this word? What is the "tipping" point at which something can no longer be considered "writing"?
+
+</div>
+
+## Writing at a Distance: Notes on Bajorh's Notes
+
+The main burden of this article (as I read it) is to provide assistance to the very murky conversation about writing and authorship. 
+
+The conversation about authorship seems to have a certain urgency due, on the one hand, to the increasing difficulty of establishing a direct author (as the number tools for assisting the act of writing continues to grow), and, on the one hand, the lingering social impulse to always find an author. 
+
+<div class="discussion" markdown="1">
+
+Can we pause on this latter impulse for a moment. 
+
+{:.rquestion}
+Why do you think there is such a strong social impulse to always find an author?
+
+{:.rquestion}
+Do you feel this impulse yourself? When and why?
+
+{:.rquestion}
+Why do we regard plagiarism a such deep "sin" and moral failure? Does the act of plagiarism affect the output/effectiveness of writing itself or is it considered "bad" for reasons external to the act of writing itself?
+
+{:.rquestion}
+If a text is copied from machine produced text (rather than another human person) do we still consider this plagiarism? Is it different in any way? 
+
+</div>
+
+### Causal Authorship
+
+The assistance that I see Bajohr offering to this murky conversation is some classification criteria. This criteria can help us structure the conversation and, in turn, help us avoid talking past each other because we are using different definitions of the word "writing" or "author".
+
+<div class="discussion" markdown="1">
+
+{:.rquestion}
+Can you describe his four categories of "Causal Authorship" (p. 323)? Can you think of any concrete examples in your own life where you see these different kinds of writing at work?
+
+{:.rquestion}
+How might these categories help clarify the debates about the value of "writing" and the boundaries of writing?
+
+{:.rquestion}
+Do these categories have different goals and values?
+
+{:.rquestion}
+Are there certain goals that make one type of writing inappropriate? Are there other goals that make a once unacceptable type of writing suddenly acceptable?
+
+</div>
+
+### Distributed Authorship
+
+In the next section, the discussion changed to cases where a "causal author" might not be identifiable at all. 
+
+For me, this discussion provided a few useful distinctions. 
+
+As the distance of causal authorship increases it becomes harder and harder to see a "true author" at all in the sense presumed by the causal model. 
+
+The sense of "true authorship" carries with it the notion of "agency/control" and "purposive-ness". In all of the examples of "causal" authorship, there was a sense that a true author could still be quasi-defined as whoever ultimately controls the process and directs it in light of a consious goal.
+
+It now appears that it might be possible to talk about "writing" that is produced without control by any kind of purpose.
+
+We might ask: if the goal of writing is to communicate information or the truth, then does it matter if the writing wasn't controlled by anyone with any conscious goal?
+
+Certainly, I ask the internet a lot of things and I can see the AI chat bot generating/writing text that is directly and usefully answering my question -- i.e. communicates to me exactly what I wanted to know. In this case, it is not very important to me that it is not aware of what it is doing and is not acting as an true agent trying to be helpful. 
+
+<div class="discussion" markdown="1">
+
+{:.rquestion}
+Why then -- and when -- do we care about agency? 
+
+{:.rquestion}
+How important is knowing that the words you are reading were produced by a person with agency and intention?
+
+</div>
+
+When the goal is effective communication, there might be some kinds of writing where this is important.
+
+Knowing who the person is, what their history is, what motivates them, might be the key to interpreting what they wrote: the key to effective communication.
+
+This traditional method of historicizing and contextualizing is a common tool of literary analysis and seems to be exactly what Matthew Kirschenbaum points to when he shows how text generated by *Recurrent Neural Networks* defy this classical technique of literary studies. He writes: 
+
+> Neural networks, as strictly formal entities, defy the imperative to always historicize that has governed projects across all our major genres and periods. (Kirschenbaum, *Spec Acts Reading Form in Recurrent Neural Network*, p. 364)
+
+The conversation here might need to be assisted by identifying *the kinds* of writing for which the question of agency is and is not important to the process of "meaning making" or "truth communication". 
+
+For example: A memoir, biography, or novel that asserts its generation through intentionality will come with certain hermeneutical tools that are not available to texts that are not produced in this way. (That is, knowing more about the person who wrote this book could better help us interpret the book they wrote). But not all forms of writing may need these kinds of tools. If a text is not highly ambiguous or our goal does not require this level analysis, then we may not need to know or care about who or what the writer is.
+
+Another reason we might care about agency and intentionality is pedagogical. In this case, the output is not what is important; it is the generation that is important. In this case, it seems obvious that texts without authorship will not suffice for the agent in question. What may be best for the agent may be a far inferior product to what is produced by the machine, and a reader may get a lot more benefit from the non-authored text. But this doesn't matter to the agent-writer because the goals of writing in this case are not to benefit the reader, but to aid the writer's own growth and understanding.
+
+An analogous example from my own experience is in coding projects. There are often products (e.g. ready-made blogs) that are available for general use. These projects are often very easy to set up and much more beautiful than anything I could create. One of my first projects was to make my own blog. After many days of work, I had a functional blog that was pretty ugly and could do far less than WordPress. But my goal was not the output; my goal was to learn the generative process itself. 
+
+<div class="discussion" markdown="1">
+
+{:.rquestion}
+But in this case, we will face the question: if the machine can produce this superior output, how many people really need to learn this generative process? 
+
+We certainly don't expect that everyone will need to learn to build their own blogs or websites. Only people interested in a certain kind of job or an inner curiosity will need to learn this generative process. 
+
+{:.rquestion}
+Can we imagine this being true about writing as well? Some people may continue to learn how to write because of an intrinsic curiosity, but we certainly don't need to expect every human to be able to write well.
+
+</div>
+
+Finally, the inability to identify an agent author in a distributed situation is disconcerting to many people for reasons that seem legitimate, but un-related to the purpose of writing as communication or meaning making. 
+
+Bajohr hinted at this issue on page 29. He writes: 
+
+> Jasmin Meerhoff points out that there are drawbacks to such metaphors of collectivity, for the “maximally distributed, dispersed, or completely atomized authorship” implied here may mention economic dependencies but sublates them into a collective whole that can no longer be addressed as an ethically responsible agent. Here, it is advisable to avoid talk of a machine agency and instead acknowledge the actual human authors behind the AI output: as laborers, but also as bearers of identities. This call echoes considerations from the sociology of art, which emphasize the infrastructural “support personnel” that operate behind the seemingly autonomous entities of the art system and make its activities possible in the first place. (Bajohr, p. 29)
+
+The point I take away from this is that, while not being able to identify an agent author may not always effect the quality or interpretation of the writing, it makes it difficult for us to recognize the human labor that creates and maintains these auto-writing systems. And when these people can't be identified, they risk not being paid or having enough resources to live a flourishing life. 
+
+This seems to be a real problem attached to the larger economic system that has been built up around traditional writing. It's a good reminder of the breadth of McLuhan's thesis. When he says the "medium is the message", he is not just pointing to the impact that a medium has on our immediate reception of a message, but on the entire socio-economic system that is engendered by a medium. Here the traditional medium of writing has led to a particular system for how people are compensated for their work. 
+
+As the medium of writing is transforming, we are seeing ways in which this old economic system is breaking down or at odds with the new technology.
+
+<div class="discussion" markdown="1">
+
+{:.rquestion}
+Can we imagine an alternative economic systems that would lessen the urgency to identify who an author is? 
+
+{:.rquestion}
+Would such a system lessen our sense of the severity of plagiarism or poor citation practices (especially when copying from machine generated text)? How so?
+
+On this point, Bajohr made a really interesting comparison (pp. 327) with the engineer and her use of the screw. He notes that the engineer does not feel the need to identify or pay the inventor of a screw every time he uses a screw, nor does society expect her to. 
+
+{:.rquestion}
+Why do we feel different in the the case of writing? 
+
+{:.rquestion}
+Or do we? Are there some ideas, turns of phrases, that we feel free to use without citation, just as an engineer might use a screw?
+
+{:.rquestion}
+Can we imagine a future where large sized textual ideas (perhaps whole paragraphs) are free floating objects that writers can freely use, re-use, mix, and remix just as the engineer uses the screw without any need to cite, quote, or attribute to someone else? Why or why not?
+
+{:.rquestion}
+Have you ever heard of the [William Burroughs "cut-up" technique](https://en.wikipedia.org/wiki/Cut-up_technique) popularized in the 1950s and 60s? I wonder if this is eerily similar to some future reality.
+
+</div>
+
+## Prompt Engineering as Writing
+
+As further evidence of changing attitudes toward generative AI, consider the growth of training materials devoted to Prompt Engineering. 
+
+There are now market places for [Prompt Engineering](https://promptbase.com/marketplace?itemType=prompt&domain=text), where engineers (a new word for "writers") can sell and exchange their prompts. 
+
+In the link below, note that some universities are starting to offer courses in "prompt engineering" and building training/curriculum material around how to design good "prompts"
+
+Please peruse the following: [https://iac.gatech.edu/featured-news/2024/02/AI-prompt-engineering-ChatGPT](https://iac.gatech.edu/featured-news/2024/02/AI-prompt-engineering-ChatGPT)
+
+
+<div class="discussion" markdown="1">
+
+{:.rquestion}
+What advice is given for effective prompting?
+
+{:.rquestion}
+What kind of skills are needed to use generative AI well?
+
+{:.rquestion}
+What is the "C.R.E.A.T.E" framework?
+
+{:.rquestion}
+What other strategies are suggested?
+
+{:.rquestion}
+Can you imagine a job or industry in which it is a full time job to be a "prompt-engineer"? What would that look like? Are there certain industries where you think it would work well? Are there other industries where you can't imagine a place for "prompt-engineering"?
+
+</div>
+
 <!-- 
  old readings: ["4J64JWQD", 'WXUV48X3', "EG5GDCPK", "HZSRCCAL", "4MXHYS44"] 
  conjectures on world literature, UDFASSFK; daily nous on GPT3 R29TCBQA; zimmerman WXUV48X3; Nguyen EG5GDCPK;  GPT-3 example 1, HZSRCCAL, GPT-3 example 2 4MXHYS44
