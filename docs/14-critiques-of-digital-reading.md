@@ -4,7 +4,7 @@ title: "14: Shallow Reading, Shallow Thinking"
 reading: ["NG3M96X8", "ZG3ZLM6Y", "SH5H2UC8"]
 nav_order: 14
 date: 2025-02-27
-published: false
+published: true
 ---
 <!-- carr 6, carr 7, Birkerts c. 11-->
 ## Table of contents
@@ -12,9 +12,11 @@ published: false
 1. TOC 
 {:toc}
 
+(Just for fun: [here](https://human-as-media.com/) is the link to the website by media critic Andrey Mir. Lot's of interesting posts here that seem to relate to our current discussions)
+
 # Review
 
-To date, we have focused our attention on the pioneers of the digital or electronic text. These thinkers (Bush, Nelson, Landow) were at pains to point out many of the limitations (and even biases) of the the printed text.
+To date, we have focused our attention on the pioneers of the digital or electronic text. These thinkers (Bush, Nelson, Landow, etc.) were at pains to point out many of the limitations (and even biases) of the the printed text.
 
 Today, I'd like to turn the tables a bit and look at some of the popular critiques of the so-called benefits of the hyperlinked text. 
 
@@ -36,7 +38,7 @@ Question: For example, why does L. Gordon Crovitz like the Kindle and why does C
 
 But is this really the case? In the comparison to the kind of hypertext editions and potential for new hierarchies that we've been discussing, the switch to an e-reader still seems fairly "bookish" to me. It still seems fully embedded in the print-paradigm. 
 
-{:.question}
+{:.dquestion}
 How does Carr see the shift even to an e-reader subtly affecting consciousness?
 
 {:.answer}
@@ -125,6 +127,7 @@ Can you think of examples of electronic texts and interfaces that promote concen
 
 {:.rquestion}
 What are some examples of interfaces that really "reward" distracted or shallow reading in the sense that Carr has in mind?
+
 </div>
 
 ## New Authorial Responsibilities? 
@@ -138,7 +141,7 @@ But it is less clear that this is the case today.
 <div class="discussion" markdown="1">
 
 {:.rquestion}
-Do we therefore, as scholars/researchers/content creators, need to take a deeper interest in the construction of our interfaces. In addition to what we write, do we also need to design suitable interfaces, or at least recommend those interfaces where we think this information is best read? Or is the job/responsibility of someone else?
+Do we therefore, as scholars/researchers/content creators, need to take a deeper interest in the construction of our interfaces. In addition to what we write, do we also need to design suitable interfaces, or at least recommend those interfaces where we think this information is best read? Or is this the job/responsibility of someone else?
 
 </div>
 
@@ -164,7 +167,7 @@ Unless we can identify some sort of eternal structures of good and bad by which 
 
 If the goal/ideal is to consume information in the way we have during the reign of the printed book, then it is not hard to see the changes he describes as negative. 
 
-Similarly, if the goal was to be able to memorize vast sums of information (as it might be for Socrates), then one can easily see that the invention of writing is a negative development: an obstacle against the achievement of that goal. 
+Similarly, if the goal was to be able to memorize vast sums of information (as it might be in an oral culture), then one can easily see that the invention of writing is a negative development: an obstacle against the achievement of that goal. 
 
 But of course, even if Carr is correct and the digital medium means that we are losing certain cognitive abilities, we have to acknowledge that this same medium is also engendering new kinds of cognitive functions.
 
