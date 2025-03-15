@@ -3,7 +3,7 @@ layout: lecture
 title: "16: Digital Editions Presentations"
 nav_order: 16
 date: 2024-03-13
-published: false
+published: true
 ---
 
 ## Table of contents
@@ -14,6 +14,10 @@ published: false
 # Digital Editions Presentations
 
 
+Group 3: Moulethrop
 
+Group 4: Dante/Joyce
+
+Group 5: Melville
 
 
