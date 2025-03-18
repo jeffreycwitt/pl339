@@ -190,7 +190,7 @@ This imaginative "virtual" world is fun, playful, and fanciful, but the market d
 
 We also know that the ability of society to regulate these "spaces of access", whether physical or virtual, is important to considerations of justice and equality. "Members Only Clubs" and "University Clubs" are places where networking happens and relationships are formed that lead to social power. 
 
-When, in the past black people, were excluded from membership based on the color of their skin, this was a real injustice. It had real effects on their ability to be "in the know", to meet other people in power, and rise to positions of power. Similarly, women excluded from "Men Only" clubs have long complained that this is an injustice that prevents women from rising to the top of corporate ladders.
+When, in the past, black people were excluded from membership based on the color of their skin, this was a real injustice. It had real effects on their ability to be "in the know", to meet other people in power, and rise to positions of power. Similarly, women excluded from "Men Only" clubs have long complained that this is an injustice that prevents women from rising to the top of corporate ladders.
 
 Because of these recognized injustices, our society felt comfortable introducing regulation. The Civil Rights Act, for example, introduced regulation to put limits and controls on how owners of spaces could wield their power over who could and could not enter a space.
 
