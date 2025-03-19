@@ -4,7 +4,7 @@ title: "18: internet and control"
 reading: ["PIHI9TSZ=>cc. 3-5"]
 nav_order: 18
 date: 2024-03-20
-published: false
+published: true
 ---
 
 ## Table of contents
@@ -28,9 +28,9 @@ But despite the fact that the Internet can be regulated, the belief that the Int
 
 Lessig wants to show us here that, whether or not the public/government becomes involved in this regulation, the Internet will nevertheless be regulated, namely by commerce. 
 
-But how can commerce regulate, if private interests do not have the power to create laws.
+But how can commerce regulate if private interests do not have the power to create laws.
 
-Lessig show us that control is being implemented through private interest, not via laws, but via the code which makes the Internet run.
+Lessig show us that control is being implemented through private interest, not via "laws", but via the "code" which makes the Internet run.
 
 Thus (as we will see more clearly in chapters 6-8), if the public is going to have a say in the Internet we get (and the access to information we have), regular citizens, like you and me, are going to have to 1) take an interest in how the Internet "currently works", 2) separate that from any idea of how the internet must "necessarily work", and 3) be willing to imagine how the Internet could "work differently".
 
@@ -62,7 +62,7 @@ Lessig introduces the categories of "identity, authentication, credential" to he
 
 <div class="discussion" markdown="1">
 
-Let's think about this with a real, non-virtual, example?
+Let's think about this with a real, non-virtual, example.
 
 {:.rquestion}
 In what way is a **physical park** a platform that enables communication? 
