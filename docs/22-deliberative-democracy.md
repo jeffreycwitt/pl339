@@ -33,7 +33,7 @@ The argument of chapter 2 has a tight structure, but Mill's 19th century writing
 However, Mill's conclusion offers us some clues. 
 
 {:#we-have-now-recognised}
-> "We have now recognised the necessity to the mental well-being of mankind (on which all their other well-being depends) of freedom of opinion, and freedom of the expression of opinion, on four distinct grounds; which we will now briefly recapitulate." <span class="citation" data-reading="SWWUUQXZ=>c. 2" data-annotation="https://hyp.is/EQV5avT9Ee6oswMVkUBmGQ/www.gutenberg.org/files/34901/34901-h/34901-h.htm"/>
+> "We have now recognised the necessity to the mental well-being of mankind (on which all their other well-being depends) of freedom of opinion, and freedom of the expression of opinion, on four distinct grounds; which we will now briefly recapitulate." <span class="citation" data-reading="SWWUUQXZ=>c. 2" data-annotation="https://hyp.is/ddBA6NWrEe-f6OeuCZ6HFQ/www.gutenberg.org/files/34901/34901-h/34901-h.htm"/>
 
 These four arguments revolve around Mill's response to a central objection: if we know the truth, why should we, as a society, allow it to be contradicted by error. 
 
@@ -42,7 +42,7 @@ I'd like to discuss each of these arguments in turn.
 As Mill states at the outset, his response follows two main paths: 
 
 {:#it-is-necessary-to}
-> "It is necessary to consider separately these two hypotheses, each of which has a distinct branch of the argument corresponding to it. We can never be sure that the opinion we are endeavouring to stifle is a false opinion; and if we were sure, stifling it would be an evil still." <span class="citation" data-reading="SWWUUQXZ=>c. 2" data-annotation="https://hyp.is/ZIPuqvT9Ee6lGmcfI62RCQ/www.gutenberg.org/files/34901/34901-h/34901-h.htm"/>
+> "It is necessary to consider separately these two hypotheses, each of which has a distinct branch of the argument corresponding to it. We can never be sure that the opinion we are endeavouring to stifle is a false opinion; and if we were sure, stifling it would be an evil still." <span class="citation" data-reading="SWWUUQXZ=>c. 2" data-annotation="https://hyp.is/ddBA6NWrEe-f6OeuCZ6HFQ/www.gutenberg.org/files/34901/34901-h/34901-h.htm"/>
 
 
 <div class="discussion" markdown="1">
@@ -199,14 +199,14 @@ First he recaps how deliberative bodies function as a check on administrative po
 He writes: 
 
 {:#normative-reasons-which-justify}
-> "Normative  reasons, which justify adopted policies and enacted norms in the language of law, are regarded in the language of administrative power as  rationalizations  appended  to  decisions  that  were  previously  induced." <span class="citation" data-reading="GCYCSLUR=>p. 56" data-annotation="https://hyp.is/eXKrfPUBEe6oxysi9u1BCA/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Habermas_1997_Popular_Sovereignty_as_Procedure.pdf"/>
+> "Normative  reasons, which justify adopted policies and enacted norms in the language of law, are regarded in the language of administrative power as  rationalizations  appended  to  decisions  that  were  previously  induced." <span class="citation" data-reading="GCYCSLUR=>p. 56" data-annotation="https://hyp.is/FPAsYNWsEe-8RIMnu1SI0w/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Habermas_1997_Popular_Sovereignty_as_Procedure.pdf"/>
 
 In other words, executive/administrative power, in being responsible for action, is required to rationalize its actions. Deliberative bodies constrain administrative action by constraining the pool of normative reasons that can be appealed to in order to justify action. 
 
 Again he writes:
 
 {:#communicatively-generated-legitimate-power}
-> "Communicatively  generated  legitimate  power  can have an effect on the political system insofar as it assumes responsibility  for  the  pool  of  reasons  from  which  administrative  decisions must  draw  their  rationalizations.  If  the  normative  arguments  appended by the system have been discursively invalidated by counter-arguments from prior political communication, then it is simply not the case that “anything goes,” that is, anything feasible for the political system." <span class="citation" data-reading="GCYCSLUR=>p. 56" data-annotation="https://hyp.is/Qe2F0vUBEe6TdjtijMYSTQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Habermas_1997_Popular_Sovereignty_as_Procedure.pdf"/>
+> "Communicatively  generated  legitimate  power  can have an effect on the political system insofar as it assumes responsibility  for  the  pool  of  reasons  from  which  administrative  decisions must  draw  their  rationalizations.  If  the  normative  arguments  appended by the system have been discursively invalidated by counter-arguments from prior political communication, then it is simply not the case that “anything goes,” that is, anything feasible for the political system." <span class="citation" data-reading="GCYCSLUR=>p. 56" data-annotation="https://hyp.is/FQ1EvNWsEe-EiXcSybK7cw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Habermas_1997_Popular_Sovereignty_as_Procedure.pdf"/>
 
 I illustrate this below as follows: 
 
@@ -220,7 +220,7 @@ The "elitist" answer (as Habermas calls it on p. 57) to this problem is to devel
 But what problem does Habermas believe he has found at this point (p. 57)? Why has Fröbel overlooked something?
 
 {:#if-the-voters-opinion}
-> "if the voters’ opinion is irrational,  then  the  election  of  representatives  is  no  less  so." <span class="citation" data-reading="GCYCSLUR=>p. 57" data-annotation="https://hyp.is/_Jo1QPT-Ee6PmQMMU-sSVQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Habermas_1997_Popular_Sovereignty_as_Procedure.pdf">
+> "if the voters’ opinion is irrational,  then  the  election  of  representatives  is  no  less  so." <span class="citation" data-reading="GCYCSLUR=>p. 57" data-annotation="https://hyp.is/FYmq_NWsEe-bCh8O-nGSAQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Habermas_1997_Popular_Sovereignty_as_Procedure.pdf">
 
 To resolve this dilemma, Habermas thinks we need to pay attention to something new: namely the relationship between "political will-formation" and the "surrounding environment of unstructured processes of opinion-formation".
 
@@ -229,7 +229,7 @@ Here he argues that in addition to organized deliberative bodies that are respon
 He describes these as:
 
 {:#voluntary-associations-represent-the}
-> "Voluntary associations represent the nodal  points  in  a  communication  network  that  emerges  from  the intermeshing of autonomous public spheres." <span class="citation" data-reading="GCYCSLUR=>p. 57" data-annotation="https://hyp.is/QovqgPT_Ee6s3EPB8smBKg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Habermas_1997_Popular_Sovereignty_as_Procedure.pdf">
+> "Voluntary associations represent the nodal  points  in  a  communication  network  that  emerges  from  the intermeshing of autonomous public spheres." <span class="citation" data-reading="GCYCSLUR=>p. 57" data-annotation="https://hyp.is/FWxeAtWsEe-XCgsK_YXWSQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Habermas_1997_Popular_Sovereignty_as_Procedure.pdf">
 
 This might look something like the following: 
 
@@ -239,11 +239,11 @@ Evidence of the power of the power of the voluntary associations, he suggests, c
 
 This un-official political culture is required in order for official deliberating bodies to do their work. 
 
-> "Naturally, even a proceduralized “popular sovereignty” of this sort cannot operate without the support of an accommodating political culture,  without  the  basic  attitudes,  mediated  by  tradition  and  socialization, of a population accustomed to political freedom: rational political will-formation cannot occur unless a rationalized life-world meets it halfway." <span class="citation" data-reading="GCYCSLUR=>p. 59" data-annotation="https://hyp.is/at58ePT_Ee6iQeu1mHo5ig/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Habermas_1997_Popular_Sovereignty_as_Procedure.pdf">
+> "Naturally, even a proceduralized “popular sovereignty” of this sort cannot operate without the support of an accommodating political culture,  without  the  basic  attitudes,  mediated  by  tradition  and  socialization, of a population accustomed to political freedom: rational political will-formation cannot occur unless a rationalized life-world meets it halfway." <span class="citation" data-reading="GCYCSLUR=>p. 59" data-annotation="https://hyp.is/FUptYNWsEe-BqRdfLFcr5w/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Habermas_1997_Popular_Sovereignty_as_Procedure.pdf">
 
 In sum: According to Habermas, then, critical to the health of a democracy is the health of the "public sphere". This network of voluntary associations is what ensures the independence of the official deliberating bodies, which in turn ensures that executive power is controlled by the sovereignty of the "rational will" of the people.
 
-Final note: While difficult to grasp, it seems important to note the idea that the public sphere "reproduces itself self-referentially" (p. 58). (Consider the [paragraph at the bottom of p. 58 and extending to page 59](https://hyp.is/zYl4SvUAEe6QtXO317bNTg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Habermas_1997_Popular_Sovereignty_as_Procedure.pdf).) Here I understand him to mean that the debating public, in their freedom to communicate opinions and beliefs is -- at the same that they are debating and arguing -- generating something shared; a shared consciousness of their participation in the public sphere and its generative power of the "General Will". 
+Final note: While difficult to grasp, it seems important to note the idea that the public sphere "reproduces itself self-referentially" (p. 58). (Consider the [paragraph at the bottom of p. 58 and extending to page 59](https://hyp.is/FS7vuNWsEe-NgxPTgE_98Q/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Habermas_1997_Popular_Sovereignty_as_Procedure.pdf).) Here I understand him to mean that the debating public, in their freedom to communicate opinions and beliefs is -- at the same that they are debating and arguing -- generating something shared; a shared consciousness of their participation in the public sphere and its generative power of the "General Will". 
 
 This seems important in relation to the thesis of Sunstein. Here the act of communication -- even if what is communicated is in conflict -- generates something common and collective (the kind of "shared experience" noted as critical by Sunstein). This also reminds one of McLuhan's thesis that the "medium" is much more important than the "message". The "message" may be one of disagreement, but its communication through a medium generates a sense of something "common". We should be attentive then to the communication platforms/architectures that allow this collective self-consciousness to emerge, and perhaps worry with Sunstein about the emergence of forms of communication where this salutary side-effect is not produced.
 
