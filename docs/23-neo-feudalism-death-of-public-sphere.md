@@ -194,17 +194,17 @@ In this image, we can see the danger. Habermas worries that the "administrative 
 {:.rquestion}
 How might Habermas's concerns be exacerbated now that the Post has be bought by Amazon CEO, Jeff Bezos? Could there be a more extreme example of private control over public debate?
 
-Other journalists, like Beverly Bandler from Consortium news, have likewise seen the Gary Webb saga as power example the power of mass media to determine what does or does not get discussed in the public sphere.
+Other journalists, like Beverly Bandler from Consortium news, have likewise seen the Gary Webb saga as powerful example of the ability of mass media to determine what does or does not get discussed in the public sphere.
 
 {:#the-concerted-effort-by}
 > "2) The concerted effort by U.S. major news media, specifically, the New York Times, Los Angeles Times and Washington Post to not only disparage the scandal but also discredit investigative reporter Gary Webb who, in 1996, revived the story by explaining the Contra cocaine’s impact on U.S. cities in the 1980s."
-<span class="citation" data-reading="5SZGHU55" data-annotation="https://hyp.is/BviYOPcvEe6txBf1gs5H6w/consortiumnews.com/2014/11/02/gary-webb-and-media-manipulation/">
+<span class="citation" data-reading="5SZGHU55" data-annotation="https://hyp.is/wWRg5NWgEe-HDQcZfxPPdQ/consortiumnews.com/2014/11/02/gary-webb-and-media-manipulation/">
 
 Gary Web's editor Dan Simon summarizes the saga as follows: 
 
 {:#the-mainstream-print-media}
 > “The mainstream print media was ominously silent until October and November 1996,” Simon continued, “when The New York Times, The Washington Post, and the Los Angeles Times all finally picked up the story. But instead of launching their own investigations into whether the CIA had shielded drug traffickers, these papers went after Gary’s reporting, although they ‘could not find a single significant factual error,’ as Gary’s then-editor at The Mercury News, Jerry Ceppos, would write in an internal memo.
-“But after that, the series was described frequently as ‘discredited.’ Soon the story and Gary himself were spoiled goods. Gary’s editor switched sides and penned an apologia distancing the paper from the series. Gary was forced out of his job, even though the body of evidence supporting Gary’s account was actually growing. Two years later, the CIA’s internal investigation would prove to be a vindication of Gary’s work.” <span class="citation" data-reading="5SZGHU55" data-annotation="https://hyp.is/P45nIvcvEe679O-DrK0P5Q/consortiumnews.com/2014/11/02/gary-webb-and-media-manipulation/">
+“But after that, the series was described frequently as ‘discredited.’ Soon the story and Gary himself were spoiled goods. Gary’s editor switched sides and penned an apologia distancing the paper from the series. Gary was forced out of his job, even though the body of evidence supporting Gary’s account was actually growing. Two years later, the CIA’s internal investigation would prove to be a vindication of Gary’s work.” <span class="citation" data-reading="5SZGHU55" data-annotation="https://hyp.is/wUdKStWgEe-s1N9yRxtmLQ/consortiumnews.com/2014/11/02/gary-webb-and-media-manipulation/">
 
 **Note** a particular insidious problem here: even to the tell the story of the Gary Webb saga one has to rely on sources. Sources like "consortium mews" or even the *Huffington Post* -- sources that see the story as an example of the power of mass media to silence independent news reporting -- are themselves typically also niche publications -- whereas major outlets like the Post and New York Times tend to be silent. (This makes sense sense: if the point here is that major news outlets need to be critiqued, one can hardly expect that these outlets will be eager to critique themselves.) But this creates a serious confidence problem for the general public. As the balance between niche publication and mass media publication grows, the problem of confidence and trust becomes more sinister and difficult to resolve. Niche publications are dismissed for being fringe; mass media publications grow more suspect because they seem invulnerable to critique.
 
