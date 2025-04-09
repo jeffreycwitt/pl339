@@ -3,8 +3,8 @@ layout: lecture
 title: "24: Internet as Savior of Deliberative Democracy"
 reading: ["AVLEG7M6", "MTNERR8X", "GA4JUQUP", "3Q53BL69", "QBW8YNIE"]
 nav_order: 24
-date: 2024-04-10
-published: false
+date: 2025-04-10
+published: true
 ---
 <!-- reading barlow, AVLEG7M6; shapiro c. 1: MTNERR8X; shapiro, c. 3 GA4JUQUP; c. 4: 3Q53BL69; c. 5: QBW8YNIE -->
 
@@ -60,7 +60,7 @@ Why is Barlow excited about the possibilities of cyberspace? What does he see of
 
 ## Information Revolution as Control Revolution: Chapters 1 and 3
 
-The Chapters 1 and 3 offer us a good overview of Shapiro's main thesis: that the Internet Revolution is actual a Control Revolution, and therein lies its strength. Shapiro writes:
+The Chapters 1 and 3 offer us a good overview of Shapiro's main thesis: that the Internet Revolution is actually a Control Revolution, and therein lies its strength. Shapiro writes:
 
 {:.what-they-suggest}
 > What they suggest is a potentially momentous transfer of power from large institutions to individuals. The real change set in motion by the Internet may, in fact, be a **control revolution**, a vast transformation in who governs information, experience, and resources. Increasingly, it seems that we will. <span class="citation" data-reading="MTNERR8X=>p. 10"/>
