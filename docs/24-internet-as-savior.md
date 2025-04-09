@@ -27,7 +27,7 @@ Throughout this argument there was an implicit assumption that "code/platform of
 
 It is not surprising then, that in Habermas's history of the "public sphere", the birth of the enlightenment coincides with a unique type of communications environment that thrived in late 18th and early 19th century: namely 1) through a highly diverse market of niche newspapers and periodicals in which no publisher was powerful enough to control the behavior of others and 2) and generally tolerant political regimes (administrative powers) were content to allow the speech of private individuals about public matters (Kant's "free public use of reason") to proceed unimpeded.
 
-But we have also seen that Habermas, the Frankfurt School, and Louw consider the middle of the 20th century to be a time of  decisive change in the communications landscape. The result of these changes was a system of communication that was no longer compatible with the idea of a public sphere and deliberative democracy. Thus, Habermas speaks of a "Neo-Feudalism" and Louw speaks of the "death of the public Sphere."
+But we have also seen that Habermas, the Frankfurt School, and Louw consider the middle of the 20th century to be a time of  decisive change in the communications landscape. The result of these changes was a system of communication that was no longer compatible with the idea of a public sphere and deliberative democracy. Thus, Habermas speaks of a "Neo-Feudalism" and Louw speaks of the "death of the Public Sphere."
 
 It is important to keep in mind that, in Habermas's view, the threat of against speech comes from **two directions**. Direct censorship through government regulation and private commercial control of communication channels that determine who has access to speech. 
 
