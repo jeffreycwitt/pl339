@@ -183,11 +183,11 @@ But as Mill notes, even if someone is 98% correct, deliberation that exposes som
 
 And further, if we are 100% correct, the 100% false antithesis still helps us understand the reasons behind our belief and the essential meaning of it.
 
-But sometime the notion of a middle doesn't really make much sense, especially when we move away from probabilities and move toward normative questions, "should" or "should not" statements. Here, the idea that the right thing to do is just halfway between two opposing beliefs doesn't make a lot of sense.
+But sometimes the notion of a middle doesn't really make much sense, especially when we move away from probabilities and move toward normative questions, "should" or "should not" statements. Here, the idea that the right thing to do is just halfway between two opposing beliefs doesn't make a lot of sense.
 
 Take for example, opposing positions on immigration. 
 
-Bob says, borders should be open; Sally says, borders should be closed. Is the rational policy merely: borders half open? I think not. What if the issue were civil rights and the opposing positions were, grant civil rights to marginalized communities or do not grant them? Is the rational answers, grant minority communities "half of the civil rights"? I think not.
+Bob says, borders should be open; Sally says, borders should be closed. Is the rational policy merely: borders half open? I think not. What if the issue were civil rights and the opposing positions were, grant civil rights to marginalized communities or do not grant them? Is the rational answer, grant minority communities "half of the civil rights"? I think not.
 
 Another way we might understand the importance of deliberation and the hearing of many voices (without attempting to "normalize" or "rationalize" manifestly false or even hateful opinions) can be found by looking back to Rousseau. 
 
