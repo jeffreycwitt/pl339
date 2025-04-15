@@ -73,7 +73,7 @@ In fact, if group formation is not "porous" to the "reverberating effects of del
 
 For free speech to result in positive deliberation/dialectic it has to come into open conflict.
 
-I like to think of that conflict producing a kind of reverberation that takes time to be received. Thus, if the speech platform (the technology of communication) hinders the reception of that "reverberation" (if it "clogs the pores" of a deliberative enclave) then speech will actual homogenize. And thus, though there may be quantitatively more speech, there will be qualitatively "less speech". In fact, this combination (high quantity, low quality) may create a distorting amplification of an individual voice (see our discussion "amplification" below.)
+I like to think of that conflict producing a kind of reverberation that takes time to be received. Thus, if the speech platform (the technology of communication) hinders the reception of that "reverberation" (if it "clogs the pores" of a deliberative enclave) then speech will actually homogenize. And thus, though there may be quantitatively more speech, there will be qualitatively "less speech". In fact, this combination (high quantity, low quality) may create a distorting amplification of an individual voice (see our discussion "amplification" below.)
 
 In these two chapters, I see Sunstein describing several different ways (along with many examples/studies) that the new modalities (e.g. the speed, scale, cost, discoverability, etc.) of digital media are "clogging the pores" of deliberative enclaves, making its members increasingly unable to hear the results of public deliberation, and consequently, constraining the speech of its own members.
 
