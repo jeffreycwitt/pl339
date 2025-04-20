@@ -3,8 +3,8 @@ layout: lecture
 title: "26: Regulated Free Speech"
 nav_order: 26
 reading: [8G46KY82, P8CTMFZT, "PIHI9TSZ=>c. 12"]
-date: 2024-04-22
-published: false
+date: 2025-04-22
+published: true
 ---
 <!-- Sunstein chapter 7, 8 -->
 
@@ -69,7 +69,7 @@ In the context of free speech this can be seen simply through the image of a gro
 
 As Hobbes noted, it is only when we are willing to give up our hopes for the **theoretically best** option ("the right to speak at any and all times") and accept the second best option ("take turns speaking") that we are able to get the **best actually realizable option**.
 
-In this regard, Sunstein and Lessig point out that government regulation has always been at work in order to make free speech possible. As Sunstein says: those that complain against regulation, are really just complaining about changes to the advantageous status quo that existing regulation has created. (Just a car drivers might complain that the imposition of a bike lane is undo government interference, while ignoring the fact that their entitlement to use an automobile on public streets is already the result of government "interference")
+In this regard, Sunstein and Lessig point out that government regulation has always been at work in order to make free speech possible. As Sunstein says: those that complain against regulation, are really just complaining about changes to the advantageous status quo that existing regulation has created. (Just a car drivers might complain that the imposition of a bike lane is undo government interference, while ignoring the fact that their entitlement to use an automobile on public streets is already the result of government "interference".)
 
 Sunstein also connects the appeal for de-regulation to an incoherent valuation of consumer sovereignty. This connection offers us one further chance to review. 
 
@@ -98,7 +98,7 @@ Thus in addition to thinking about regulation as a constraint, the constraint it
 
 After all, if someone is wealthy enough to buy a megaphone that would allow them to shout over others, this is a form of private regulation through market and code. 
 
-Government regulation that attempts to use code, market, norms, or law to give everyone, rich or poor, an equal opportunity to speak should strictly speaking **not** be seen as a **constraint** -- though it can often feel like one (e.g. "You are NOT allowed to use your megaphone"). On the contrary, such a government imposition is meant to be a protection of the maximal amount of freedom that all individuals can be possess in social context.
+Government regulation that attempts to use code, market, norms, or law to give everyone, rich or poor, an equal opportunity to speak should strictly speaking **not** be seen as a **constraint** -- though it can often feel like one (e.g. "You are NOT allowed to use your megaphone"). On the contrary, such a government imposition is meant to be a protection of the maximal amount of freedom that all individuals can possess in social context.
 
 
 # Sunstein: Advice for cautious regulators
@@ -174,7 +174,7 @@ What might a regulation policy with this kind of neutrality targeted at YouTube 
 What are some of the advantages of this position over the first two? Are there certain problems caused by forms of political speech on YouTube that the first two approaches would not be able to address?
 
 {:.rquestion}
-This third form is the most direct and efficient way to regulate speech? So why not always take this approach? What are some of its disadvantages? How do we know when it should be used and when it should not?
+This third form is the most direct and efficient way to regulate speech. So why not always take this approach? What are some of its disadvantages? How do we know when it should be used and when it should not?
 
 </div> 
 
@@ -196,7 +196,7 @@ Still trying to remain as concrete as possible, how might the government use "su
 
 In thinking about regulation, our minds turn most quickly to direct censorship and explicit punishment. Sunstein has already tried to push us to be more creative regulators by noting the power and flexibility that comes with subsidies. 
 
-Lessig is equally a pains to help us think about how regulators could affect the code, or how they could use market or norm pressures to indirectly affect the code, that would have a similar affect. 
+Lessig is equally at pains to help us think about how regulators could affect the code, or how they could use market or norm pressures to indirectly affect the code, that would have a similar affect. 
 
 In this chapter, Lessig discusses possible solutions to new problems of porn and spam in the digital age. His basic methodology is worth our attention -- in light of our final paper assignment -- because it illustrates the creative use of all four modalities of regulation to protect something valuable. 
 
