@@ -103,7 +103,7 @@ Government regulation that attempts to use code, market, norms, or law to give e
 
 # Sunstein: Advice for cautious regulators
 
-This idea of maintaining the **maximal** amount of freedom is a good transition. The regulator's solutions should not be heavy handed. They should attempt to "toe the line", that is find a solution that gives everyone as much freedom as possible without over privileging anyone. A heavy handed approach, may be easier and more efficient, but it creates new problems.
+This idea of maintaining the **maximal** amount of freedom is a good transition. The regulator's solutions should not be heavy handed. They should attempt to "toe the line", that is find a solution that gives everyone as much freedom as possible without over privileging anyone. A heavy handed approach may be easier and more efficient, but it creates new problems.
 
 In making the overall argument that we should be open to the idea that society is justified in regulating speech to promote the ends of deliberative democracy, Sunstein offers us some reminders of why it is important to be cautions regulators. 
 

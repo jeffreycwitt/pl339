@@ -4,7 +4,7 @@ title: "27: Regulation Proposals"
 nav_order: 27
 reading: [LPNNPZZI]
 date: 2024-04-24
-published: false
+published: true
 ---
 
 # Sunstein: Regulation Ideas
@@ -36,10 +36,10 @@ In preparation for class and our review session, consider the following bullet p
 * How do the big ideas of our previous units connect/relate to our discussion of media and deliberative democracy?
 * For example, ideas like:
   * The Medium is the Message
-  * The Living (oral culture) vs. the Dead (literary culture) 
+  * The Living, Dynamic (oral culture) vs. the Dead, Static (literary culture) 
     * What were some of the pros and cons, strengths and weakness of each culture according to Ong?
     * McLuhan sometimes refers to the electronic age as the second age of orality. Why?
-    * How does the dynamism of oral culture re-emerge in the digital age? 
+    * How does the **dynamism** of oral culture re-emerge in the digital age? 
     * Do we see some of the strengths of oral culture noted by Ong re-occurring?
     * Are we losing some of the strengths of literary culture noted by Ong?
   * Shannon's theory of information.
@@ -65,28 +65,32 @@ In preparation for class and our review session, consider the following bullet p
   * In what ways might the Internet of the 21st century be said to be at risk of returning to "Neo-Feudalism"?
 * The nature of regulation
   * Why does the Internet *seem* "less" regulable according to Lessig?
-  * WHy is the Internet actually (or potentially) quite regulable, and perhaps the most regulable communication system ever invented?
+  * Why is the Internet actually (or potentially) quite regulable, and perhaps the most regulable communication system ever invented?
   * What are the four modalities of regulation identified by Lessig?
   * How does regulation (in these different forms) function both as a constraint and as protection? 
-    * Consider here why Habermas would say the pursuit of consumer sovereignty alone is self-defeating. Why is consumer freedom/choice lost if it is not also regulated? 
+    * Consider here why Habermas would say the pursuit of consumer sovereignty alone is self-defeating. 
+    * Why is consumer freedom/choice lost if it is not also regulated? (In other words: why might regulation - which feels like a constraint - actually be a protection?
     * How does Hobbes express this idea?
 * The Daily Me: Filtering as a threat to deliberative democracy
   * What does Sunstein mean when he refers to the "Daily Me"?
   * Why is filtering information necessary and important?
     * (In fact, why does Shapiro think the Internet offers democracy better ways of filtering?) 
-  * How did old code constrain "filtering" in ways that were seemingly good for deliberative democracy?
+  * How did old (pre-digital) code constrain "filtering" in ways that were seemingly good for deliberative democracy?
   * Why might these constraints seem like "bugs", when they could actually be "features"?
-    * What are som examples?
+    * What are some of the general positives mentioned by Sunstein?
+    * What are some specific examples?
   * How have changes in the code removed the "bugs" or "friction" in the old code and thereby created potentially new problems for democracy? 
   * What is the difference between polarization and a deliberative enclave?
     * Why can the Internet's ability to foster group formation be seen as both a good and bad thing for deliberative democracy? 
     * What other factors determine when group formation is a benefit for deliberative democracy and when it is a threat?
       * What impact does the medium have on group polarization?
       * How might the medium contribute to cybercascades or "illusions of preponderance"? 
-      * How do the Podcast about Youtube illustrate this?
+      * How did the Podcast about Youtube illustrate this?
   * How can regulation be used to protect these features that were previously protected by the "imperfections" of the old code? 
-    * Why must a regulator be extra careful when regulating political speech? How would Habermas explain this concern?
-    * What are the different forms of neutrality that regulation can take with respect to speech? What are the pros and cons of these different approaches?
+    * Why must a regulator be extra careful when regulating political speech? 
+    * How would Habermas explain this concern?
+    * What are the different forms of neutrality that regulation can take with respect to speech? 
+    * What are the pros and cons of these different approaches?
   
 
 
